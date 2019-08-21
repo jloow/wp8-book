@@ -2,8 +2,8 @@
 title: "A guide of social management of new technology"
 author: 
  - "Joel Lööw"
- - "Jan Johansson"
  - "Erik Sundström"
+ - "Jan Johansson"
  - "Lisa Ringblom" 
  - "Lisa Öman"
  - "Camilla Grane"
@@ -13,7 +13,6 @@ site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook: default
-  #bookdown::pdf_book: default
 ---
 
 # Preface {-}
@@ -29,6 +28,6 @@ industries -- are not readily applicable. Therefore, this book seeks to
 adapt much of "uncontextualised" knowledge to the mining industry. To do
 so, we use the technologies of SIMS.
 
-## About the project
+## About the project {-}
 
-## About the authors
+## About the authors {-}
