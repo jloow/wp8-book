@@ -3,10 +3,10 @@ title: "A guide of social management of new technology"
 author: 
  - "Joel Lööw"
  - "Erik Sundström"
- - "Jan Johansson"
- - "Lisa Ringblom" 
  - "Lisa Öman"
  - "Camilla Grane"
+ - "Lisa Ringblom" 
+ - "Jan Johansson"
  - "Lena Abrahamsson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
