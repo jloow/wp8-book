@@ -30,4 +30,11 @@ so, we use the technologies of SIMS.
 
 ## About the project {-}
 
+The vision of SIMS is to create a long lasting impact on the way we test
+and demonstrate new technology and solutions for the mining industry.
+With a selected consortium ranging from mining companies, equipment and
+system suppliers to top-class universities, the SIMS project will boost
+development and innovation through joint activities aiming at
+creating Sustainable Intelligent Mining Systems.
+
 ## About the authors {-}
