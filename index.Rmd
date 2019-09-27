@@ -9,7 +9,8 @@ author:
  - "Jan Johansson"
  - "Lena Abrahamsson"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+bibliography: references.bib
+site: bookdown::bookdown_site # Needed?
 documentclass: book
 output:
   bookdown::gitbook: default
