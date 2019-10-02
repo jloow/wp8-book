@@ -10,6 +10,7 @@ author:
  - "Lena Abrahamsson"
 date: "`r Sys.Date()`"
 bibliography: references.bib
+link-citations: true
 site: bookdown::bookdown_site # Needed?
 documentclass: book
 output:
