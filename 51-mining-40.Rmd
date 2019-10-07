@@ -1,0 +1,103 @@
+# Mining 4.0 - Utopia or Dystopia
+
+In previous chapters, we have described various development
+opportunities for future mining work. Here we will try to summarize our
+experiences in two extremes, a negative dystopian development and a
+positive utopian. The two visions are read and illustrated on
+[[www.xxxvv]{.underline}](http://www.xxxvv). The chapter concludes with
+six recommendations on how to start shaping the future of Mining 4.0 on
+human terms
+
+How will Mining 4.0 affect tomorrow\'s mining work? There is no clear
+answer to that question. There is no inherent technological determinism
+in the development; it will depend on the choices that we make. It\'s up
+to us. The dystopian scenario gives this miserable picture:
+
+> *You have to be grateful that you even have a job. Most of the jobs
+> have disappeared, and the entire municipality is depopulated. There
+> are some qualified jobs located in the control center above ground,
+> but most of these jobs have moved to town and are carried out remotely
+> via the net. Some work is even done from India. It\'s not just an A
+> and B team anymore; we now also have a C team. What remains is mostly
+> maintenance work. We are wearing augmented-reality glasses and
+> carrying out tasks according to the instructions that we get from
+> central maintenance or a machine supplier. Sometimes we have to put on
+> an exo-skeleton* *if there is heavy lifting.*
+>
+> *But everything is not bad. The work is not as dangerous as before,
+> because we do not work at the front nowadays, and there are no diesel
+> vehicles anymore. Underground everything is automated, but of course
+> we must install the electricity and access points, and then you notice
+> that the company has reduced the ventilation. The blasting gases still
+> remain far into the shift and you can feel your heading getting
+> heavier as the day drags on. What I miss most is my workmates; we have
+> our mobile phones and tablets so that we can keep in touch with each
+> other, but it is not the same as when working with the boys.*
+
+The utopian vision becomes much more pleasant to accept:
+
+> *Most of the underground work is automated and no one works near the
+> front anymore. The production control takes place from a bright and
+> pleasant control room above ground. The routine monitoring work has
+> been automated; with AI you get a better stability in production. Our
+> professional role has been extended to include the entire value flow,
+> from mountain to customer. If we see an opportunity for improvement,
+> we can switch over to our digital twin to experiment and test the
+> outcome.It is always fun if you can trim the production; and then not
+> only financial measures apply, but also so-called green measures, such
+> as saving water or reducing greenhouse gas emissions. We are quite
+> proud that our company takes a great social responsibility, not only
+> for the environment but for a prosperous society that can offer a rich
+> social and cultural environment.*
+>
+> *When something goes wrong in the production, it is indicated in our
+> mobile phones and usually we can solve it with a few keystrokes. But
+> sometimes we have to go into a VR model and maybe direct a robot to a
+> crusher to break apart a boulder. If the error has not occurred
+> before, we sometimes have to go down into the mine to understand what
+> has happened. When we are forced to go down into the mine, we always
+> wear a safety vest with sensors so that one can follow where we are
+> and warn if any dangerous environmental factors appears, or if
+> something seems strange to our health.*
+>
+> *Last month my daughter even started working for the company. She is a
+> computer science major but works as much with my colleagues as she
+> does with a computer. For a long time, I thought I would be the last
+> miner in the family. It feels good to know that there will be a new
+> generation, and that young people have stopped moving away. It seems
+> the company's investments in the community, and insistence on training
+> and using locals, really payed off.*
+
+The scenarios are exaggerated but probable. Mining 4.0 can definitely
+represent a positive development, but there are many questions that must
+be cleared. Based on our experiences and and previous research, we want
+to bring forward six recommendations that can be considered as a
+beginning of a road map for developing Mining 4.0 on human terms:
+
+-   We need more ways of measuring success, ways that capture social
+    factors.
+
+-   Any reduction in the workforce must be managed with great
+    transparency and in close cooperation with the trade unions.
+
+-   All employees must be included in competence development; leave
+    nobody behind.
+
+-   Create a flat organization that empowers employees and encourages
+    their creativity.
+
+-   Handle privacy and integrity issues in close cooperation with the
+    trade unions and workers.
+
+-   Embed all changes in a context of great social responsibility
+
+It is important that the mining industry is active in creating Mining
+4.0, but we also know that it will take time and there will be many
+obstacles along the way. To succeed we must be vigilant and attentive to
+all aspect of modern mining -- future as well as past.
+
+## See also {-}
+
+\ @loow2019a
+
+\ @Loow2018b
