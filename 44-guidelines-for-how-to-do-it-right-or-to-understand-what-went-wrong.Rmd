@@ -1,0 +1,116 @@
+# Guidelines for how to do it right - or to understand what went wrong...
+
+This chapter provides guidelines, or statements to consider, when
+investing in new technology. These questions are meant to aid the
+organisation in the process towards technology that are effective,
+efficient and accepted from a user perspective. The guideline can also
+be used as a diagnostic tool to find out what went wrong if an
+investment fails to meet its promises.
+
+Although the intention (often) is good when introducing new technology
+in an organization, there is no guarantee that the intended users will
+accept and use the technology. Further, even though the technology is
+"right," people might not accept it [@zweig2002]. Hence, the
+technology must be complemented with human factors/social
+factors/psychological barriers... The best way to achieve a successful
+implementation of new technology is of course to proactively avoid
+making mistakes that can be thought of beforehand.
+
+Based on research introduced in previous chapters (see for example
+chater x and x) and on our experiences from the SIMS project and other
+similar projects, we have created a guideline consisting of questions
+that are good to ask before implementing new technology. The guidelines
+are based on the models: TAM, UTAUT and Beers theory of organizational
+change and other relevant research.
+
+## Perceived usefulness (Performance expectancy)
+
+-   The technology makes it easier to accomplish tasks more quickly.
+
+-   The technology makes it easier to do a good job.
+
+-   The technology improves safety at work.
+
+-   Overall, the technology is perceived as useful.
+
+## Perceived ease of use (Effort expectancy)
+
+-   The technology is easy to learn and remember how to use.
+
+-   The technology is easy to understand and interact with.
+
+-   The technology is flexible and possible to use for all workers.
+
+-   Overall, the technology is perceived as easy to use.
+
+## Inclusiveness
+
+-   The technology can be used independent of size and strength
+
+-   \...
+
+## Perceived ability (Self-efficacy)
+
+-   The users feel confident in how to use the technology.
+
+-   The users feel confident in that they will know how to use the
+    technology.
+
+## Perceived justice
+
+-   An uneven access to technology and information can be justified.
+
+-   The use of information provided by the technology is restricted
+
+-   How the information is used is clearly described
+
+## Social influence 
+
+-   The user groups are positive towards new technology.
+
+-   The user groups are positive towards changes at work.
+
+## Voluntariness of use
+
+-   *The technology is not compulsory to use, there are other ways.*
+
+-   *The technology is compulsory to use.*
+
+## Facilitating conditions
+
+-   The users have the competence needed to use the technology
+
+-   The users can get appropriate support if they do not know how to use
+    the technology
+
+-   The users can get appropriate support if the technology fails to
+    work
+
+-   The technology is compatible with other technologies or systems used
+    at the workplace.
+
+## Privacy concerns (Intrusiveness)
+
+-   
+
+## Perceived need for change
+
+-   The pre-existing technology is/was not satisfying.
+
+-   The workers were not satisfied with how it was before.
+
+-   There was an expressed need of new tools, functions or ways to work
+    that could be met or simplified with the technology.
+
+## The investment process
+
+-   Have a clear plan that clarifies who, what, when, where and how the
+    change should take place.
+
+-   The plan must be communicated to everybody in the organization.
+
+## Personal demands
+
+## Trust
+
+-   
