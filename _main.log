@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.6)  8 MAR 2020 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.6)  13 MAR 2020 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -375,7 +375,7 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@chunks=\count272
 \LT@p@ftn=\toks26
 )
-Class scrbook Info: longtable captions redefined on input line 46.
+Class scrbook Info: longtable captions redefined on input line 36.
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen149
@@ -428,27 +428,27 @@ LaTeX Warning: Label `tab:work-attr' multiply defined.
 )
 \openout1 = `_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-Package scrbase Info: activating english \contentsname on input line 82.
-Package scrbase Info: activating english \listfigurename on input line 82.
-Package scrbase Info: activating english \listtablename on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+Package scrbase Info: activating english \contentsname on input line 75.
+Package scrbase Info: activating english \listfigurename on input line 75.
+Package scrbase Info: activating english \listtablename on input line 75.
 \c@mv@tabular=\count279
 \c@mv@boldtabular=\count280
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -460,7 +460,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 82.
+Package hyperref Info: Link coloring OFF on input line 75.
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -470,29 +470,29 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count281
 )
-LaTeX Info: Redefining \ref on input line 82.
-LaTeX Info: Redefining \pageref on input line 82.
-LaTeX Info: Redefining \nameref on input line 82.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
-n input line 84.
+n input line 77.
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 84.
+(Font)              scaled to size 10.95pt on input line 77.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 84.
+(Font)              scaled to size 10.95pt on input line 77.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 84.
+(Font)              scaled to size 20.74pt on input line 77.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 84.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
+(Font)              scaled to size 14.4pt on input line 77.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
 
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
 
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -510,18 +510,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sl' in size <10.95> no
 t available
 (Font)              Font shape `T1/LinuxLibertineT-TLF/m/it' tried instead on i
-nput line 90.
+nput line 83.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 90.
+(Font)              scaled to size 10.95pt on input line 83.
 [4]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 94.
+(Font)              scaled to size 8.0pt on input line 87.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 95.
+(Font)              scaled to size 9.0pt on input line 88.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 95.
+(Font)              scaled to size 6.0pt on input line 88.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 105.
+(Font)              scaled to size 14.4pt on input line 98.
 [5
 
 
@@ -530,55 +530,52 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 
 ]
 chapter 1.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 122.
 [7] [8
 
 
 ]
 chapter 2.
 [9]
-<media/image1.png, id=155, 568.1225pt x 437.635pt>
+<media/image1.png, id=154, 568.1225pt x 437.635pt>
 File: media/image1.png Graphic file (type png)
 <use media/image1.png>
-Package pdftex.def Info: media/image1.png  used on input line 237.
+Package pdftex.def Info: media/image1.png  used on input line 232.
 (pdftex.def)             Requested size: 418.27151pt x 322.20209pt.
-<media/image2.png, id=160, 545.03625pt x 462.72874pt>
+<media/image2.png, id=159, 545.03625pt x 462.72874pt>
 File: media/image2.png Graphic file (type png)
 <use media/image2.png>
-Package pdftex.def Info: media/image2.png  used on input line 265.
+Package pdftex.def Info: media/image2.png  used on input line 260.
 (pdftex.def)             Requested size: 418.25708pt x 355.09486pt.
-[10] [11 <./media/image1.png>] [12 <./media/image2.png>]
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
- on input line 277.
+ on input line 272.
 (/home/joel/.TinyTeX/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 277.
-[13] [14
+(Font)              scaled to size 10.95pt on input line 272.
+[10] [11 <./media/image1.png>] [12 <./media/image2.png>] [13] [14
 
 
 ]
 chapter 3.
 [15]
-<media/risk-analysis.png, id=196, 2852.40656pt x 1479.27657pt>
+<media/risk-analysis.png, id=195, 2852.40656pt x 1479.27657pt>
 File: media/risk-analysis.png Graphic file (type png)
 <use media/risk-analysis.png>
-Package pdftex.def Info: media/risk-analysis.png  used on input line 404.
+Package pdftex.def Info: media/risk-analysis.png  used on input line 399.
 (pdftex.def)             Requested size: 418.2237pt x 216.89351pt.
-<media/risk-level-planning.png, id=200, 2852.40656pt x 1495.83844pt>
+<media/risk-level-planning.png, id=199, 2852.40656pt x 1495.83844pt>
 File: media/risk-level-planning.png Graphic file (type png)
 <use media/risk-level-planning.png>
-Package pdftex.def Info: media/risk-level-planning.png  used on input line 415.
+Package pdftex.def Info: media/risk-level-planning.png  used on input line 410.
 
 (pdftex.def)             Requested size: 418.2237pt x 219.32184pt.
-<media/risk-level-production.png, id=202, 2852.40656pt x 1279.78125pt>
+<media/risk-level-production.png, id=201, 2852.40656pt x 1279.78125pt>
 File: media/risk-level-production.png Graphic file (type png)
 <use media/risk-level-production.png>
 Package pdftex.def Info: media/risk-level-production.png  used on input line 42
-7.
+2.
 (pdftex.def)             Requested size: 418.2237pt x 187.64325pt.
 [16 <./media/risk-analysis.png>] [17 <./media/risk-level-planning.png> <./media
 /risk-level-production.png>] [18] [19] [20
@@ -596,15 +593,20 @@ chapter 5.
 
 ]
 chapter 6.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 803.
 [27] [28] [29] [30] [31] [32]
 chapter 7.
 [33
 
 
-] [34]
+]
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 1294.
-[35] [36
+(Font)              scaled to size 12.0pt on input line 1289.
+
+Underfull \vbox (badness 2980) has occurred while \output is active []
+
+[34] [35] [36
 
 
 ]
@@ -614,6 +616,9 @@ chapter 8.
 
 ]
 chapter 9.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 [39] [40] [41] [42
 
 
@@ -629,15 +634,9 @@ chapter 11.
 
 ]
 chapter 12.
-
-Underfull \hbox (badness 2368) in paragraph at lines 1775--1788
-\T1/LinuxLibertineT-TLF/m/n/10.95 centred pro-cesses, in-stead fol-low-ing more
- lin-ear pro-cesses with a technology-centred
- []
-
 File: media/image1.png Graphic file (type png)
 <use media/image1.png>
-Package pdftex.def Info: media/image1.png  used on input line 1810.
+Package pdftex.def Info: media/image1.png  used on input line 1805.
 (pdftex.def)             Requested size: 418.27151pt x 322.20209pt.
 [51] [52] [53] [54
 
@@ -658,27 +657,27 @@ chapter 15.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2414.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2409.
 [66]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2414.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2409.
 (./_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2414.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2414.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2409.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2409.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2414.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2409.
  ) 
 Here is how much of TeX's memory you used:
- 14875 strings out of 482913
- 241467 string characters out of 5959409
- 603145 words of memory out of 5000000
- 29695 multiletter control sequences out of 15000+600000
+ 14879 strings out of 482913
+ 241516 string characters out of 5959409
+ 603173 words of memory out of 5000000
+ 29699 multiletter control sequences out of 15000+600000
  605318 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 46i,8n,72p,10124b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/home/joel/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/h
-ome/joel/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/home/j
+ 46i,9n,72p,10124b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/joel/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/h
+ome/joel/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/home/j
 oel/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/home/joel/.
 TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/home/joel/.TinyT
 eX/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}</home/joel/.TinyTeX/te
@@ -686,7 +685,7 @@ xmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></home/joel/.TinyTeX/te
 xmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></home/joel/.TinyTeX/te
 xmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></home/joel/.TinyTeX/t
 exmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on _main.pdf (66 pages, 975471 bytes).
+Output written on _main.pdf (66 pages, 974919 bytes).
 PDF statistics:
  762 PDF objects out of 1000 (max. 8388607)
  675 compressed objects within 7 object streams

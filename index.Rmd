@@ -1,4 +1,5 @@
 ---
+# Bibliometry
 title: "A guide of social management of new technology"
 author: 
  - "Joel Lööw"
@@ -9,16 +10,22 @@ author:
  - "Jan Johansson"
  - "Lena Abrahamsson"
 date: "`r Sys.Date()`"
+
+# General settings
 bibliography: references.bib
 link-citations: true
-# site: bookdown::bookdown_site # Needed?
+
+# LaTeX settings
 documentclass: scrbook
+indent: true
 fontfamily: libertine
+
+# Output settings
 output:
   bookdown::gitbook:
-    md_extensions: +raw_html+raw_tex
+    includes:
+      in_header: preamble.html
   bookdown::pdf_book:
-    md_extensions: +raw_html+raw_tex
     includes:
       in_header: preamble.tex
 ---

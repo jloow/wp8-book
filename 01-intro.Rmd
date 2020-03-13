@@ -1,5 +1,9 @@
 # Introduction
 
-<!--author.start--> This is a new test <!--author.end-->
+```{block2, type='chap-auth'}
+Author One, Auhtor Two, Author Three
+```
+
+
 
 This is the introduction.
