@@ -4,5 +4,5 @@ view: https://github.com/jloow/wp8-book/blob/master/%s
 edit: https://github.com/jloow/wp8-book/edit/master/%s
 history: https://github.com/jloow/wp8-book/commits/master/%s
 github-repo: jloow/wp8-book
-download: ["pdf"]
+download: null
 ---
