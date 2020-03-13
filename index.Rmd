@@ -11,10 +11,16 @@ author:
 date: "`r Sys.Date()`"
 bibliography: references.bib
 link-citations: true
-site: bookdown::bookdown_site # Needed?
-documentclass: book
+# site: bookdown::bookdown_site # Needed?
+documentclass: scrbook
+fontfamily: libertine
 output:
-  bookdown::gitbook: default
+  bookdown::gitbook:
+    md_extensions: +raw_html+raw_tex
+  bookdown::pdf_book:
+    md_extensions: +raw_html+raw_tex
+    includes:
+      in_header: preamble.tex
 ---
 
 # Preface {-}
