@@ -1,0 +1,57 @@
+**8. Safe and attractive workplaces for contractor personnel**
+
+Magnus
+
+It is common practice in the contemporary mining industry to hire contractors to perform certain work tasks. This has led to the emergence of multi-employer worksites where workers from different companies are active in close proximity to each other. This poses specific challenges when it comes to health and safety and, by extension, work attractiveness. Workplace accidents, in particular, have historically been a problem in relation to outsourcing and contracting. Muzaffar et al. (2013) show that the odds for contractor employees sustaining a fatal injury while performing work in the US mining industry were almost three times higher compared to the mining companies' own personnel. In the Swedish mining industry, contractor workers have likewise regularly had higher accident rates in recent years (Svemin, 2010). The matter of certain groups of workers potentially having an increased risk of suffering accidents is important to address in its own right. However, it is also important to consider from the perspective of recruitment and ensuring work attractiveness.
+
+In a literature review of research on safety on multi-employer worksites, Nygren et al. (2017) propose that a number of key concepts and terms can be found and divided into three overlapping categories (figure 8.1).
+
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------+
+| **Category**                                      | **Key concepts and terms**                 |                                                      |
++===================================================+============================================+======================================================+
+| Contract work characteristics                     | -   High workload                          | -   Time constraints                                 |
+|                                                   |                                            |                                                      |
+|                                                   | -   Insufficient training                  | -   Temporary and/or peripheral work                 |
+|                                                   |                                            |                                                      |
+|                                                   | -   Low autonomy and task demand           | -   Unfamiliarity with work environment              |
+|                                                   |                                            |                                                      |
+|                                                   | -   Normalization of risk                  |                                                      |
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------+
+| Structural/ organizational factors and conditions | -   Communication barriers                 | -   Ineffective and insufficient information sharing |
+|                                                   |                                            |                                                      |
+|                                                   | -   Disorganization effects                | -   Unsthe tablesocial relations                        |
+|                                                   |                                            |                                                      |
+|                                                   | -   Substandard division of responsibility |                                                      |
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------+
+| Cultural conditions                               | -   Cultural integration difficulties      | -   Macho-masculine work culture                     |
+|                                                   |                                            |                                                      |
+|                                                   | -   Culture of independence                |                                                      |
+|                                                   |                                            |                                                      |
+|                                                   | -   Differing norms and values             |                                                      |
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------+
+|                                                   |                                            |                                                      |
++---------------------------------------------------+--------------------------------------------+------------------------------------------------------+
+
+Figure 8.1. Examples of key concepts and terms (Nygren et al., 2017).
+
+As seen, research on the subject mainly highlights the safety-related problems that arise when contractors are hired, rather than the benefits that multi-employer arrangements may bring. In line with Mayhew et al (1997), Nygren et al. (2017) argue that much of the problems can be connected to two main factors:
+
+1)  Economic pressures
+
+2)  Disorganization
+
+The first factor, *economic pressures*, highlights that contractors (and in particular smaller companies) may not invest in health and safety-related matters due to a lack of resources. This includes less systematized management practices as well as a lack of comprehensive safety education and training. The second factor, *disorganization*, focuses on the organizational conditions for safety. Multi-employer worksites are often characterized by complex contracting chains with contractors hiring other (sub)contractors, or multiple contractors being hired by a mining company for different projects. This can lead to unclear relationships between groups of workers, ambiguity in the organization of work, as well as a breakdown in communication and substandard division of management responsibilities.
+
+Given that mining companies are relying on contractors to a significant extent, the concept of work attractiveness should be expanded to also include the conditions that arise in multi-employer arrangements. The following points can be taken into consideration when aiming to increase safety in these types of work settings -- and, by extension, work attractiveness for contractor personnel:
+
+-   The mining company should make sure that the contractors have well-functioning health and safety management systems in place, including a clear division of roles and responsibilities.
+
+-   Safety education and training should be a prerequisite for conducting work in the industry, regardless of employer. This should also be documented in the form of, e.g., certificates of completed courses.
+
+-   The work needs to be scheduled carefully, include realistic time frames, and communicated clearly to everyone involved. This includes the mining company informing the contractors of any/all adjacent work by other companies that will be conducted simultaneously.
+
+-   Meetings should be organized where health and safety-related issues are discussed, as a way of encouraging that risks and hazards are shared between companies and between workers. The responsibility for organizing these meetings should lie on the party that owns and oversees the operation in question, i.e. representatives from the mining company itself.
+
+-   It should be possible for contractors to report safety-related incidents to the mining company's own safety database. It should also be possible to hand in observed risks and hazard manually through, e.g., specific "mail boxes" placed in and around the operations.
+
+-   Post-work evaluations should be performed of how health and safety issues have been handled by the contractors as well as by the mining company itself, including the communication and information sharing between the parties involved.

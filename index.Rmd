@@ -1,19 +1,9 @@
 ---
-# Bibliometry
-title: "A guide of social management of new technology"
-author: 
- - "Joel Lööw"
- - "Erik Sundström"
- - "Lisa Öman"
- - "Camilla Grane"
- - "Lisa Ringblom" 
- - "Jan Johansson"
- - "Lena Abrahamsson"
-date: "`r Sys.Date()`"
-
-# General settings
+date: "`r Sys.Date()`" # General settings bibliography: references.bib
 bibliography: references.bib
 link-citations: true
+csl: https://www.zotero.org/styles/springer-basic-brackets-no-et-al?source=1
+# csl: https://www.zotero.org/styles/springer-basic-note?source=1
 
 # LaTeX settings
 documentclass: scrbook
@@ -53,3 +43,8 @@ development and innovation through joint activities aiming at
 creating Sustainable Intelligent Mining Systems.
 
 ## About the authors {-}
+
+
+
+
+

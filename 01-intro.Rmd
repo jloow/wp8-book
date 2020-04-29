@@ -1,9 +1,0 @@
-# Introduction
-
-```{block2, type='chap-auth'}
-Author One, Auhtor Two, Author Three
-```
-
-
-
-This is the introduction.

@@ -1,0 +1,132 @@
+**4. What characterizes an attractive mining work?**
+
+Erik
+
+As mentioned in chapter 2, the mining industry has had difficulty with hiring people from younger generations and should as such look for ways to improve the attractiveness of mining workplaces. However, it is not so easy to know what characterizes an attractive mining work. We have chosen to use a general model which consists of 22 dimensions described by Åteg, Hedlund and Pontén (2004). In an effort to investigate if and how these aspects of attractive work could be applied to mining workplaces, Lööw, Johansson, Andersson, & Johansson (2019), examined the 22 dimensions and their relation to the mining industry. Below is a list describing each of the dimensions which includes descriptions of how they are best fulfilled and how mining workplaces are affected by and can affect the attractiveness of the workplace.
+
+**Attractive working conditions**
+
+-   *Adequate equipment and tools:* Modern equipment capable of providing good results efficiently and safely should be provided. Equipment should be designed to accommodate people of different sizes and with different needs.
+
+    -   The equipment in the mining industry has a history of having trouble accommodating the people that use them. With new technologies comes opportunities to design attractive equipment that accommodate both new and existing employees' needs.
+
+-   *Leadership:* There should exist proper trust, communication and cooperation between employees and management. Management should feel safe in letting the operators have more control over the planning and execution of work tasks and with letting them partake in decision-making. Employees should feel like they can safely give suggestions and voice concerns, while also trusting that management will take their needs into account when making changes.
+
+-   *Location:* It's important that the workplace is located close to home, that there is proper transportation to work and that the surrounding society is developed.
+
+    -   Mining companies cannot easily accommodate this aspect due to being bound by mineral deposits' locations. However, providing adequate transportation and housing, and investing in local societies, they can mitigate the negative effects on attractiveness.
+
+    -   While bringing in personnel through Fly in/Fly out-methods is an alternative, European mines generally try to avoid relying on them.
+
+-   *Loyalty:* Employees should be loyal to and be treated with loyalty from the company, their colleagues and across organisational boundaries by cooperating and making sacrifices for each other.
+
+    -   *Establishing trust is an important factor for promoting loyalty. Management must ensure that the employees can trust them to make decisions and changes that are designed with their needs in mind.*
+
+    -   *Another important factor is to provide transparency. Management should detail and explain how and why certain decisions are taken, which in turn helps build trust.*
+
+-   *Organisation:* A successful company can be more attractive, in addition to having low turnover, being in a good economic situation and providing advancement possibilities and benefits. The size of the organisation also affects the attractiveness, where smaller companies tend to be more attractive.
+
+    -   In modern mining companies, there is a trend amongst organizations to adapt something called Lean mining. It is meant to help rationalise and make their productions and organisations more effective by implementing Lean philosophies. It entails a focus on quality of infrastructure and safety, production uptime, flexible and multi-skilled workers, and teamwork.
+
+-   *Physical work environment:* Attractive locales should have nice appearances and furnishing, pollutant-free air, low sound levels and they should be clean.
+
+    -   The move towards control room work helps mitigate negative impacts by removing the operators from the potentially risky mining workplaces for much of the work.
+
+    -   Proper ventilation, noise protection and tunnels clear from debris is vital for a good work environment in a mine, even with more remote-controlled work.
+
+-   *Relations:* The employees need relations at the workplace that provide support and empathy, with good team spirit, camaraderie, cooperation, honesty and so on.
+
+    -   Future mining work provides good opportunities to develop good work relationships with your colleagues if team members work in the same control rooms.
+
+-   *Social contact:* The workplace allows for social interactions with other people, such as customers or colleagues.
+
+    -   With control room work, people can more easily speak with their colleagues face-to-face.
+
+    -   As mining work may sometimes require working alone, proper equipment for communication should be provided to avoid isolating operators.
+
+-   *Wage:* It is important that the wage provided is of a sufficient level, that it allows for people to support themselves and that it gradually increases.
+
+    -   Wages in mining workplaces are generally higher than average, which could contribute to attractiveness should other factors be addressed.
+
+    -   Wages shouldn't be based on produced results, both to provide a sthe tablewage and to promote healthier ways of working. This is due to piece rate wages having been shown to increase the risk for workplace accidents to occur as it leads to safety procedures being neglected to increase production rates.
+
+-   *Working hours:* Reasonable working hours that are predetermined and configurable can make a workplace more attractive. The employees should always know when they start and get off work while also being able to influence the scope, distribution over the week and plan vacations.
+
+    -   Mining usually relies on around-the-clock working hours. Setting up offices in larger cities that remotely control machines in the mines far away would access a larger employee base, making it easier to find people willing to accommodate these working hours.
+
+    -   Working in extended shifts of 10-12 hours is common in the mining industry, but it increases the risk for accidents to occur the longer the shift. As such, it should be avoided in favour of more standard working hours at around 8 hours per shift.
+
+**Attractive work content**
+
+-   *Familiarity:* The employee should know what to do and what to expect in the workplace. This requires proper training, access to work instructions and an incentive to utilize that information.
+
+    -   With the implementation of 5G in mines and a digitalization of work, it will become easier to communicate with others and access work instructions whenever needed, even when below ground.
+
+```{=html}
+<!-- -->
+```
+-   *Freedom of action:* The employees should be able to organize and control their own and others' work, for instance by influencing the planning and execution of work tasks.
+
+    -   Working from control rooms and with digitalized systems could give more opportunities for controlling one's work. For example, operators could more easily swap between and choose which machines in what parts of the mine to operate.
+
+    -   Freedom of action could also be provided by placing the lowest planning level on the work group level. Management would no longer need to create individual plans and schedules for each employee. Instead, the work groups would be provided with goals and missions after which they could plan their work accordingly, thus giving the work groups more control over their work.
+
+-   *Physical activity:* The workplace should allow and include healthy physical activity and movement to help prevent employees from suffering static work-related injuries or health problems.
+
+    -   After the automation, mechanisation and digitalization of the mining industry, there will still be physical activities available, for example through maintenance work. Having the operators alternate between these tasks and control room work would help vary the otherwise very static workplace.
+
+-   *Practical work:* The workplace should include practical and creative work tasks with handheld machines or tools to break from working only with computers or control systems.
+
+    -   This aspect can also benefit from including maintenance work to vary the control room work. Furthermore, since the new technologies will likely require adapting into the already complex mining systems of today, there will be opportunities for more creative work through retrofitting.
+
+-   *Mental work:* Work tasks or problem solving should include cognitive work in addition to physical work and should be performed cooperatively with colleagues and management. This should include workplace learning, development and training.
+
+    -   Control room work in mining industries offer many opportunities for mental work and brings groups of operators together to the same workplace.
+
+    -   A more digitalized organisation would enable easier communication and cooperation between groups that would otherwise rarely meet.
+
+-   *Variation:* Throughout the day, employees should be provided opportunities for job rotation, development of work tasks and flexibility in ways to perform the tasks. This is to prevent potential ergonomic and mental loads from working with the same tasks repeatedly.
+
+    -   While the remote-controlled mining workplaces may allow for rotating between work tasks, there might be less variation between tasks as they would all be controlled through computer systems in control rooms. Including maintenance work tasks could help introduce more variation in work content and working environments, making the job less monotonous.
+
+    -   Variation between work tasks require that the employees are trained in how to handle the different tasks.
+
+-   *Work pace:* The work pace should include both intensive and calm periods in order to engage people while also providing opportunities for rest and reflection.
+
+    -   Since the work pace in mining is continuous around the clock, there are few calm periods outside of assigned breaks. Introducing autonomous or semi-autonomous machines to the mining workplace would allow for more opportunities for calmer periods during the work. As an example, mining vehicles could autonomously drive to their destination, allowing the operator a short break from active work. The operator could then take control during more complicated or critical tasks once the vehicle has arrived.
+
+**Work satisfaction**
+
+-   *A demand for the person:* Workplaces where the employees feel like they are needed and that they perform important work are generally considered to be more attractive.
+
+    -   As the mining industry needs more skilful people and people from younger generations, those people may become more interested in the job if that demand can be communicated to them.
+
+        -   Potential ways to communicate the demand could include having a presence in mining-related educations to show students that they are in demand.
+
+    -   Existing employees could feel more appreciated if the importance of their knowledge and skillsets is made more apparent for them.
+
+-   *Recognition:* The employees should themselves feel that they have done a good job, in addition to being provided recognition for their work from management, colleagues or customers. Good performance should be rewarded according to the employee's subjective preference; perhaps through a monetary reward or through more time off.
+
+-   *Results:* The employees need to clearly understand what the results of their work is and how it contributes to the workplace.
+
+    -   The switch from operating the machines yourself to controlling them from a remote control room could cause some disconnect to their work for the employees.
+
+    -   Working from a control room with more digital systems provides a good opportunity to visualise and present the operators with an overview of the entire mine process.
+
+-   *Status:* The workplace contributes to and strengthens an employee's sense of pride, success and professional identity. Companies must communicate to their employees the value of their work and their knowledge.
+
+    -   The mining industry has had an image of heavy, tough and dirty but profithe tablework for a long time. The change towards more digital and remote work could impact that image, and in turn impact people's perception of the industry.
+
+    -   As many existing employees have established a sense of pride for working in the current mining industry, changing the way mines are operated might negatively affect the attractiveness of the job for them.
+
+    -   At the same time, moving towards the implementation of more modern technologies could make the industry more attractive towards younger generations of employees.
+
+-   *Stimulation:* The workplace provides an opportunity for the employees to put in effort and use their skills in their work. The work being too difficult can be demoralizing for them, while it being too easy can lower the employees' motivation.
+
+    -   The mining workplaces of today and of the future both provide opportunities for stimulating work, however they may be stimulating in different ways. A current employee may find future mining workplaces to be unstimulating, while future employees may find it opposite.
+
+    -   Regardless of what subjective views employees have of the work, they need to be provided with proper training and support if the work is difficult to them.
+
+While these dimensions cover many of the aspects that can affect the attractiveness of work, there is one important subject that remains largely unmentioned: gender. Creating workplaces that are attractive for and accommodate both men and women is important if the mining industry wants to address the issue of hiring younger people and skilful people. If not, the mining industry runs the risk of driving away many potential applicants that could have otherwise been interested.
+
+Even though mining workplaces have the potential to fulfil the dimensions of attractiveness, it could still be difficult to accommodate for each of these aspects at once. However, this doesn't mean that the workplace cannot be attractive if it only fulfils most or some aspects. What is important is that the parts of the workplace that negatively affect attractiveness are being compensated for through other positive aspects to ensure that the negative impact is lessened. For example, if heavy and ergonomically unhealthy tasks are unavoidable, supportive equipment and opportunities for rest in between can be used to lessen the negative impact. That way, an image of a safe and accessible workplace can better be conveyed and maintained.

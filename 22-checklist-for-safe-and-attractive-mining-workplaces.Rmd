@@ -1,0 +1,537 @@
+---
+title: '**22. Checklist for safe and attractive mining workplaces**'
+---
+
+While ensuring and creating safe and attractive mining workplaces is important, it's understandably not a simple task. There are many aspects, issues and questions that must be considered and addressed in order to achieve that goal, enough that it would be very difficult to try and address them all at once. Making wider, simpler analyses on the current state of a mining workplace, however, can still be useful. Identifying what areas of a mining workplace that can be changed to improve safety and attractiveness should be done to allow for early analysis and planning of actions. It's possible, however, that people become blind to the faults and needs for improvement in their working environment. This checklist aims to help highlight potential areas of improvement in a mining workplace that could make it a safer and more attractive workplace, without presenting in-depth solutions that may limit the decision-making process.
+
+The checklist can be freely downloaded from Lägg på bibliotekets server
+
+**Key categories for documentation**
+
+-   Name and/or location of the mine:
+
+  --
+  --
+
+-   Date of investigation:
+
+  --
+  --
+
+**\
+Safety and risks: General questions**
+
+-   Are there systems for documentation of incidents, risks and accidents available?
+
+> ☐ Yes ☐ No
+
+-   Are the employees motivated and encouraged to document and report incidents, risks and accidents?
+
+> ☐ Yes ☐ No
+
+-   Are reports anonymous?
+
+> ☐ Yes ☐ No
+
+-   Are managers and the organisation accepting of and welcome these reports?
+
+> ☐ Yes ☐ No
+
+-   *I.e. taking suggestions and warnings to heart, not getting defensive and/or accusatory towards the one reporting*
+
+```{=html}
+<!-- -->
+```
+-   Are reports of incidents, risks and accidents taken seriously by management?
+
+    -   Are reports of incidents and risks investigated?
+
+> ☐ Yes ☐ No
+
+-   Are reports of accidents followed up?
+
+> ☐ Yes ☐ No
+
+-   Are contractors motivated and encouraged to document and report incidents, risks and accidents to the organisation?
+
+> ☐ Yes ☐ No
+
+-   Are actions taken to address dangers and risks in contractor workplaces?
+
+> ☐ Yes ☐ No
+
+-   How are hazards most commonly handled?
+
+> ☐ 1. Hazards are eliminated by replacing them in the planning stages.
+>
+> ☐ 2. Hazards are isolated so that it can't reach individuals.
+>
+> ☐ 3. Change the way people work to reduce the effects and/or risks of hazards.
+>
+> ☐ 4. Hazards are encapsulated and limited through enclosures and physical protection.
+>
+> ☐ 5. People are isolated from the hazard zone through enclosures and physical protection around the individuals.
+>
+> ☐ 6. Risks are reduced through information and training on safe handling of and work with the hazard.
+>
+> ☐ 7. The effects of hazards on workers are mitigated with personal protective equipment.
+
+-   Are efforts being taken to move towards the higher levels of hazard control?
+
+> ☐ Yes ☐ No
+
+-   Is systematic safety work management practiced?
+
+> ☐ Yes ☐ No
+
+-   *I.e. systematic review of reports, analysis of risks and accidents, maintaining good safety practices etc.*
+
+**Safety and risks: Mining-specific questions**
+
+-   Are remote controlled vehicles used in the mine?
+
+> ☐ Yes ☐ No
+
+-   Are there work tasks where the miners work alone?
+
+> ☐ Yes ☐ No
+
+-   Do the employees take training courses in mine safety?
+
+> ☐ Yes ☐ No
+
+-   Is this training mandatory?
+
+> ☐ Yes ☐ No
+
+-   Is the training recurring?
+
+> ☐ Yes ☐ No
+
+-   Do the employees receive additional training if/when changes are made in the workplace?
+
+> ☐ Yes ☐ No
+
+-   Are the presences of the people in the mine registered?
+
+> ☐ Yes ☐ No
+
+-   *I.e. checking in/out when entering/exiting the mine in case of an accident/if the mine needs evacuating*
+
+```{=html}
+<!-- -->
+```
+-   Are employees educated in evacuation procedures in case of an accident?
+
+> ☐ Yes ☐ No
+
+-   Are contractors educated in evacuation procedures in case of an accident?
+
+> ☐ Yes ☐ No
+
+-   Who is evacuated during blasting?
+
+> ☐ Everyone in the mine
+>
+> ☐ People near the blasting zone
+
+-   Are there procedures for searching for duds after blasting?
+
+> ☐ Yes ☐ No
+
+**Safety and risks: Equipment and vehicles**
+
+-   Is standard safety equipment available to the miners?
+
+> ☐ Helmet ☐ Hi-vis clothing ☐ Ear protection
+>
+> ☐ Eye protection ☐ Work gloves ☐ Work boots
+>
+> ☐ Breathing mask ☐ Lamp/Light
+
+-   Do all employees wear/utilize the safety equipment?
+
+> ☐ Yes ☐ No
+
+-   Are the employees motivated/encouraged to utilize the safety equipment?
+
+> ☐ Yes ☐ No
+
+-   Do all contractors wear/utilize the safety equipment?
+
+> ☐ Yes ☐ No
+
+-   Are contractors motivated/encouraged to utilize the safety equipment?
+
+> ☐ Yes ☐ No
+
+-   Do the employees have ways to remotely communicate with others while working in the mine?
+
+> ☐ Yes ☐ No
+
+-   Are the employees' locations tracked?
+
+> ☐ Yes ☐ No
+
+-   Is it the equipment and the vehicles or the employees themselves that are tracked?
+
+> ☐ Equipment & vehicles ☐ Employees
+>
+> ☐ Both ☐ Not applicable
+
+-   Are contractors tracked?
+
+> ☐ Yes ☐ No
+
+-   Is this tracking restricted to inside the mine?
+
+> ☐ Yes ☐ No
+
+-   Is tracking restricted to be used during active work?
+
+> ☐ Yes ☐ No
+
+-   *I.e. tracking isn't used during breaks, office work etc.*
+
+```{=html}
+<!-- -->
+```
+-   Are the employees' health conditions monitored?
+
+> ☐ Yes ☐ No
+
+-   Are there regular safety test performed on the equipment and vehicles?
+
+> ☐ Yes ☐ No
+
+-   I.e. break tests, light tests etc.
+
+```{=html}
+<!-- -->
+```
+-   Are mining vehicles capable of protecting from rockfalls?
+
+> ☐ Yes ☐ No
+
+-   Are there safety routines and procedures for all work activities?
+
+> ☐ Yes ☐ No
+
+-   Are these routines followed by all employees?
+
+> ☐ Yes ☐ No
+
+-   Are these routines followed by all contractors?
+
+> ☐ Yes ☐ No
+
+-   How are employees motivated to follow safety routines?
+
+> ☐ Training
+>
+> ☐ Signs and information
+>
+> ☐ Reminders from others
+>
+> ☐ Not applicable
+
+-   Is the visibility in mining vehicles improved/compensated for in some way?
+
+> ☐ Cameras
+>
+> ☐ Proximity sensors
+>
+> ☐ Mirrors
+>
+> ☐ Other
+>
+> ☐ No
+
+**Ergonomics**
+
+-   Are mining vehicle interfaces designed to avoid uncomforthe tableworking positions?
+
+> ☐ Yes ☐ No
+
+-   Can the equipment and tools generally be adjusted according to the users' needs?
+
+> ☐ Yes ☐ No
+
+-   Are the seats and chairs adjustable?
+
+> ☐ Adjusthe tableseat height
+>
+> ☐ Adjusthe tableback support
+>
+> ☐ Adjusthe tablearm rest height
+
+-   Are the mining workplaces properly illuminated?
+
+> ☐ Yes ☐ No
+
+-   Are sufficient efforts taken to minimize employee exposure to vibrations?
+
+> ☐ Yes ☐ No
+
+-   Are sufficient efforts taken to minimize employee exposure to high noise and sound levels?
+
+> ☐ Yes ☐ No
+
+-   *The limit to safe average levels of exposure is 85 dB over 8 hours, anything higher and people may risk hearing damage*
+
+```{=html}
+<!-- -->
+```
+-   Are sufficient efforts taken to provide clean air in the mine workplaces?
+
+> ☐ Yes ☐ No
+
+-   *The limit to safe levels of diesel pollution is at 400 µm/m^3^ \[concentration\]*
+
+```{=html}
+<!-- -->
+```
+-   Are sufficient efforts taken to minimize employee exposure to potentially dangerous chemicals?
+
+> ☐ Yes ☐ No
+
+-   Are sufficient efforts taken to minimize employee exposure to dust?
+
+> ☐ Yes ☐ No
+
+-   *The limit to safe dust levels is 0,1 mg/m^3^ of air.*
+
+**Working hours**
+
+-   How long are work shifts generally?
+
+> ☐ \<8 hours ☐ 8 hours ☐ 10 hours ☐ \>10 hours
+
+-   Are there employees that often work shifts longer than 8 hours?
+
+> ☐ Yes ☐ No
+
+-   How common is overtime work?
+
+> ☐ Once or twice per month
+>
+> ☐ Once per week
+>
+> ☐ 2-3 shifts per week
+>
+> ☐ \>3 shifts per week
+
+-   Do employees work consistent shift times?
+
+> ☐ Yes ☐ No
+
+-   *I.e. would an employee consistently work evening shifts during a week, or would they vary between day/evening/night shifts in the same week?*
+
+```{=html}
+<!-- -->
+```
+-   Are night shifts restricted to a maximum of 8 hours per 24 hours?
+
+> ☐ Yes ☐ No\
+> ☐ Not applicable (No night shifts)
+
+-   *This is a restriction based on European parliament work directives.*
+
+**Employment-/working conditions**
+
+-   What are employee wages based upon?
+
+> ☐ Piece rate wage
+>
+> ☐ Hourly wage
+>
+> ☐ Fixed wage
+
+-   Does the work pace offer variation between intensive and calm periods?
+
+> ☐ Yes ☐ No
+
+-   *I.e. changing between more and less intense work tasks, or having recurrent breaks.*
+
+```{=html}
+<!-- -->
+```
+-   Is there variation between work tasks?
+
+> ☐ Yes ☐ No
+
+-   How often do/can employees swap between work tasks?
+
+> ☐ More often than every hour
+>
+> ☐ Every hour
+>
+> ☐ Every two hours
+>
+> ☐ Every four hours
+>
+> ☐ Every shift
+>
+> ☐ More infrequent than every shift
+
+-   Can employees choose whether to change work task or not?
+
+> ☐ Yes ☐ No
+
+-   Are there opportunities for variation between practical and mental work tasks?
+
+> ☐ Yes ☐ No
+
+-   Are miners involved in performing maintenance work tasks?
+
+> ☐ Yes ☐ No
+
+**Employee involvement and learning**
+
+-   Are mine workers included in the design and implementation process for changes, or are they otherwise involved in making changes?
+
+> ☐ Yes ☐ No
+
+-   Are workers properly recognised for performing well in their work?
+
+> ☐ Yes ☐ No
+
+-   Are the different working roles structured in a hierarchy?
+
+> ☐ Yes ☐ No
+
+-   *I.e. does every/most employees start with a specific role and advance to others depending on time worked/skill?*
+
+```{=html}
+<!-- -->
+```
+-   Can the employees take courses to develop their skills and their profession?
+
+> ☐ Yes ☐ No
+
+-   Are employees given opportunities to improvise and apply their skills in their work?
+
+> ☐ Yes ☐ No
+
+-   *I.e. take courses in mine safety to become a safety representative, or become certified to operate different equipment.*
+
+```{=html}
+<!-- -->
+```
+-   Does employee training involve senior employees?
+
+> ☐ Yes ☐ No
+
+-   *I.e. do younger/newer miners learn from older/more senior miners?*
+
+```{=html}
+<!-- -->
+```
+-   Do employees work with one/a few main task(s) or does their work involve changing work roles?
+
+> ☐ Main task/role ☐ Changing tasks/roles
+
+-   *I.e. would an employee only work as a "driller" or will they on some days work with bolting or material handling?*
+
+```{=html}
+<!-- -->
+```
+-   If employees have a main role/main tasks, are they trained in other tasks and roles?
+
+> ☐ Yes ☐ No
+
+-   *I.e. do they possess general competence of the work tasks in their working environment?*
+
+```{=html}
+<!-- -->
+```
+-   At what organisational level is the planning level?
+
+> ☐ Organisational
+>
+> ☐ Department
+>
+> ☐ Work groups
+>
+> ☐ Individual
+
+**\
+**
+
+**Social aspects**
+
+-   Is there proper trust, communication and cooperation between employees and management?
+
+> ☐ Yes ☐ No
+
+-   Are employees given opportunities to socialise with their co-workers?
+
+> ☐ Yes ☐ No
+
+-   Does the mine interact with and support the local community?
+
+> ☐ Yes ☐ No
+
+-   In what way?
+
+> ☐ Public transportation
+>
+> ☐ Housing
+>
+> ☐ Infrastructure
+>
+> ☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Social aspects: Gender equality**
+
+-   Have there been issues or problems exclusively affecting people of one gender?
+
+> ☐ Yes ☐ No
+
+-   Have these issues been addressed?
+
+> ☐ Yes ☐ No
+
+-   Have there been cases of gender-based harassment?
+
+> ☐ Yes ☐ No
+
+-   Do the workplace facilities accommodate both men and women?
+
+> ☐ Yes ☐ No
+
+-   *I.e. are there bathrooms and changing rooms for both?*
+
+```{=html}
+<!-- -->
+```
+-   Are there certain work tasks that are considered gendered?
+
+> ☐ Yes ☐ No
+
+-   Give examples of gendered work tasks:
+
+  --
+  --
+
+-   *I.e. are some work tasks considered a "man's job" and others are "women's' work"?*
+
+**\
+**
+
+**Environmental aspects**
+
+-   Are efforts made to reduce emissions?
+
+> ☐ Yes ☐ No
+
+-   Give examples of efforts made to reduce emissions:
+
+  --
+  --
+
+-   Are efforts made to minimize the effect on the local environment?
+
+> ☐ Yes ☐ No
+
+-   Give examples of efforts made to minimize effects on the local environment:

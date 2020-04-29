@@ -1,0 +1,81 @@
+**21. More research is needed**
+
+Jan Johansson, Lena Abrahamsson
+
+Future efficient mining operations will be dependent upon a highly competent and well motivated work force, on all levels. The mining companies will have to recruit their personnel from a limited group of talented individuals with high demands and expectations on future work. To cope with the future labour supply, the mining industry must change the image of mining work and increase the attractiveness of working in the sector, especially for young women and men.
+
+We know a lot about what creates an attractive job, but we don\'t know everything. It is important that the mining industry keeps up with this quest for knowledge, the world is changing and new knowledge is required. The winners are the ones who apply the knowledge quickly and translate it into practice.
+
+Below we describe a number of activities required in order to attract and keep skilled personnel in the future mining industry. To achieve this, we have identified six areas that need further clarification through research:
+
+-   Digitalization opens up for new opportunities to create attractive workplaces in a safe environment, and jobs that provide space for the employee\'s full expertise and creativity. But there are also risks that need to be addressed, such as privacy issues, increased stress and work-life boundaries.
+
+-   With the increased digitization, new qualifications are needed. These must be identified and programmes for reskilling and lifelong learning must be formed.
+
+-   Research on health and safety has been successful, but the industry still needs innovative methods to control health and safety-related issues. To be perceived as a safe industry, a zero vision is required based on better proactive safety work.
+
+-   Health and safety conditions for contractors must be explored and more inclusive safety cultures must be developed.
+
+-   Companies must be proactive and try to avoid creating problems in the first place. This is especially important in mining where initial mistakes can have consequences for a very long time.
+
+-   Finally, to develop a holistic concept for the attractive mine that can attract young people.
+
+Research must work with these issues from different time perspectives. The long-term vision is the zero-entry mine where all machines are self-regulated or remote-controlled from operations centres above ground. These centres are designed to promote co-operation and creative problem solving in multi-skilled teams of men and women. Basic safety level is not an issue anymore: dangerous work tasks are performed by robots.
+
+In a shorter perspective, many workers remain underground. Here, there are new methods for iterative mine planning that take work environment and safety into account and reduce common initial design errors when mines are planned; production is organised through a holistic approach based on production teams and broad professional skills among management and miners; mining work has been transformed into being attractive to both women and men, not only because of the wages, but also because it is an interesting occupation with good potential for personal and professional development and lifelong learning in a safe and sound working environment. Still, a number of issues of attractive workplaces should be considered in future research and innovation as well; the most important are addressed below.
+
+First, digitisation and its effects have an obvious place in a future research agenda. Used correctly, digitalisation can create attractive jobs that provide space for the employee\'s full expertise and creativity. But there are also risks which need to be analysed and considered. Furthermore, competence development, learning at work etc. should be prioritized. These topics are vital in order to meet the demands of new technology and can guarantee flexibility for the company and development in one's professional role. Important focus areas for research are:
+
+-   How can the new roles of the operators (i.e. "Operator 4.0") meet the values and expectations that young women and men have when they enter work life?
+
+-   How should digitised production systems address privacy issues?
+
+-   How to gain acceptance and avoid resistance for new technology?
+
+There is a need for new methods for learning at work, something both employers and employees want. To guarantee development in one's professional role and inhibit becoming stuck in the demands of a special task requires a certain degree of generalness in competence development. Broad work roles are a classic demand that can also be combined with the ideas behind Lean mining. The industry has a general need to recruit more women. Important focus areas for research are:
+
+-   Identification of future skills requirements.
+
+-   Development of new education programmes for reskilling and competence development of management and workers as part of a lifelong learning.
+
+-   Develop a strategy for recruiting more women.
+
+-   Develop a mentor system for miners so that professional knowledge is transferred between generations.
+
+-   Develop VR and AR for training and simulation, particularly the operations in hazardous environments.
+
+Health and safety at work must have top priority. Mechanisation, remote control and automation are efficient preventive safety measures. They are also appropriate for reducing workload to avoid musculoskeletal injuries and allow for recovery periods. New technology makes it possible to both warn of dangerous working conditions and monitor employees\' health conditions in real time. Improved safety is also a matter of a developed safety climate in the form of relevant education, rules and effective leadership, with safety prioritised in the day-to-day-work. In short, there is a need for further development of:
+
+-   How we can increase safety by monitoring the operators in real time?
+
+-   New methods for monitoring and controlling the work environment.
+
+-   Efficient tools for proactive safety control, as well as broader analyses of the impact of digitalization on health and safety in general.
+
+-   Upgraded safety climate.
+
+Moreover, the increased number of contractors must be addressed. Focus should be on the benefits and potential problems that come from a workforce of in-house personnel and contractors. This includes strengthening both formal (e.g. implementing joint safety management practices) and informal (e.g. communication and interaction in the workplace) relations in multi-employer worksites. Important issues in this area include:
+
+-   Reviews of the health and safety conditions for contractors in mining
+
+-   The development a safety culture that includes contractor.
+
+Many problems in the work environment in present mines (and in other industry as well) can be traced back to insufficient initial physical planning and design. Since mining is characterized by huge investments and long term operations it is very important with a well designed physical production system. The physical layout also influences and limits the organizational aspects. If initial mistakes are made the personnel will have to stand the negative consequences for many years to come. The initial design phases of every major development project are therefore critical for establishing a safe and attractive physical and psycho-social work environment in a mine.
+
+The main idea and research task in this challenge is to combine and further develop a general iterative industrial planning and design method (Ranhagen, 1995) with available and relevant work environment tools and combine them with the demands of the new technology. The final product, that is planning guidelines with focus on work environment design in underground mines, shall be adapted to the users (pre-study engineers, feasibility engineers, project planners, automation engineers, layout planners, ventilation planners etc.) needs and professional situation. Such guidelines, preferably integrated with CAD-planning and design tools, would help these professional to create more safe and attractive future workplaces in the mines.
+
+Designers of mine productions systems also have quite a lot of legislation and compulsory provisions to regard as well as company specific rules and standards for the work environment and the management of health and safety (Johansson and Johansson, 2008). These aspects must also be integrated in the guidelines for work environment planning and design. The major research task can be described as:
+
+-   Development of alternative guidelines for early and critical stages of future mine design.
+
+Finally, although the traditional image of mining is not particularly attractive and the industry still has health and safety issues that need to be considered, we think that it is possible to create a new vision of future mining - a vision of a high technology industry that speaks to today\'s young people. Mining companies must more actively demonstrate their social responsibility. Employees want to feel proud to work in the company, which means that issues such as vision, mission and core values are important. If we manage these problems well, they can be turned into advantages that create new, attractive job roles. All these factors affect the company\'s image, and thus the possibility of recruiting young talented people to the industry. Overall, broader strategic research areas should include matters related to
+
+-   the development of a holistic concept for the zero entry mine;
+
+-   the development of efficient programmes for development of attractive societies;
+
+-   **the development of a m**odel for an ethical, ecological and diverse workplace and recognised as a green branch; and
+
+-   give the industry a new image that can attract young people.
+
+The mining industry must be prepared to meet the technological development on human terms. In a longer perspective, this can lead to the recognition of the mining industry as an ethical, ecological and diverse industry that can offer challenging jobs and attractive workplaces.

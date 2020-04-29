@@ -1,0 +1,1 @@
+- [ ] Fix a cover image (use `cover-image` in `_bookdown.yml`)
