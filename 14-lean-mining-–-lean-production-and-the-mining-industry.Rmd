@@ -1,0 +1,103 @@
+# Lean mining -- lean production and the mining industry# 
+
+```{block, type='chap-auth'}
+`Joel Lööw and Jan Johansson`
+```
+
+Lean production is a management concept that originated in the Japanese car manufacturing industry. It spread quickly around the world and to other industries, as it managed to outperform other production approaches. Today, almost every industry practices some variant of lean production, but not the mining industry. Rather, the mining industry has not developed its own variant of lean production, while most other industries have.
+
+We think that the mining industry could be helped by practising some variant of lean production. We thus want to take this opportunity to introduce the concept of lean mining, i.e., lean production in the mining industry.
+
+You might have heard of terms such as "mean production". This term refers to very hard implementations of lean production, in which workers are treated similar to machines. However, there are other, "softer" variants of lean production. In these versions, workers are empowered alongside improving production. It is these versions that we want to introduce to the mining industry. Additionally, it seems that these versions may be the only ones that will work in mining.
+
+## What is lean production?
+
+To discuss lean production, we first need to understand what it is. Defining it is not easy. Many disagree about what parts actually constitute lean production. To paint our picture, instead at looking at one book or theory of lean production, we will depart from research that has tried to summarize the most salient points of most management studies on lean production. There are so many versions and few ways of telling which version is correct. Thus, we obtain a broader overview.[^146] 
+
+[^146]: There is also research on how lean production is actually practiced in organizations. We will not use this research, as when most people are introduced to lean, it is through the management literature.
+
+According to Lyons et al. (2013), lean production comes down to four principles:
+
+-   Alignment of production with demand
+-   Elimination of waste
+-   Integration of suppliers
+-   Creative involvement of the workforce
+
+These principles in turn consist of practices.
+
+The **alignment of production with demand** deals with production. The idea is essentially that products should be manufactured on demand instead of being "pushed" through production. Production is "pulled" based on the demand of customers. A customer can be internal (e.g., other workstations) or external (e.g., people or companies buying the product). Production should start only in response to demand from a downstream customer. Thus, the demand of the customer sets the rate of production. This approach requires that production rates can be varied and are flexible. Another way of thinking about it is that lean production seems to establish a "flow". All the principles covered here relate to this approach in one way or another.
+
+The **elimination of waste** is probably the most recognizable principle of lean production and perhaps the most central concept. Lean production talks of eight wastes:
+
+-   Overproduction
+-   Waiting times
+-   Unnecessary transportation
+-   Unnecessary processing or reworking
+-   Inventories (e.g., intermediate storage)
+-   Useless motions
+-   Scrap, repairs and inspections
+-   Unused employee creativity
+
+To many, the main purpose of lean production is to eliminate (or reduce) waste. In this process, standards are central, for example, to provide instruction on how to best perform a procedure with as little waste as possible. They are also needed for evaluations (i.e., to determine whether the task, production technology, or perhaps even the whole flow needs to be modified).
+
+Other tools for waste elimination include systems that prevent faulty products from continuing in the production process. For example, each worker is trained to recognize and control potential defects. Quality can also be ensured with the help of poka-yoke (meaning roughly "mistake proofing") by designing technology and tools so that it is impossible to make mistakes in positioning, number of operations, operations sequence, and so on.
+
+Total productive maintenance (TPM) is another tool. It involves employees' continuously making small improvements and performing preventative maintenance to create disruption-free production; everyone learns how to clean, inspect and maintain equipment. Similarly, 5S is a tool with the objective of engaging every employee in all aspects of production and, with orderliness, creating an efficient and conducive workplace.
+
+The **integration of suppliers** means supporting suppliers in their effort in adapting lean production, such as assisting in solving problems and improving performance. One goal of this approach is for deliveries to be just-in-time, i.e., that deliveries should arrive exactly as they are needed in production. The suppliers, similar to the ordering company, have to be flexible, with the ability to quickly respond to changing demands. The aim is to develop long-term contracts and relations.
+
+The last principle is the **creative involvement of the workforce**. In many respects, this principle concerns avoiding the eighth waste, i.e., unused employee creativity. However, it also addresses developing and training the workforce and improving the working environment. Thus, work should be organized in multifunctional teams, with no one worker assigned to a single task. Instead, each member of a team should be capable of doing the tasks of the other team members, thus making the teams less sensitive to disruptions and allowing workers to rotate between tasks and develop their competences. Workforce problem solving is another part of creative workforce involvement. Kaizen, or continuous improvements, is a central concept reflecting the idea that organizations should continuously strive to improve on every last detail (e.g., to develop existing, stable and standardized processes in small steps). This approach has to be worker-driven; the workers possess the knowledge of the manufacturing process and its shortcomings.
+
+## Envisioning lean mining
+
+What, then, might lean mining look like? It is not enough to "copy" lean production to mining (this approach usually leads to failed lean production implementations). Instead, we must find a form of lean production that is right for the mining industry. Moreover, we should not become too focussed on individual practices. This approach has been tried in the past, and it usually does not work. Therefore, we should look at the goals of lean production, and then the practices---*any* practices---that can achieve these goals.
+
+Given the central role of waste, we could start with it or rather with its opposite, i.e., value. Waste, being a general concept, is directly applicable to the mining industry. In traditional lean production, value is anything a customer is willing to pay for, such that its inclusion in a product makes the customer willing to accept a higher price. This value can be specific features but also quality. However, the nature of mining operations---usually being huge operations with large societal and environmental impact---requires us to expand what we mean by value. Wijaya, Kumar, and Kumar (2009) have in this manner argued that mining companies have several *indirect* customers, such as society, government and the media.
+
+The point here is that "value" should reflect what these stakeholders hold as important. For example, we can imagine sustainability as such a stakeholder value. A mining operation then only provides value if it produces ore *and* does so in a sustainable manner. Removing waste is then also a question of removing unsustainable practices.[^675] 
+
+[^675]: This approach may require us to extend the categories of waste, but at least for sustainability (be it social or environmental), the original categories can be used. Other researchers have looked more into this approach. Winkel et al. (2015) for example have tried to combine lean production and ergonomic interventions. Kurdve (2014) has tried to conceptualize "green" lean.
+
+In the past (Lööw 2018), we have looked at which practices of lean production the mining industry use (both as a part of and outside of lean production). Our thinking is that we can look at these practices to obtain a picture of what may be suitable for the industry. The most common practices we found were the following:
+
+-   TPM
+-   Cross training
+-   Employee involvement
+-   Team organization
+-   Continuous improvements
+-   Standardization
+-   Supplier involvement
+
+The above is just a selection of all practices and principles of lean production. However, they are interesting. For example, this set of ideas is quite rare when compared with other industries. It seems that in mining, having competent and multiskilled employees is more important than in other sectors. Some have argued that this relationship exists because the complex mining environment makes it hard to rely on standard solutions. Instead, the miners must use their skill and knowledge to solve problems. Possibly because of this need, cross training, employee involvement and continuous improvements are more common.
+
+Historically, mines have often used team organization, again, because the complexities of mining. With limited communication, for example, and long trips to and from the front, it is hard to have centralized planning and decision making. Therefore, teams of workers have to fill this role. Similarly, with TPM, it is expensive to move machines from the front to workshops. Indeed, competent workers are needed to ensure TPM works at all.
+
+We then have standardization. This idea might stand out, as we claimed standardization is hard in mining. However, many mines use standard operating procedures. Perhaps we can understand these procedures as providing certainty in uncertain contexts. This point is certainly true for safety procedures. (In mining, it has been argued that quality is a matter of safety. Standards are often used to ensure quality.) We do not see standards as replacing the multiskilled miner. Nor does it seem likely that standards can succeed without the active involvement of the miner in their development.
+
+Finally, regarding supplier integration, many mining companies use contractors in their operations. We are thus not talking about suppliers in the traditional sense. However, we argue we should view contractors as suppliers. Moreover, it makes sense to integrate them into mining operations. Depending on what work the contractors perform, they may fill a very central role. (They may, for example, handle all transportation of ore in a mine.) We can then argue that supplier integration is absolutely necessary for mining operations to run smoothly. This point is particularly true for safety.
+
+## Lean mining and social management of technology
+
+The last question that we must answer in this chapter is, How does lean mining relate to the social management of new technology? We have to answer this question in stages.
+
+Lean production wants to establish a flow and maximize value (or eliminate waste). The lean mining ideas help to contribute to this result. For example, for flow to be possible, machines need to be available when they are needed, which is only possible if operators are trained so that they can handle repair in addition to operating machines, planning, and so on. This skillset is too much to ask of a single operator, so teams are required. These broad responsibilities mean operators come to deeply know the mine. This experience can be used to continuously improve operations. This experience can also be incorporated into standards so that others can learn from these experiences. Such standards can also help familiarize groups such as contractors with the specific mining operations.
+
+This approach ultimately places certain requirements on technology:
+
+-   Technology must allow for teamwork.
+-   It must be possible to modify technology to continuously improve it.
+-   It must be possible for operators to repair and maintain the technology.
+-   Technology must be intuitive enough that it can be safely interacted with by groups such as contractors; in other words, standards are essentially enough to describe its rudimentary operations.
+
+**References**
+
+Kurdve, Martin. 2014. "Development of Collaborative Green Lean Production Systems." PhD thesis, Eskilstuna/Västerås.
+
+Lööw, Joel. 2018. "An Investigation into Lean Production Practice in Mining." *International Journal of Lean Six Sigma* 10 (1): 123--42. <https://doi.org/10.1108/IJLSS-07-2017-0085>.
+
+Lyons, Andrew Charles, Keith Vidamour, Rakesh Jain, and Michael Sutherland. 2013. "Developing an Understanding of Lean Thinking in Process Industries." *Production Planning & Control* 24 (6): 475--94. [https://doi.org/10.1080/09537287.2011.633576; 05 10.1080/09537287.2011.633576](https://doi.org/10.1080/09537287.2011.633576; 05 10.1080/09537287.2011.633576).
+
+Wijaya, A R, R Kumar, and U Kumar. 2009. "Implementing Lean Principle into Mining Industry - Issues and Challenges." Edited by R K Singhal. Reading Matrix Inc.
+
+Winkel, Jörgen, Kasper Edwards, Birna Dröfn Birgisdóttir, and Sigrún Gunnarsdóttir. 2015. "Facilitating and Inhibiting Factors in Change Processes Based on the Lean Tool 'Value Stream Mapping': An Exploratory Case Study at Hospital Wards." *International Journal of Human* Factors and Ergonomics 3 (3): 291. <https://doi.org/10.1504/IJHFE.2015.073000>.
+

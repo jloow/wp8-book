@@ -1,0 +1,77 @@
+# Attracting young people to the mining industry # 
+
+```{block, type='chap-auth'}
+Jan Johansson, Bo Johansson, Joel Lööw, Magnus Nygren and Lena Abrahamsson
+```
+
+In most mines, the present workforce is ageing, and mining companies have difficulties recruiting young talented people. A precondition for being able to recruit the right workforce is that the mining industry can offer workplaces that attract the youths of tomorrow. To succeed, the mining companies need to know what in fact constitute attractive jobs and workplaces in mining and how they can change their own present operations to align with these requirements. These changes need to be based on current and relevant research on work attractiveness. However, labour supply is determined not only by the work itself and the working environment but also as much by the society and what it can offer its members. Several factors affect the attractiveness of society, such as social relations with family, friends and relatives, and opportunities regarding work and education, housing and leisure activities. These factors must also be considered when creating the mines of the future.
+
+Unfortunately, there is no single accepted definition of what constitutes an attractive job, and current explanations and models differ. While pay and the possibilities of advancement are two general factors, answers have varied in, for example, different time periods and fields of research. It follows that what is attractive also differs between countries, since the general contexts and individuals differ.
+
+A general model for attractive work is presented by Åteg et al. (2004). In this model, three factors, covering 22 dimensions (see @tbl:table41), interact and contribute to the attractiveness of work. For a detailed description of the various dimensions, see chapter 3. In comparison with previous, similar models, Åteg et al. have added work satisfaction as a factor. This factor is especially important for keeping people at work, Åteg et al. argue.
+
+ :  Work attractiveness {#tbl:table41}
+
++-----------------------------------+-----------------------------+-----------------------+
+| **Attractive working conditions** | **Attractive work content** | **Work satisfaction** |
++-----------------------------------+-----------------------------+-----------------------+
+| Adequate equipment and tools      | Work pace                   | Demand, need          |
+|                                   |                             |                       |
+| Working hours                     | Familiarity                 | Recognition           |
+|                                   |                             |                       |
+| Physical work environment         | Physical activity           | Status                |
+|                                   |                             |                       |
+| Leadership                        | Freedom to act              | Stimulation           |
+|                                   |                             |                       |
+| Loyalty                           | Practical work              | Results               |
+|                                   |                             |                       |
+| Location                          | Theoretical work            |                       |
+|                                   |                             |                       |
+| Wage                              | Variation                   |                       |
+|                                   |                             |                       |
+| Organization                      |                             |                       |
+|                                   |                             |                       |
+| Relations                         |                             |                       |
+|                                   |                             |                       |
+| Social contact                    |                             |                       |
++-----------------------------------+-----------------------------+-----------------------+
+
+In another model, Hedlund (2007) states that a job is attractive for a person if he/she wants the job and wants to keep it. Thus, an individual can judge the attractiveness both as an applicant (external view) and as an employee (internal view). In other words, a job can be described in four different ways: attractive, hidden, idealized and unattractive (see @fig:figure41). Accordingly, a job is attractive if it has a high attractiveness from both an internal and an external point of view. A job with high internal attractiveness but low external attractiveness is classified as hidden, while a job with low internal attractiveness but high external attractiveness is regarded as idealized. Finally, a job that has a low attractiveness from both an internal and external view is classified as unattractive.
+
+Thus, an individual's relation to work, experience of work and wishes and expectations are important components that form the perception of work attractiveness, i.e., different people have varying opinions of the same job depending on their personal situation and preferences. In essence, the relative importance of each dimension in the model by Åteg et al. (2004) depends on the individual. Additionally, we argue that the weight of a dimension may even be negative, having the effect that an "objectively" attractive job may be perceived as unattractive.
+
+![The attractiveness of the mining industry illustrated](./media/04-attracting-young-people-to-the-mining-industry/media/image1.png){#fig:figure41}
+
+
+
+In @fig:figure41, we have used Hedlund's (2007) model to illustrate a plausible present situation for the mining sector. The attractive section is quite small; the view from an internal position is more positive than is one from an external position. Thus, we argue that the mining industry needs to expand job attractiveness, both for external and internal viewers (@fig:figure42). As was shown in the above models, this expansion can be achieved in many ways. Essentially, present attractive qualities must be presented and not hidden away from applicants and potential staff. Unattractive or repelling job features must be eliminated or decreased.
+
+![The expanded attractiveness of the future mining industry](./media/04-attracting-young-people-to-the-mining-industry/media/image2.png){#fig:figure42}
+
+
+
+The question is how to achieve this expansion of attractiveness. Based on our experiences from the SIMS project and other similar projects, we have summarized our findings in six recommendations for creating attractive workplaces and increasing the visibility of the good parts of mining work:
+
+-   Health and safety at work must have top priority. Mechanization, remote control, and automation are efficient preventive safety measures but are also appropriate for reducing workload to avoid musculoskeletal injuries and allow for recovery periods. Improved safety is also a matter of a developed safety climate in the form of relevant education, rules and effective leadership where safety clearly is prioritized in the day-to-day work.
+
+-   A work organization should be based on groups as an operative unit where all employees have control over their own work cycle. This very concrete demand guarantees variety at work while also providing meaningful autonomy. The demand can also be combined with a lean approach.
+
+-   Competence development and learning at work are important to guarantee flexibility for the company and development in one's professional role. It is also a question of changing into a workplace culture that follows the developments in the industry, such as new production techniques, new products, and new quality demands.
+
+-   Gender equality is essential for the mining industry to being viewed as a modern employer. The industry must break away from its macho-masculine image.
+
+-   The mining companies must more actively demonstrate their social responsibility. Employees want to feel proud to work at the company, so issues such as vision, mission and core values are important.
+
+-   Focus should be placed on the benefits and potential problems that may come with having a workforce consisting of both in-house personnel and contractors. This approach includes an emphasis on strengthening both the formal (e.g., implementing joint safety management practices) and informal (e.g., communication and interaction at the workplace level) relations at the emerging multiemployer worksites.
+
+Finally, if the mining industry wants to improve its image and recruit young people in the future, it has to broaden its perspective. New technology is important and can solve many problems, but not all of them. Technology must be complemented with a social perspective that includes attractive and safe workplaces in a social functioning society and sought-after workplaces in a company that people are proud to work for.
+
+**References**
+
+Johansson J., Johansson B., Lööw J., Nygren M. Abrahamsson L. (2018). "Attracting young people to the mining industry -- Six recommendations". International journal of mining and mineral engineering Vol. 9, No. 2, 2018. pg 94-108
+
+Hedlund, A. (2007) Attraktivitetens dynamik -- studier av förändringar i arbetets attraktivitet, doktorsavhandling i arbetsvetenskap, Högskolan i Dalarna/Kungliga, Tekniska Högskolan, Stockholm.
+
+Åteg, M., Hedlun,d A. and Pontén B. (2004) *Attraktivt arbete. Från anställdas uttalanden till skapandet av en modell.* Arbetsliv i omvandling, 2004:1, Stockholm: Arbetslivsinstitutet.
+
+

@@ -1,0 +1,54 @@
+# Adapting the technology to the miners' human factors# 
+
+```{block, type='chap-auth'}
+Erik Sundström
+```
+
+Human-centred design, commonly interchanged with the term human factors design, is defined by Horberry, Burgess-Limerick, & Steiner (2018) as the science of designing equipment, workplaces, tasks and organizations to account for the users' needs and wants. In other words, designers need to ensure that they accommodate a wide range of users of different shapes, sizes, genders, ages and more. This definition also entails considering the effects that the design has on other stakeholders, such as on maintenance workers who repair the equipment.
+
+The goal of human-centred design, or HCD, is to improve work performance and the safety, health and well-being of the workforce (and, if possible, society at large). According to Horberry m.fl. (2018), the key principles for HCD can be summarized as follows:
+
+1.  Adapt the equipment, system or product to the needs and wants of the people who interact with it instead of having them accommodate the system or object. For example, controls and equipment should be designed to be easy to use and perform maintenance on. People should not have to work with the equipment or system in unhealthy or dangerous ways to make it function properly.
+
+2.  Designing systems or equipment requires an understanding of the people who will interact with or be affected by it. Questions such as what the context for their interaction is, what tasks do they need to perform, in what environment and so forth need to be investigated are asked.
+
+3.  Continuous involvement of the users and other stakeholders in the design and development process is important to ensure that the previous principles can be upheld.
+
+4.  The design process is iterative to ensure ideas and concepts are reworked until they fulfil established requirements. Amongst these requirements are needs to account for human-centred subjects such as usability, safety and ergonomics.
+
+5.  Each stage of the design process of the equipment or system must accommodate the needs and wants of the people who will be interacting with it.
+
+There are several potential benefits with designing in accordance with human factors:
+
+-   May allow for solutions or performance improvements not otherwise possible.
+
+-   Improves operator performance and efficiency and lowers costs of training.
+
+-   Can help avoid additional costs and problems stemming from equipment, workplaces or tasks being badly adapted to the users.
+
+-   Demonstrates that the company accommodates their employees' needs and wants. This benefit can improve the attractiveness of the workplace and the products for potential employees and customers.
+
+-   Can improve employee acceptance of workplace aspects, changes and tasks.
+
+-   Can increase trust from the people involved in the human factors-designed system.
+
+According to Horberry, Burgess-Limerick, & Steiner (2011), human factors are rarely considered when designing mining equipment. Instead, focus often lies on what the technical aspects of the equipment can achieve. The people are often left to perform the tasks that the machines cannot**. This doesn\'t mean that there aren\'t parts of the mining workplace where human-centred design is currently being taken into account**. Below are** some** examples of areas of mining workplaces where human-centred design **is or should be designed for.**
+
+The vehicles and machines used in mining have, according to Simpson, Horberry, & Joy (2009), had problems with cabin visibility for a long time. Due to the size and equipment of the vehicles, the drivers' line of sight is often very limited. The risks and potential consequences of this problem have inspired the implementation or design of several preventative measures, including added cameras to show the "blind spots" of the driver's line of sight, proximity sensors to notify the driver on how close they are to things in their environment and more.
+
+The interfaces of mining equipment and machines often contain many buttons, levers and other interactable elements. A human-centred design ensures, amongst other things, that no parts of the interface are difficult or unergonomic to reach. The most-commonly used levers and buttons are the easiest to access. Furthermore, interactable elements need to be grouped up on the interface according to function, for example by placing buttons next to the dials and screens that they interact with.
+
+Relating to unergonomic interfaces, foot rests, seats, handles and other physical elements of the machines can easily become uncomfortable or even perilous to use if they are not designed to accommodate people of different sizes and statures. Tools and equipment can have the same problem, where their weight and size do not consider the physical capabilities of different users. To design with a human-centred focus is to ensure that equipment, tools and other elements in the workplace are comfortable and safe to use for more than just the average person. Making the equipment modifiable and adaptable, such as chairs that can be adjusted and helmets that can fit more people, helps ensure that all employees can safely and effectively use it. It is not enough, however, to ensure that the equipment is comfortable and safe for the users to work with. The equipment also needs to be designed with maintenance in mind. Maintenance hatches, engine housings and electronics need to be reasonably easy to access to not complicate maintenance work more than necessary. Concerning future technologies in mining, the batteries of the electrical vehicles that are to be implemented in the mines need to be easily charged and replaced. Designing and creating these future technologies provides an excellent opportunity to create machines, systems and equipment that accommodate the users and the people affected by such elements.
+
+There are aspects of the future vision for mining workplaces that resemble human-centred design thinking. Mining industries are moving towards utilizing more remote-controlled machines and control room work in mines. The mining operators can thus be removed from potentially dangerous or ergonomically unhealthy work tasks and environments. This approach reduces their exposure to vibration, dust, blasting gases and the risk of cave-ins, improving the safety and health conditions of the workplace. With future mining workplaces consisting of more remote-controlled work, however, operators will spend more time doing static work in control rooms. The Swedish administrative authority Arbetsmiljöverket (2011) warns of the potential health risks such as circulatory problems caused by too much static work. A workplace with a human-centred design should thus provide its operators with work tasks balanced between physical and static work.
+
+**References**
+
+Horberry, T., Burgess-Limerick, R., & Steiner, L. J. (2011). *Human factors for the design, operation, and maintenance of mining equipment*. Boca Raton: CRC Press.
+
+Horberry, T., Burgess-Limerick, R., & Steiner, L. J. (2018). *Human-centered design for mining equipment and new technology*. Boca Raton: Taylor & Francis, a CRC title, part of the Taylor & Francis imprint, a member of the Taylor & Francis Group, the academic division of T&F Informa, plc.
+
+Simpson, G., Horberry, T., & Joy, J. (2009). *Understanding human error in mine safety*. Farnham, England ; Burlington, VT: Ashgate.
+
+Sverige, & Arbetsmiljöverket. (2011). *Belastningsergonomi*. Hämtad från http://www.av.se/dokument/afs/afs2012\_02.pdf
+

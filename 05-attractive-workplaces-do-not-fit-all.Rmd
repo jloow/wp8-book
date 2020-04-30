@@ -1,0 +1,49 @@
+# Attractive workplaces do not fit all# 
+
+```{block, type='chap-auth'}
+`Joel Lööw`
+```
+
+Thus far, we have not gone too far into the theoretical foundations of attractive work. For large parts of this book, we believe such delving to be more than is needed to use and understand the advice we advance. Nevertheless, we would like to discuss some of the less intuitive parts of attractive work and what effects these parts have on designing attractive work in a wider perspective.
+
+We have talked about how the mining industry has a hard time recruiting labour. However, the discussion about attractive work is not only about how well organizations recruit employees. We already discussed that an organization can be attractive and still not be able to recruit workers (we have called these jobs or organizations "hidden"). However, an organization can also be *unattractive* but have no problem with recruiting the labour it needs. Think about all the workplaces with poor working conditions in which people actually work.
+
+The model in chapter 4 (with work as attractive, unattractive, hidden or idealized) we have used in this book is useful. However, if we start to explore all the different manners in which it can be interpreted, questions start to arise. Example questions are as follows:
+
+-   Is there a difference between internal and external attractiveness? That is, will the same thing that increases internal attractiveness also increase external attractiveness (and vice versa)?
+
+-   How do we balance between the many factors of attractiveness? Can negative factors be accepted if there are positive factors to compensate?
+
+-   When does work go from being unattractive to attractive? If one-half of a population thinks the job is unattractive and the other half thinks it is attractive, what is the final classification? In other words, who decides whether work is attractive? Additionally, when is work attractive *enough*?
+
+We will not answer these questions definitively. However, the discussion below will hopefully help us on the way.
+
+First, we must realize that there is a difference between what an individual considers attractive, the view of that individual of the work or workplace in question, and the actual characteristics of that work or workplace.
+
+For example, if we had two identical individuals, where one is employed in the particular job and the other is not, they probably would not make the same judgement, because they have different "access" to the actual characteristics of the work or workplace. If we had two different individuals, they also likely would not make the same judgement because they have different preferences.
+
+Additionally, the "attractiveness" constantly changes as preferences change. For instance, past experience, and norms and values in society, can change how we think. Therefore, perhaps the important part is not deciding whether work is attractive. Instead, we should constantly ensure that the work can change as preferences and society change.
+
+Here, we must understand that the attractiveness is applicable not only to (potential) workers but also to designers, managers and others who form jobs and workplaces. What they (we) think is attractive will influence such decisions about what changes to make to a workplace. Moreover, the view they have of a workplace, for example, may not completely correspond to reality.
+
+It all becomes more difficult when we consider that some aspects of attractiveness come down to personal judgement, while other parts are objectively good or bad. Let us look at an example to illustrate this point.
+
+Blauner (1964) studied textile and automobile workers. He found that both were *objectively* alienated.[^722] Only the automobile workers, however, were *subjectively* alienated. He argued that norms and values in the societies of the textile workers worked prevented subjective alienation.
+
+
+[^722]: According to Blauner (1964, 15), "Alienation exists when workers are unable to control their immediate work processes, to develop a sense of purpose and function which connects their jobs to the overall organization of production, \[and\] to belong to integrated industrial communities, and when they fail to become involved in the activity of work as a mode of personal self-expression."
+
+That is, not everything a worker might prefer is good, or things are not necessarily fine because they feel fine. There are other examples. Workers occasionally prefer piece-rate wages (due to the ability to earn extra money) and extended work-hours (due to the additional days off). However, much research shows that this approach can be bad for workers' health. Moreover, organization change is occasionally resisted, for example, when implementing measures for increased equality. That they are resisted does not necessarily mean that they are bad.
+
+Thus, although we previously discussed the views of employees forming work, we must also ensure that we are knowledgeable about many different aspects of work.
+
+What does the above mean for designing attractive work? At the very least, it means that participation from workers is absolutely necessary. Attractive work cannot be designed from behind a desk. Today, it is quite common to talk about user-centric design. However, if we are serious about attractive work, we must go further. We must ask even those who will not work in the jobs we are designing. Societal norms and values will influence what we think of particular jobs. If we do not take this point into consideration, it may not matter how well we design jobs -- they still can be considered unattractive.
+
+However, we cannot leave it all up to opinion. In fact, all of us who make decisions that influence work must better our understanding of work and how our actions influence it.
+
+This book is about technology and its social acceptance. With our discussion here, we can say that the design of technology is ongoing work. Even when a design is finished, a product delivered and so on, it will need attention. Because "society"---humans---change all the time, technology must adapt.
+
+**References**
+
+Blauner, Robert. 1964. *Alienation and Freedom: The Factory Worker and His Industry*. Chicago: University of Chicago Press.
+

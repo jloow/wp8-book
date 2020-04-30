@@ -1,8 +1,13 @@
 ---
-date: "`r Sys.Date()`" # General settings bibliography: references.bib
-bibliography: references.bib
-link-citations: true
-csl: https://www.zotero.org/styles/springer-basic-brackets-no-et-al?source=1
+title: "A Guide to the Social Management of New Technology"
+author:
+  - Joel Lööw
+  - Jan Johansson
+date: "`r Sys.Date()`"
+# General settings 
+#bibliography: references.bib
+#link-citations: true
+# csl: https://www.zotero.org/styles/springer-basic-brackets-no-et-al?source=1
 # csl: https://www.zotero.org/styles/springer-basic-note?source=1
 
 # LaTeX settings
@@ -13,38 +18,128 @@ fontfamily: libertine
 # Output settings
 output:
   bookdown::gitbook:
+    pandoc_args: ['--filter', 'pandoc-crossref']
     includes:
       in_header: preamble.html
   bookdown::pdf_book:
+    latex_engine: xelatex
+    pandoc_args: ['--filter', 'pandoc-crossref']
     includes:
       in_header: preamble.tex
 ---
 
 # Preface {-}
 
-This book is a product of SIMS (Sustainable Intelligent Mining Systems;
-<http://simsmining.eu>. So far it is a work in progress.^[To a certain
-extent, it will always be a work in progress; see the later chapters.]
-It is a book that intends to give the reader some tools to help them in
-the social management of new technology. It is aimed chiefly at the
-mining industry; due to its unique characteristics, much traditional
-knowledge -- or rather, knowledge regarding these issues from other
-industries -- are not readily applicable. Therefore, this book seeks to
-adapt much of "uncontextualised" knowledge to the mining industry. To do
-so, we use the technologies of SIMS.
 
-## About the project {-}
+This book is a product of the [SIMS (Sustainable Intelligent Mining
+Systems)](http://simsmining.eu) project, which is funded by the European
+Union. The vision of SIMS is to create a long-lasting impact on how we
+test and demonstrate new technology and solutions for the mining
+industry. With a selected consortium ranging from mining companies,
+equipment and system suppliers to top-class universities, the SIMS
+project will boost development and innovation through joint activities
+aiming at creating sustainable intelligent mining systems.
 
-The vision of SIMS is to create a long lasting impact on the way we test
-and demonstrate new technology and solutions for the mining industry.
-With a selected consortium ranging from mining companies, equipment and
-system suppliers to top-class universities, the SIMS project will boost
-development and innovation through joint activities aiming at
-creating Sustainable Intelligent Mining Systems.
+Our role in the project is to be involved in creating attractive
+workplaces by deeply interacting with other work project partners and
+influencing their designs. Our role also includes ensuring that gender
+aspects are considered in the various parts of the projects. We also
+have an important role in the social acceptance of the new technology.
 
 ## About the authors {-}
 
+Jan Johansson
+  ~  project manager for the SIMS subproject Attractive Workplaces, is a
+professor of Human Work Science at Luleå University of Technology (LTU)
+in Sweden.  
 
+Joel Lööw
+  ~ is a PhD student in Human Work Science at LTU. Together with Jan
+Johansson, he edited this book.
 
+Lena Abrahamson
+  ~ is a chair professor in Human Work Science at LTU.
 
+Eira Andersson
+  ~ is a senior lecturer in Human Work Science at LTU.
 
+Lisa Öman Ekervhén
+  ~ is a senior lecturer in Engineering Psychology at LTU.
+
+Camilla Grane
+  ~ is a senior lecturer in Engineering Psychology at LTU.
+
+Bo Johansson
+  ~ is a associated professor in Human Work Science at LTU.
+
+Magnus Nygren
+  ~ is a senior lecturer in Human Work Science at LTU.
+
+Lisa Ringblom
+  ~ is a post doc researcher at the Centre for Work Life and Evaluation
+Studies at Malmö University.
+
+Eugenia Segerstedt
+  ~ is a PhD student in Human Work Science at LTU.
+
+Erik Sundström
+  ~ is a PhD student in Human Work Science at LTU.
+
+# Introduction {-}
+
+```{block, type='chap-auth'} 
+
+Joel Lööw and Jan Johansson, Editors
+
+```
+
+Today's mining industry is facing major technical changes. Earlier incremental development will most certainly be replaced by more radical changes based on digitization and the Internet of Things. These changes must be managed in a socially sustainable way so that we do not create greater problems than those we are solving. We must design tomorrow's mining so that it can gain social acceptance. Tomorrow's mining companies must be able to offer safe and attractive workplaces that can attract young people to the industry. From a longer perspective, offering such workplaces can lead to the recognition of the mining industry as an ethical, ecological and diverse industry that can offer challenging jobs and attractive workplaces. The purpose of this book is to provide advice and simple guidance for how to develop and introduce something we call social management of new technology. We hope that this summary of our experiences from the SIMS project can be useful to you and wish you pleasant reading.
+
+The book is formatted similar to a Swedish smorgasbord. In other words, each chapter can be read independently. Consequently, there may be some repetition. Most chapters end with several summarizing practical advice points. 
+
+The book consists of 22 chapters. All the chapters are available for
+computers, tablets and mobile phones on <https://jloow.github.io/wp8-book/>.
+
+In chapter 1, The future of metal mining, we discuss the challenges facing today's metal mining industry. We make 15 predictions about the future that should be seen as a contextual background to the discussions in the following chapters.
+
+In chapter 2, A vision of “The New Attractive Mine”, we have tried to create a vision of a future mine, considering the working environment and attractiveness all the way from the mine planning stage.
+
+In chapter 3, What characterizes an attractive mining workplace?, we have used a general model that describes 22 dimensions of what characterizes an attractive workplace and applied it to the mining industry. 
+
+In chapter 4, Attracting young people to the mining industry, we have summarized our findings in six recommendations for creating attractive workplaces and increasing the visibility of the good parts of mining work.
+
+In chapter 5, Attractive workplaces do not fit all, we try to give nuance to the concept of attractive workplaces by showing its complexity. Throughout the book, we argue for a participative approach that is based on the wishes of the employees, but occasionally you meet opposing wishes and have to take a position based on other criteria.
+
+In chapter 6, Meeting social challenges in established mining communities, we broaden the frame of reference and discuss the mining industry's responsibility to operate in a socially sustainable society.
+
+In chapter 7, Risk analysis and prevention, we focus on the safety aspects and present practical models for risk assessment. We underline the role of the mine planners; they must find solutions that promote both high productivity and good economy and also safety and a healthy work environment.
+
+In chapter 8, Safe and attractive workplaces for contractor personnel, we address the fact that workplace accidents are a problem in relation to outsourcing and contracting. We indicate several points that can be taken into consideration when aiming to increase safety in these types of work setting.
+
+In chapter 9, Understanding, and improving, safety culture, we discuss improved safety culture as a long term and sustainable safety strategy. We suggest measures that mining companies can take when seeking to develop their safety culture.
+
+In chapter 10, Gender and gender equality in mining, we present a brief theoretical background on why gender is an important issue for the mining industry. The chapter ends with general advice.
+
+In chapter 11, Can technology improve gender equality in mining?, the myth that new technology will automatically open the mines for women is highlighted. More systematic work is required to correct the uneven gender balance.
+
+In chapter 12, Working for gender equality in organizations – a model, we present a practical model for how to work with gender equality, work that is necessary if mining is to be considered a modern industry.
+
+In chapter 13, Lean mining – lean production and the mining industry, we discuss the concept of lean production and how it can be adapted to the mining industry and form the basis of what we call lean mining.
+
+In chapter 14, Industry 4.0 in a mining context, we explore the consequences that digitalization and Industry 4.0 can have on future mining work. A vast majority of mining work will be affected by these developments, but miners will not disappear; rather, they will be different in the future.
+
+In chapter 15, Mining 4.0 – Utopia or Dystopia, we summarize our experiences with two extremes, a negative dystopian development and a positive utopian development. The chapter concludes with six recommendations on how to start shaping the future of Mining 4.0 on human terms.
+
+In chapter 16, Acceptance of new technology – the most prominent theories, we give an overview of the most prominent theories that are important for understanding which factors affect the acceptance of new technologies.
+
+In chapter 17, Positioning technology – safety vs privacy concerns, we discuss the positive effects of positioning technology from a safety perspective and set them against privacy concerns. Factors that need to be considered to enhance privacy and reduce the perception of misuse are discussed.
+
+In chapter 18, Investing in new technology: guidelines for how to do it right or to understand what went wrong, we provide guidelines, or statements to consider, when investing in new technology. These questions are meant to aid the organization in the process towards technology and in making that process effective, efficient and accepted from a user perspective.
+
+In chapter 19, Adapting the technology to the miners’ human factors, we present a theory for human-centred design, which is a theory for designing equipment, workplaces, tasks and organizations on human terms. 
+
+In chapter 20, Iterative design of mining workplaces, we describe a circular method for mining planning that is more dynamic than today's linear planning. Furthermore, an iterative process offers more opportunities to create attractive workplaces for both new and existing employees by involving them more in the design process. 
+
+In chapter 21, More research is needed, we present a research agenda that focusses on attracting and keeping skilled personnel in a future high-tech mining industry.
+
+In chapter 22, Checklist for safe and attractive mining workplaces, we summarize our results in a practical checklist. There are many aspects, issues and questions that must be considered and addressed to achieve safe and attractive mining workplaces. This checklist aims to help highlight potential areas of improvement in a mining workplace that could make it a safer and more attractive workplace, without presenting in-depth solutions that may limit the decision-making process.

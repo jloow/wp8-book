@@ -1,4 +1,11 @@
-bookdown-minimal
-bookdown-demo
 original-texts
 fix-stuff
+media
+tmp
+tools
+*.not
+*.docx
+converter.py
+Makefile
+references.bib
+todo.md

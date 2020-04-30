@@ -1,0 +1,95 @@
+# Positioning technology -- safety vs privacy concerns# 
+
+```{block, type='chap-auth'}
+Lisa Öman Ekervhén and Camilla Grane
+```
+
+This chapter discusses the positive effects of positioning technology from a safety perspective and sets it against privacy concerns. Factors that need to be considered to enhance privacy and reduce the perception of misuse are discussed.
+
+As can be read in chapter 4, a recommendation for creating attractive workplaces in the mining industry is to have health and safety at work as a top priority. This goal can be achieved through mechanization, remote control and automation, and a developed safety climate. An additional means of increasing safety is to use new and advanced communication and positioning technology that works in a mining environment. The communication and positioning technology allows real-time location, tracking and monitoring of vehicles, personnel and equipment. The information can be available both in control rooms on the surface and underground on mobile phones and tablets (see @fig:figure171). Such technology entails everyone, wherever they are located, having access to information about what is going on down below (and above ground). 
+
+![Positioning information of objects, people, vehicles and locations can be viewed in mobile phones and on computer screens[^152] ](./media/18-positioning-technology-–-safety-vs-privacy-concerns/media/image1.png){#fig:figure171}
+
+
+
+[^152]: Icons from the Noun project designed by A. Coquet.
+
+From a safety perspective, it is of course a great advantage to see peoples' exact location, for example, in case of a fire or a cave-in that requires evacuation of the mine. In such situations, time is of great importance. Without positioning technology, rescue personnel need to spend much time confirming that each worker is in a safe location. With a positioning system, this phase goes much faster and instead allows the focus to be on those who have not reached safety and supports decisions about who needs attention first. 
+
+Today\'s technology also makes it possible to collect other types of information from the environment in addition to that from humans. Via sensors, information regarding machine functionality, temperature, tensions, vibrations and similar data can be collected, including information on the surrounding environment such as levels of fumes and gases in the air. A rather new concept is sensors worn by humans, measuring human conditions. Physiological sensors can provide information about *personal health* such as pulse and temperature; biokinetic sensors can measure posture and body movements (*position*); and ambient sensors can measure environmental factors such as temperature or sound pressure level (Johny & Anpalagan, 2014; @fig:figure172). These systems could also be useful as a preventive safety system or in case of an accident, as the information can be shared with other workers close by, control room personnel, and rescue personnel. 
+
+![Information that is possible to collect by positioning technology and wearable sensors[^47] ](./media/18-positioning-technology-–-safety-vs-privacy-concerns/media/image2.png){#fig:figure172}
+
+
+
+[^47]:  Icons from the Noun project designed by A. Coquet and Ahmad.
+
+Doubtlessly, this capability is a great advantage, but what do the workers think about such technology? In a safety critical situation, this type of human tracking might be accepted by the workers, but the information could also be misused. As can be read in chapter 15, one must be aware that these kinds of systems are a threat against personal integrity and must therefore be handled with care. According to Zweig and Webster (2002), there is a growing acknowledgement that technologies that track presence and activity lead to privacy concerns. Hence, when implementing such technology, psychological aspects must be taken under consideration.
+
+***Important psychological aspects to consider***
+
+Privacy can be defined as the extent to which individuals believe they have control over their personal information and interactions with others (Stone & Stone, 1990). The individual perceiving a loss of such control can lead to a perception of invasion of privacy. Privacy concerns are one of the most consistent reactions to awareness systems (e.g., Zweig & Webster, 2002). Hence, positioning technology and human sensors can lead to the feeling of lost control if not restricted and handled properly. Based on research and findings from the SIMS project and other related projects, we will now briefly exemplify some psychological aspects that are important to consider to avoid violating privacy and to create acceptance for techniques that collect personal data.
+
+One important aspect is that the collected information must be perceived as being *relevant,* i.e., necessary and appropriate to collect. Collected information that is perceived as relevant is more likely to be viewed as less invasive of privacy than information that is perceived as irrelevant (e.g., Alge, 2001). It is therefore extremely important that each bit of information that is collected can be justified on good grounds. Have in mind that, although today\'s technology makes it possible to collect all sorts of information, information should not be collected only because it is possible to do so. The more the merrier does not apply in this context. For example, if one\'s position is of importance only from a safety perspective, then it may be of less importance to view the name of the person. 
+
+It is of great importance to make the *usefulness* of the technology visible for the workers to achieve acceptance (e.g., Davis, 1993). The organization must be able to communicate *why* such systems should be implemented. As when children ask "why", "because" is not a good answer. Are you satisfied with such an answer? Hence, the organization must be able to justify its use, that is, have a legitimate reason for implementing the system. From a privacy perspective, the individual wants to have control over what information the organization has *access* to and how the organization will *use* the collected information (Brandimarte, Acquisti, & Loewenstein, 2013). Most important for accepting the revealing of personal information is likely to be control over how the information will be used. In this context, be careful to ensure and clarify the purposes for collecting possibly sensitive information and to communicate the true purpose. It is also important to explain the usefulness clearly. For example, ensure that the workers understand how the technology will enhance *their* safety and facilitate rescue operations. A further aspect is to emphasize the accompanying advantages such technology can have for the workers in their everyday job, in terms of being able to locate persons, vehicles and equipment and of providing information about the surrounding environment. 
+
+*Participation* is a key component for enhancing employees\' perception of procedural justice and reducing feelings of invasion of privacy (Alge, 2001). It is therefore important to allow employees to be involved in both the design and implementation of the technology. The workers should be involved at an early stage, even if introducing the technology is mandatory, i.e., not optional. They should be included when discussing and deciding *what* information should be collected, *who* will have access to the information, and *how* the information should be stored and handled, etc. For example, knowledge of who is able to monitor you has been found to lower perceptions of privacy invasion (Zweig & Webster, 2002). One further advantage of including workers early in the process is the possibility of understanding their hopes and fears. It is important to be responsive to any concerns that employees might have and try to sort them out at an early stage. Therefore, the most sceptical employees can be a valuable resource. If their concerns are listened to and met, there is a greater possibility that the technology will be accepted when implemented. 
+
+Our attitudes are influenced by important others, and attitudes towards positioning technology are no exception. In other words, an individual worker\'s attitude to such technology can be influenced by the attitudes of the colleagues (*social influence*). This point is especially true in mandatory settings, i.e., when using the technology is not optional (e.g., Venkatesh, Morris, Davis, & Davis, 2003). The influence of others\' opinions tends to be highest in the early stages of experience with the technique before the individual has had time to form their own opinion. Each worker\'s individual *a priori* attitude about the technology cannot simply be summed to predict whether the group will decide to adopt the technology unless they all are in agreement (Sarker, Valacich, & Sarker, 2005). If not in agreement, a complex group interaction process will start, where they attempt to influence each other, which in turn results in the group adopting or not adopting the technology. This process implies that it is important to view the implementation of new technology as a group process and therefore also handle it on a group level. It is also extremely important to remember that workers also influenced by the management; therefore, managers must communicate support and belief in the system. In other words, acceptance of the technology must permeate the entire organization.
+
+The human strives for the perception of *justice* (see also Chapter 16). Therefore, to achieve acceptance for positioning technology, it may be of importance that everyone can see everyone\'s position. If a worker is monitored differently than are other co-workers or other professionals, that worker may experience injustice (Alge, 2001). The feeling of big brother's watching you should be avoided. It has also been found that mere suspicion that the information could be used for performance monitoring creates a perception of unfairness (Zweig & Webster, 2002). Hence, if there is no such intention with the system, it is important to make that clear.
+
+Another important factor that can affect acceptance for technical systems that collect personal information is *trust*. Such systems require a level of trust in the relationships between colleagues, managers and the organization. Trust in this context means the belief that the other party (who collects the data) will behave in a responsible manner and by doing so also fulfil the trusting party's (the employee's) expectations without taking advantage of its vulnerabilities (Pavlou, 2003). Hence, the employees must trust that the people who have access to the information will handle it with care and not misuse it. When interviewing workers who have experience with positioning technology, trust is a frequently mentioned aspect for accepting the technology. A further type of trust is workers\' trust in a technology (Montague & Chiou, 2014). Distrust among workers, or workers' distrust of technology, may lead to inappropriate or non-use of the technology (Montague & Chiou, 2014). If workers are required to use technologies they do not trust, they might create ways to avoid using the technology, which can lead to errors. For example, if the workers do not trust the use of the positioning technology, they may resist wearing the tag and hence remove it, which can lead to devastating consequences in case of a fire or when blasting.
+
+The implementation of new technology requires *proper training*. Much money is spent on developing new technology, but much less is spent on educating the personnel who will use it on *how* to use the technology. This step is often forgotten. It can be summarized as "too little training and too late". As an example, in the event of an accident, it is not desirable for the personnel in the control room to see the emergency functions for the first time. Further, another side of trust besides trust in relationships (see the section above) is over-trust in technology. What happens if the system goes down because of a power failure and the position technology cannot be used? Then, it is important to have a backup plan and have had proper training on how to handle such situations with manual routines.
+
+Humans are generally sceptical about change; there is a fear of the unknown. Change can be perceived as stressful, which leads to negative emotions and feelings of uncertainty that in turn can affect acceptance. This result can be countered with thorough information. Therefore, it is extremely important to keep personnel updated at all stages in the implementation of positioning technology and to ensure that all personnel receive the same information (to create justice). 
+
+There are of course other important aspects to consider, but the purpose of this chapter was to highlight some of the most important psychological aspects that need to be considered when implementing technology that handles personal information. The aspects are summarized in the following bullet list: 
+
+-   Ensure that the system only collects relevant information. 
+
+-   Ensure that the implementation is justified on good grounds.
+
+-   Ensure that the usefulness of the system is visible for the individual workers.
+
+-   Make clear what the purpose of the system is and what it is not (e.g., not performance monitoring).
+
+-   Design and implement the technology in close cooperation with the workers.
+
+-   Consider change a group process (social influence).
+
+-   Ensure that acceptance permeates the entire organization.
+
+-   Ensure that the technology is used fairly and create guidelines that restrict the use of the system and that include individual rights, how the information will be stored, and who will have access to what information, and so forth. 
+
+-   Ensure that trust exists in the organization.
+
+-   Ensure that the users receive proper training.
+
+-   Give the workers thorough information, and ensure that there are forums to vent questions about expectations and fears with the technology.
+
+**References **
+
+Alge, B. J. (2001). Effects of computer surveillance on perceptions of privacy and procedural justice. *Journal of Applied Psychology*, *86*(4), 797-804. DOI: 10.1037//0021-9010.86.4.797
+
+Brandimarte, L., Acquisti, A., & Loewenstein, G. (2013). Misplaced confidences: Privacy and the control paradox. *Social Psychological and Personality Science*, *4*(3), 340-347. [[https://doi.org/10.1177/1948550612455931]{.underline}](https://doi.org/10.1177%2F1948550612455931)
+
+Davis, F. D. (1993). User acceptance of information technology: System characteristics, user perceptions and behavioral impacts. *International Journal of Man-Machine Studies*, *38*(3), 475--487. https://doi-org.proxy.lib.ltu.se/10.1006/imms.1993.1022
+
+Johny, B., & Anpalagan, A. (2014). Body area sensor networks: Requirements, operations, and challenges. *IEEE Potentials*, *33*(2), 21-25. DOI: [10.1109/MPOT.2013.2286692](https://doi.org/10.1109/MPOT.2013.2286692)
+
+Montague, E., & Chiou, E. K. (2014). Trust in complex work systems: A focus on information and communication technologies. In C. Korunka & P. Hoonakker (Eds.), *The impact of ICT on quality of working life* (pp. 143-152). Dordrecht: Springer. Doi: 10.1007/978-94-017-8854-0
+
+Pavlou, P. A. (2003). Consumer acceptance of electronic commerce: Integrating trust and risk with the technology acceptance model. I*nternational Journal of Electronic Commerce, 7*(3), 101-134. <https://doi.org/10.1080/10864415.2003.11044275>
+
+Sarker, S., Valacich, J. S., & Sarker, S. (2005). Technology adoption by groups: A valence perspective. *Journal of the Association for Information Systems*, *6*(2), 37-71.
+
+Stone, E. F., & Stone, D. L. (1990). Privacy in Organizations: Theoretical issues, Research findings, and Protection mechanisms. *Research in personnel and human resources management*, *8*(3), 349-411.
+
+Venkatesh, V., Morris M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: toward a unified view. *MIS Quarterly, 27(3*), 425-478. DOI:10.2307/30036540
+
+Zweig, D., & Webster, J. (2002). Where is the line between benign and invasive? An examination of psychological barriers to the acceptance of awareness monitoring systems. *Journal of organizational behavior, 23*, 605-633. Doi: 10.1002/job.157
+
+

@@ -1,0 +1,170 @@
+# Investing in new technology: guidelines for how to do it right or to understand what went wrong# 
+
+```{block, type='chap-auth'}
+Lisa Öman Ekervhén and Camilla Grane
+```
+
+This chapter provides guidelines or questions to consider when investing in new technology. These questions are meant to aid the organization in the process of selecting, developing and introducing new technology that is effective, efficient and accepted from a user perspective. The chapter can also be used as a guide in more general development processes. It does not describe the process itself, but it points out some important aspects to consider to achieve high acceptance of a change. The guideline can also be used as a diagnostic tool to determine what went wrong if an investment or change process fails to meet its promises regarding acceptance and use. 
+
+Although the intention (often) is good when introducing new technology in an organization, there is no guarantee that the intended users will accept and use the technology. Further, although the technology is "right," people might not accept it (Zweig & Webster, 2002). Hence, there are several aspects that need to be considered to gain acceptance and succeed with the implementation. The best means of achieving a successful implementation of new technology is of course to proactively avoid making mistakes that can be thought of beforehand. 
+
+Based on research introduced in previous chapters (see for example Chapters 16,17 and 19) and on our experiences from the SIMS project and other similar projects, we have created a guideline consisting of questions that are good to consider before implementing new technology to attain acceptance. The questions are organized around the different aspects that they are supposed to consider.
+
+## Clear vision 
+
+-   What is the purpose of implementing the new technology?
+
+-   What are the goals with the new technology?
+
+-   Are the purpose and goals clear for the employees?
+
+-   Can the new technology have consequences for other parts of the organization?
+
+Of course, the purpose for implementing new technology should be known and well thought-out; however, a clear vision and intended goals should also be formulated, that is, written down (Beer 1988, read in Hughes, Ginnett, & Curphy, 2015). The vision and goals must also be communicated to all employees who are affected by the new technology. Hence, the organization must be able to justify and give a legitimate reason for implementing the technology. One also needs to think about how changes in one system can affect other parts of the organization. 
+
+## Perceived usefulness (Performance expectancy)
+
+-   Will the new technology improve the quality of the work?
+
+-   Will the new technology make it easier to accomplish tasks more quickly?
+
+-   Will the new technology improve safety at work (or another significant aspect)?
+
+-   Overall, is the technology perceived as useful?
+
+The purpose for implementing new technology may of course vary; however, it is important to ensure that the workers see the usefulness of the technology to attain acceptance and increase actual use (e.g., Davis, 1993; Venkatesh, Morris, Davis, & Davis, 2003). 
+
+## Perceived ease of use (Effort expectancy)
+
+-   Is the new technology easy to learn and remember how to use?
+
+-   Is the new technology easy to understand and interact with?
+
+-   Is the new technology flexible and possible to use for all workers?
+
+-   Is the new technology easy to use and bring in the contexts in which it will be used?
+
+-   Overall, is the new technology perceived as easy to use?
+
+However, it is not enough that the users believe the technology to be useful; it will not be accepted unless they also believe the technology to be easy to use (e.g., Davis, 1993; Venkatesh et al., 2003). Consistent with human-centred design (see Chapter 19), it is therefore important that the design of the new technology is based on the needs and wants of the people who interact with it instead of having them accommodate the technology, as it can improve employee acceptance of workplace changes (Horberry, Burgess-Limerick, & Steiner, 2018). It is also important to consider and test the technology in its right context of use. Consider for example background noise, dirt, work situations, safety equipment and work clothes. For example, if the users are obliged to wear gloves, the technology should be possible to use with gloves. 
+
+## Inclusiveness
+
+-   Can the new technology be used independent of size and strength?
+
+-   Can the new technology be used independent of age?
+
+-   Can the new technology be used by non-natives?
+
+-   Can the new technology be used by people with disabilities? 
+
+As an extension of usefulness, it is extremely important to take into account that people differ and the technology must therefore be inclusive, i.e., well suited for all workers irrespective of gender, age, and height, etc. (see also Chapter 19). Many workers also have common disabilities such as dyslexia or colour blindness that may interfere with their interaction with some systems. Additionally, there may be entrepreneurs or workers hired temporarily that do not speak the native language; it is important to ensure that they could still understand and use the technology and follow safety routines. Hence, ensure that the technique is suitable, comfortable and safe to use for more than just the average person.
+
+## Facilitating conditions/Perceived ability
+
+-   Will the users have the resources necessary to use the system?
+
+-   Will the users have the competence/knowledge needed to use the technology?
+
+-   Will the users receive appropriate support if they do not know how to use the technology?
+
+-   Will the users receive appropriate support if the technology fails to work?
+
+-   Is the technology compatible with other technologies or systems used in the workplace?
+
+Organizations can spend a great deal of money on developing and implementing new technology, but much less is spent on educating the personnel who will use it. It is therefore important to consider these types of questions at an early stage and to ensure that an organizational and technical infrastructure exists to support the use of the new technology (e.g., Venkatesh et al., 2003). 
+
+## Participation
+
+-   How can the employees be involved in the decision to implement the new technology?
+
+-   How can the employees be involved in the implementation phase?
+
+A good approach to convincing the employees to accept changes in the organization is to let those who are affected by the change participate in the process (Hughes et al., 2015). Of course, it is not always possible for the employees to be involved in the decision, although they might be able to influence certain aspects within given frames. Employee representatives, for example the union, should also be part of the decision process. Employees could more easily be part of the implementation phase. For example, they could be part of writing instructions or decide on use strategies.
+
+## Social influence 
+
+-   Are the employees positive towards using new technology?
+
+-   Are the employees positive towards changes at work?
+
+-   Is the implementation supported by the managers in the organization?
+
+The opinions of colleagues, managers, supervisors, family and friends are important when an individual user is forming an intention to use new technology. This point is especially true in mandatory settings, i.e., when using the technology is not optional (e.g., Venkatesh et al., 2003). The influence of others\' opinions tends to be highest in the early stages of experience with the technology before the individual has had time to form their own opinion. Additionally, workers are influenced by the management; therefore, managers must communicate support and believe in the system. In other words, acceptance of the technology must permeate the entire organization.
+
+## Implementation plan
+
+-   Is there a clear plan that clarifies *who, what, when, where* and *how* the implementation of the technology should take place?
+
+-   Is the plan communicated to everyone in the organization?
+
+A thorough plan increases the chances of a successful implementation. The plan should for example include timelines, key deliverables, and a description of who is responsible for what (Hughes et al., 2015). Because employees who are satisfied with the current situation are less willing to change, and because people often resist change, it might be a good idea to also include planned actions for how to handle possible resistance and increase dissatisfaction. It is important to ensure that the employees understand and see the value of the planned change. It is also important to ensure that the plan is clearly communicated to all affected parties in the organization. 
+
+## Perceived justice and fairness
+
+-   Are new technologies evenly distributed to all employees?
+
+-   Can an uneven distribution be justified?
+
+-   Are the procedures and outcomes thoroughly expressed and justified?
+
+-   Is it possible for the employees to influence the process and/or the outcome?
+
+-   Is it possible for the employees to raise concerns about the new technology?
+
+-   Are possible concerns considered and taken into account? 
+
+-   Are the employees treated with respect throughout the process?
+
+The feeling of being treated fairly influences a wide range of emotional and behavioural reactions in the workplace (see Chapter 16). For the workplace to be perceived as fair and just, which enhances acceptance, it is of great importance to give thorough information about the process, ensure that the employees can voice their opinions and treat the employees with respect and empathy (e.g., Conte & Landy, 2018).
+
+## Trust
+
+-   Is there an appropriate level of trust between colleagues?
+
+-   Is there an appropriate level of trust in the management?
+
+-   Is there an appropriate level of trust in the technology?
+
+-   Could the new technology be misused and hence violate trust?
+
+-   Is there a risk of over-trust or distrust, and how will this risk be addressed?
+
+Many barriers to acceptance of change can be structured under trust. Trust in management is a good predictor of lower levels of resistance to change. If the organization lacks, or has lost, the employees' trust, then resistance will be higher, and change will be more difficult to achieve. A further type of trust is workers\' trust in a technology. However, it is important that there is an appropriate level of trust, as over-trust or overreliance and distrust and under-trust can be damaging to work outcomes (Montague & Chiou, 2014). Over-trust can make the workers careless and complacent, while distrust among workers, or workers' distrust of technology, may lead to inappropriate or non-use of the technology (Montague & Chiou, 2014). It should be remembered that trust is difficult to build but easy to lose (Kramer, 1999). 
+
+## Privacy concerns (Intrusiveness)
+
+-   Is there any risk that the new technology or information that it collects can be perceived as intrusive?
+
+-   Is there any risk that the new technology or information that it collects can be misused?
+
+-   How can the data be restricted in terms of what to collect?
+
+-   How can accessibility be limited in terms of who has access and when data can be accessed? There are at least two alternatives to consider:
+
+    -   Access to data is restricted; for example, data are only accessible to the crisis management group in emergencies.
+
+    -   Data are open and accessible for all employees. 
+
+Privacy can be a concern if individuals believe they do not have control over their personal information and their interactions with others (Stone & Stone, 1990). The individual perceiving such a loss of control can lead to a perception of invasion of privacy. Today, there is an increase in what data can be collected that may be perceived as private, for example, your current position, your conversations, your arousal level, your drowsiness, and even your facial expressions. New technologies challenge personal boundaries. Based on Davis' (1993) model, we could assume that acceptance towards new privacy-violating technologies will be low if the usefulness is not clear. Trust should also be considered. It is recommended that the use of information is strictly limited to its purpose and not used for other purposes. Employees will sooner or later discover whether the technology is used as a tool for increased management control and supervision, and their trust will be violated if that use is not coherent with the communicated intended use. 
+
+**References**
+
+Conte, J. M., & Landy, F. J. (2018). *Work in the 21st century. An introduction to industrial and organizational psychology* (6th ed.). Hoboken: Wiley. 
+
+Davis, F. D. (1993). User acceptance of information technology: System characteristics, user perceptions and behavioral impacts. *International Journal of Man-Machine Studies*, *38*(3), 475--487. https://doi-org.proxy.lib.ltu.se/10.1006/imms.1993.1022
+
+Horberry, T., Burgess-Limerick, R., & Steiner, L. J. (2018). *Human-centered design for mining equipment and new technology*. Boca Raton: CRC Press.
+
+Hughes, R. L., Ginnett, R., & Curphy, G. (2015). *Leadership: Enhancing the Lessons of Experience*. New York: McGraw-Hill Education.
+
+Kramer, R. M. (1999). Trust and distrust in organizations: Emerging perspectives, enduring questions. *Annual Review of Psychology, 50*, 569-598. <https://doi.org/10.1146/annurev.psych.50.1.569>
+
+Montague, E., & Chiou, E. K. (2014). Trust in complex work systems: A focus on information and communication technologies. In C. Korunka & P. Hoonakker (Eds.), *The impact of ICT on quality of working life* (pp. 143-152). Dordrecht: Springer. Doi: 10.1007/978-94-017-8854-0
+
+Stone, E. F., Stone, D. L. (1990). Privacy in Organizations: Theoretical issues, Research findings, and Protection mechanisms. *Research in personnel and human* *resources management, 8*(3), 349-411.
+
+Venkatesh, V., Morris M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: toward a unified view. *MIS Quarterly, 27*(3), 425-478. DOI:10.2307/30036540
+
+Zweig, D., & Webster, J. (2002). Where is the line between benign and invasive? An examination of psychological barriers to the acceptance of awareness monitoring systems. *Journal of organizational behavior, 23*, 605-633. Doi: 10.1002/job.157
+

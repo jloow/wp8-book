@@ -1,22 +1,25 @@
-.PHONY: all pdf html
+.PHONY: simple all full pdf html fix clean
 
-all:
+simple :
+	R -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+
+all : pdf html
+	R -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+
+full : fix
 	rm -f _main.*
 	R -e "bookdown::render_book('index.Rmd', 'all')"
 
-#all:
-#	-rm -f _main.*
-#	-tools/layout-additions.py
-#	-R -e "bookdown::render_book('index.Rmd', 'all')"
-#	-mv -f tmp/* ./
-#
-html:
-	rm -f _main.*
+html : fix
 	R -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
 
-#pdf:
-#	-rm -f _main.*
-#	-tools/layout-additions.py
-#	-R -e "bookdown::render_book('index.Rmd', 'bookdown::pdf_book')"
-#	-mv -f tmp/* ./
-#
+pdf : fix
+	rm -f _main.*
+	R -e "bookdown::render_book('index.Rmd', 'bookdown::pdf_book')"
+
+fix : clean
+	python converter.py
+
+clean :
+	rm -rf docs/*
+	rm -rf media/*
