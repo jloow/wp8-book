@@ -1,6 +1,7 @@
 original-texts
 fix-stuff
 media
+!docs/media
 tmp
 tools
 *.not
