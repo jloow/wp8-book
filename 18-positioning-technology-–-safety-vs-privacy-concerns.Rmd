@@ -8,21 +8,21 @@ This chapter discusses the positive effects of positioning technology from a saf
 
 As can be read in chapter 4, a recommendation for creating attractive workplaces in the mining industry is to have health and safety at work as a top priority. This goal can be achieved through mechanization, remote control and automation, and a developed safety climate. An additional means of increasing safety is to use new and advanced communication and positioning technology that works in a mining environment. The communication and positioning technology allows real-time location, tracking and monitoring of vehicles, personnel and equipment. The information can be available both in control rooms on the surface and underground on mobile phones and tablets (see @fig:figure171). Such technology entails everyone, wherever they are located, having access to information about what is going on down below (and above ground). 
 
-![Positioning information of objects, people, vehicles and locations can be viewed in mobile phones and on computer screens[^152] ](./media/18-positioning-technology-–-safety-vs-privacy-concerns/media/image1.png){#fig:figure171}
+![Positioning information of objects, people, vehicles and locations can be viewed in mobile phones and on computer screens[^610] ](./media/18-positioning-technology-–-safety-vs-privacy-concerns/media/image1.png){#fig:figure171}
 
 
 
-[^152]: Icons from the Noun project designed by A. Coquet.
+[^610]: Icons from the Noun project designed by A. Coquet.
 
 From a safety perspective, it is of course a great advantage to see peoples' exact location, for example, in case of a fire or a cave-in that requires evacuation of the mine. In such situations, time is of great importance. Without positioning technology, rescue personnel need to spend much time confirming that each worker is in a safe location. With a positioning system, this phase goes much faster and instead allows the focus to be on those who have not reached safety and supports decisions about who needs attention first. 
 
 Today\'s technology also makes it possible to collect other types of information from the environment in addition to that from humans. Via sensors, information regarding machine functionality, temperature, tensions, vibrations and similar data can be collected, including information on the surrounding environment such as levels of fumes and gases in the air. A rather new concept is sensors worn by humans, measuring human conditions. Physiological sensors can provide information about *personal health* such as pulse and temperature; biokinetic sensors can measure posture and body movements (*position*); and ambient sensors can measure environmental factors such as temperature or sound pressure level (Johny & Anpalagan, 2014; @fig:figure172). These systems could also be useful as a preventive safety system or in case of an accident, as the information can be shared with other workers close by, control room personnel, and rescue personnel. 
 
-![Information that is possible to collect by positioning technology and wearable sensors[^47] ](./media/18-positioning-technology-–-safety-vs-privacy-concerns/media/image2.png){#fig:figure172}
+![Information that is possible to collect by positioning technology and wearable sensors[^512] ](./media/18-positioning-technology-–-safety-vs-privacy-concerns/media/image2.png){#fig:figure172}
 
 
 
-[^47]:  Icons from the Noun project designed by A. Coquet and Ahmad.
+[^512]:  Icons from the Noun project designed by A. Coquet and Ahmad.
 
 Doubtlessly, this capability is a great advantage, but what do the workers think about such technology? In a safety critical situation, this type of human tracking might be accepted by the workers, but the information could also be misused. As can be read in chapter 15, one must be aware that these kinds of systems are a threat against personal integrity and must therefore be handled with care. According to Zweig and Webster (2002), there is a growing acknowledgement that technologies that track presence and activity lead to privacy concerns. Hence, when implementing such technology, psychological aspects must be taken under consideration.
 
@@ -69,27 +69,3 @@ There are of course other important aspects to consider, but the purpose of this
 -   Ensure that the users receive proper training.
 
 -   Give the workers thorough information, and ensure that there are forums to vent questions about expectations and fears with the technology.
-
-**References **
-
-Alge, B. J. (2001). Effects of computer surveillance on perceptions of privacy and procedural justice. *Journal of Applied Psychology*, *86*(4), 797-804. DOI: 10.1037//0021-9010.86.4.797
-
-Brandimarte, L., Acquisti, A., & Loewenstein, G. (2013). Misplaced confidences: Privacy and the control paradox. *Social Psychological and Personality Science*, *4*(3), 340-347. [[https://doi.org/10.1177/1948550612455931]{.underline}](https://doi.org/10.1177%2F1948550612455931)
-
-Davis, F. D. (1993). User acceptance of information technology: System characteristics, user perceptions and behavioral impacts. *International Journal of Man-Machine Studies*, *38*(3), 475--487. https://doi-org.proxy.lib.ltu.se/10.1006/imms.1993.1022
-
-Johny, B., & Anpalagan, A. (2014). Body area sensor networks: Requirements, operations, and challenges. *IEEE Potentials*, *33*(2), 21-25. DOI: [10.1109/MPOT.2013.2286692](https://doi.org/10.1109/MPOT.2013.2286692)
-
-Montague, E., & Chiou, E. K. (2014). Trust in complex work systems: A focus on information and communication technologies. In C. Korunka & P. Hoonakker (Eds.), *The impact of ICT on quality of working life* (pp. 143-152). Dordrecht: Springer. Doi: 10.1007/978-94-017-8854-0
-
-Pavlou, P. A. (2003). Consumer acceptance of electronic commerce: Integrating trust and risk with the technology acceptance model. I*nternational Journal of Electronic Commerce, 7*(3), 101-134. <https://doi.org/10.1080/10864415.2003.11044275>
-
-Sarker, S., Valacich, J. S., & Sarker, S. (2005). Technology adoption by groups: A valence perspective. *Journal of the Association for Information Systems*, *6*(2), 37-71.
-
-Stone, E. F., & Stone, D. L. (1990). Privacy in Organizations: Theoretical issues, Research findings, and Protection mechanisms. *Research in personnel and human resources management*, *8*(3), 349-411.
-
-Venkatesh, V., Morris M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: toward a unified view. *MIS Quarterly, 27(3*), 425-478. DOI:10.2307/30036540
-
-Zweig, D., & Webster, J. (2002). Where is the line between benign and invasive? An examination of psychological barriers to the acceptance of awareness monitoring systems. *Journal of organizational behavior, 23*, 605-633. Doi: 10.1002/job.157
-
-

@@ -57,15 +57,3 @@ Given that mining companies are relying on contractors to a significant extent, 
 -   It should be possible for contractors to report safety-related incidents to the mining company's own safety database. It should also be possible to hand in observed risks and hazards manually through, e.g., specific "mailboxes" placed in and around the operations.
 
 -   Post-work evaluations should be performed on how health and safety issues have been handled by the contractors and by the mining company itself, including the communication and information sharing between the parties involved.
-
-**References**
-
-Mayhew, C., Quinlan, M., & Ferris, R. (1997). The effects of subcontracting/outsourcing on occupational health and safety: Survey evidence from four Australian industries. Safety Science, 25(1-3), 163--178.
-
-Muzaffar, S., Cummings, K., Hobbs, G., Allison, P., & Kreiss, K. (2013). Factors associated with fatal mining injuries among contractors and operators. Journal of Occupational and Environmental Medicine, 55(11), 1337--1344.
-
-Nygren, M., Jakobsson, M., Andersson, E., & Johansson, B. (2017). Safey and multi-employer worksites in high-risk industries. Relations industrielles/Industrial relations, 72(2), 223--245.
-
-SveMin. (2010). Occupational Injuries and Sick Leave in the Swedish Mining and Mineral Industry 2009. SveMin, Stockholm.
-
-

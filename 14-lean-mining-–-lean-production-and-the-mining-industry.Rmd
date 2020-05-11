@@ -12,9 +12,9 @@ You might have heard of terms such as "mean production". This term refers to ver
 
 ## What is lean production?
 
-To discuss lean production, we first need to understand what it is. Defining it is not easy. Many disagree about what parts actually constitute lean production. To paint our picture, instead at looking at one book or theory of lean production, we will depart from research that has tried to summarize the most salient points of most management studies on lean production. There are so many versions and few ways of telling which version is correct. Thus, we obtain a broader overview.[^146] 
+To discuss lean production, we first need to understand what it is. Defining it is not easy. Many disagree about what parts actually constitute lean production. To paint our picture, instead at looking at one book or theory of lean production, we will depart from research that has tried to summarize the most salient points of most management studies on lean production. There are so many versions and few ways of telling which version is correct. Thus, we obtain a broader overview.[^802] 
 
-[^146]: There is also research on how lean production is actually practiced in organizations. We will not use this research, as when most people are introduced to lean, it is through the management literature.
+[^802]: There is also research on how lean production is actually practiced in organizations. We will not use this research, as when most people are introduced to lean, it is through the management literature.
 
 According to Lyons et al. (2013), lean production comes down to four principles:
 
@@ -54,9 +54,9 @@ What, then, might lean mining look like? It is not enough to "copy" lean product
 
 Given the central role of waste, we could start with it or rather with its opposite, i.e., value. Waste, being a general concept, is directly applicable to the mining industry. In traditional lean production, value is anything a customer is willing to pay for, such that its inclusion in a product makes the customer willing to accept a higher price. This value can be specific features but also quality. However, the nature of mining operations---usually being huge operations with large societal and environmental impact---requires us to expand what we mean by value. Wijaya, Kumar, and Kumar (2009) have in this manner argued that mining companies have several *indirect* customers, such as society, government and the media.
 
-The point here is that "value" should reflect what these stakeholders hold as important. For example, we can imagine sustainability as such a stakeholder value. A mining operation then only provides value if it produces ore *and* does so in a sustainable manner. Removing waste is then also a question of removing unsustainable practices.[^675] 
+The point here is that "value" should reflect what these stakeholders hold as important. For example, we can imagine sustainability as such a stakeholder value. A mining operation then only provides value if it produces ore *and* does so in a sustainable manner. Removing waste is then also a question of removing unsustainable practices.[^634] 
 
-[^675]: This approach may require us to extend the categories of waste, but at least for sustainability (be it social or environmental), the original categories can be used. Other researchers have looked more into this approach. Winkel et al. (2015) for example have tried to combine lean production and ergonomic interventions. Kurdve (2014) has tried to conceptualize "green" lean.
+[^634]: This approach may require us to extend the categories of waste, but at least for sustainability (be it social or environmental), the original categories can be used. Other researchers have looked more into this approach. Winkel et al. (2015) for example have tried to combine lean production and ergonomic interventions. Kurdve (2014) has tried to conceptualize "green" lean.
 
 In the past (Lööw 2018), we have looked at which practices of lean production the mining industry use (both as a part of and outside of lean production). Our thinking is that we can look at these practices to obtain a picture of what may be suitable for the industry. The most common practices we found were the following:
 
@@ -88,16 +88,3 @@ This approach ultimately places certain requirements on technology:
 -   It must be possible to modify technology to continuously improve it.
 -   It must be possible for operators to repair and maintain the technology.
 -   Technology must be intuitive enough that it can be safely interacted with by groups such as contractors; in other words, standards are essentially enough to describe its rudimentary operations.
-
-**References**
-
-Kurdve, Martin. 2014. "Development of Collaborative Green Lean Production Systems." PhD thesis, Eskilstuna/Västerås.
-
-Lööw, Joel. 2018. "An Investigation into Lean Production Practice in Mining." *International Journal of Lean Six Sigma* 10 (1): 123--42. <https://doi.org/10.1108/IJLSS-07-2017-0085>.
-
-Lyons, Andrew Charles, Keith Vidamour, Rakesh Jain, and Michael Sutherland. 2013. "Developing an Understanding of Lean Thinking in Process Industries." *Production Planning & Control* 24 (6): 475--94. [https://doi.org/10.1080/09537287.2011.633576; 05 10.1080/09537287.2011.633576](https://doi.org/10.1080/09537287.2011.633576; 05 10.1080/09537287.2011.633576).
-
-Wijaya, A R, R Kumar, and U Kumar. 2009. "Implementing Lean Principle into Mining Industry - Issues and Challenges." Edited by R K Singhal. Reading Matrix Inc.
-
-Winkel, Jörgen, Kasper Edwards, Birna Dröfn Birgisdóttir, and Sigrún Gunnarsdóttir. 2015. "Facilitating and Inhibiting Factors in Change Processes Based on the Lean Tool 'Value Stream Mapping': An Exploratory Case Study at Hospital Wards." *International Journal of Human* Factors and Ergonomics 3 (3): 291. <https://doi.org/10.1504/IJHFE.2015.073000>.
-

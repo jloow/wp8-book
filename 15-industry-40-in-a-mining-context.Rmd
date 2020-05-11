@@ -33,12 +33,3 @@ Romero et al. (2016) formed a typology of the future Industry 4.0 operator -- Op
 -   **Analytical operator** -- With more data being gathered from machines and systems, operators can better understand their performance and status. In addition, the increased amount and types of information allow for better forecasts of system and machine performance. This improvement allows for better scheduling of more types of maintenance work. The increased data flow can also come to affect the mining operators because their work tasks could be focussed more on optimization and development.
 
 This classification points to the numerous possibilities of integrating Industry 4.0 with human labour, with some good and some bad. However, this development is not about *creating new* kinds of jobs. Rather, it is a development indicating that most current jobs will be *influenced* by these characteristics and developments. Miners will not disappear, but they will be different in the future.
-
-**References**
-
-Lööw, J., Abrahamsson, L. & Johansson (2019). Mining 4.0---the Impact of New Technology from a Work Place Perspective, *J. Mining, Metallurgy & Exploration*. <https://doi.org/10.1007/s42461-019-00104-9>
-
-Kagerman, H., W. Wahlster and J. Helbig. 2013. Recommendations for Implementing the Strategic Initiative Industry 4.0. München: Acatech.
-
-Romero, D., J. Stahre, T. Wuest, O. Noran, P. Bernus, Å. Fast-Berglund, and D. Gorecky. 2016. Towards an operator 4.0 typology: a human-centric perspective on the fourth industrial revolution technologies. In Proceedings International Conference on Computers & Industrial Engineering (CIE46).
-

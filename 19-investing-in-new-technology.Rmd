@@ -147,24 +147,3 @@ Many barriers to acceptance of change can be structured under trust. Trust in ma
     -   Data are open and accessible for all employees. 
 
 Privacy can be a concern if individuals believe they do not have control over their personal information and their interactions with others (Stone & Stone, 1990). The individual perceiving such a loss of control can lead to a perception of invasion of privacy. Today, there is an increase in what data can be collected that may be perceived as private, for example, your current position, your conversations, your arousal level, your drowsiness, and even your facial expressions. New technologies challenge personal boundaries. Based on Davis' (1993) model, we could assume that acceptance towards new privacy-violating technologies will be low if the usefulness is not clear. Trust should also be considered. It is recommended that the use of information is strictly limited to its purpose and not used for other purposes. Employees will sooner or later discover whether the technology is used as a tool for increased management control and supervision, and their trust will be violated if that use is not coherent with the communicated intended use. 
-
-**References**
-
-Conte, J. M., & Landy, F. J. (2018). *Work in the 21st century. An introduction to industrial and organizational psychology* (6th ed.). Hoboken: Wiley. 
-
-Davis, F. D. (1993). User acceptance of information technology: System characteristics, user perceptions and behavioral impacts. *International Journal of Man-Machine Studies*, *38*(3), 475--487. https://doi-org.proxy.lib.ltu.se/10.1006/imms.1993.1022
-
-Horberry, T., Burgess-Limerick, R., & Steiner, L. J. (2018). *Human-centered design for mining equipment and new technology*. Boca Raton: CRC Press.
-
-Hughes, R. L., Ginnett, R., & Curphy, G. (2015). *Leadership: Enhancing the Lessons of Experience*. New York: McGraw-Hill Education.
-
-Kramer, R. M. (1999). Trust and distrust in organizations: Emerging perspectives, enduring questions. *Annual Review of Psychology, 50*, 569-598. <https://doi.org/10.1146/annurev.psych.50.1.569>
-
-Montague, E., & Chiou, E. K. (2014). Trust in complex work systems: A focus on information and communication technologies. In C. Korunka & P. Hoonakker (Eds.), *The impact of ICT on quality of working life* (pp. 143-152). Dordrecht: Springer. Doi: 10.1007/978-94-017-8854-0
-
-Stone, E. F., Stone, D. L. (1990). Privacy in Organizations: Theoretical issues, Research findings, and Protection mechanisms. *Research in personnel and human* *resources management, 8*(3), 349-411.
-
-Venkatesh, V., Morris M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: toward a unified view. *MIS Quarterly, 27*(3), 425-478. DOI:10.2307/30036540
-
-Zweig, D., & Webster, J. (2002). Where is the line between benign and invasive? An examination of psychological barriers to the acceptance of awareness monitoring systems. *Journal of organizational behavior, 23*, 605-633. Doi: 10.1002/job.157
-

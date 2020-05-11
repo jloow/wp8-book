@@ -14,12 +14,12 @@ When new technology is introduced, we may think that the employees' attitudes to
 
 One such prominent theory that takes other factors into account is the theory of planned behaviour (TPB), developed by Ajzen and Fishbein (1980, read in Ajzen, 1991). The theory is useful when the decision to engage in a particular behaviour is assumed to be the result of a rational process. In other words, humans decide how to behave after considering different behavioural options and evaluating different possible outcomes (Branscombe & Baron, 2017). The decision will lead to an *intention* to perform the chosen behaviour. Intentions are assumed to capture the motivational factors that influence a behaviour and are suggested to be a good predictor of actual behaviour (Ajzen, 1991). In general, the stronger the intention to engage in a specific behaviour, the more likely the behaviour will be performed. According to the theory, intentions are formed and determined by three factors: a*ttitudes towards the behaviour*, s*ubjective norms* and p*erceived behavioural control* (see @fig:figure161).
 
-![Theory of planned behaviour (Ajzen, 1991)[^622]  ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image1.png){#fig:figure161}
+![Theory of planned behaviour (Ajzen, 1991)[^760]  ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image1.png){#fig:figure161}
 
 
 
 
-[^622]:  Icons from Noun project designed by A. Uddin, G. Cresnar, J. Pictos, Popcornarts, and Corpus delicti.
+[^760]:  Icons from Noun project designed by A. Uddin, G. Cresnar, J. Pictos, Popcornarts, and Corpus delicti.
 
 The first factor, *attitude towards the behaviour*, refers to "the degree to which a person has a favourable or unfavourable evaluation or appraisal of the behaviour in question" (Ajzen, 1991, p. 188); in other words, in this context, whether the employees believe that the implementation of new technology will have positive or negative consequences. If the attitude is positive, the intention to use the new technology will be stronger. The second factor, *subjective norm,* refers to "the perceived social pressure to perform or not to perform the behaviour" (Ajzen, 1991, p. 188). In other words, the intention to use the new technology will be affected by the opinions of other people, whether they approve or disapprove the use, and how much the person cares about others' opinion. If a prominent group member shows strong attitudes towards or against the technology, the other group members may follow and make that person\'s opinions their own. The third factor is the degree of *perceived behavioural control*, which refers to "the perceived ease or difficulty of performing the behaviour and is assumed to reflect past experience and anticipated impediments and obstacles" (Ajzen, 1991, p. 188), i.e., people's appraisals of their ability to perform the behaviour. 
 
@@ -35,11 +35,11 @@ TAM also describes how the system affects the use through perceived usefulness a
 
 As a summary, when purchasing a new system, it is first and foremost important to ensure that it corresponds to an actual benefit and thus is useful. The system should improve the outcome, e.g., provide increased quality, quantity, accuracy or safety. The system should also streamline the execution of a task, such as reducing time and effort. An easy-to-use system makes the design more efficient; thus, it is also an advantage if the system is perceived as easy to use in addition to being useful.
 
-![The Technology Acceptance Model (Davis, 1993) [^929] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image2.png){#fig:figure162}
+![The Technology Acceptance Model (Davis, 1993) [^65] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image2.png){#fig:figure162}
 
 
 
-[^929]: Icons from Noun project designed by Strokeicon, A. Uddin, G. Cresnar, M. Polakovic, and Corpus delicti.
+[^65]: Icons from Noun project designed by Strokeicon, A. Uddin, G. Cresnar, M. Polakovic, and Corpus delicti.
 
 ## Unified Theory of Acceptance and Use of Technology (UTAUT)
 
@@ -55,12 +55,12 @@ The fourth construct, *facilitating conditions*, is defined as "the degree to wh
 
 The UTAUT also consists of four moderating factors: gender, age, experience and voluntariness of use (see @fig:figure163). These moderators are expected to affect the relationship between the constructs and the intention to accept/use the technology. For example, performance expectancy has been found to be more salient for men and younger workers (compared with women and elderly workers), while the opposite is found for effort expectancy. Further, women are suggested to be more sensitive (than men are) to others' opinions when forming an intention to use new technology; however, the effect declines with experience. The complex interactions for gender and age are something to consider to be able to create equitable workplace environments for women and men of all ages (Venkatesh et al., 2003). For more about that topic, see Chapter 19.
 
-![The variables and moderators in the UTAUT model (Venkatesh et al., 2003)[^747]  ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image3.png){#fig:figure163}
+![The variables and moderators in the UTAUT model (Venkatesh et al., 2003)[^504]  ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image3.png){#fig:figure163}
 
 
 
 
-[^747]: Icons from Noun project designed by A. Coquet, S. Singh, M. Polakovic, G. Cresnar, A. Uddin, G. Higgins, J. Pictos, and Corpus delicti.
+[^504]: Icons from Noun project designed by A. Coquet, S. Singh, M. Polakovic, G. Cresnar, A. Uddin, G. Higgins, J. Pictos, and Corpus delicti.
 
 Since this model was introduced, it has been used extensively by researchers when trying to explain the acceptance and use of technology. Although the model has been successful, newer research has found that these constructs and moderators are not always applicable to all contexts, and some crucial constructs may be excluded (Dwivedi, Rana, Jeyaraj, Clement, & Williams, 2019). Many studies have not utilized the moderating factors (Venkatesh et al., 2012); one explanation might be that there may not be any variation in the moderators (Dwivedi et al., 2019). As an example, the organization might have decided that the use of the technology is mandatory, which makes the moderator voluntariness not applicable. Dwivedi and colleagues (2019) further argue that the UTAUT model is missing one important aspect, namely, the individual perspective. Attitudes, an individual's positive or negative feelings about performing the target behaviour, play an important role in accepting technology, as suggested in the TPB model. They found that attitude had a central role in an individual's intention to use the technology and that it also had a direct effect on usage behaviour. Therefore, it is proposed that attitude should be an integral part of the UTAUT model in the future. 
 
@@ -68,11 +68,11 @@ Since this model was introduced, it has been used extensively by researchers whe
 
 Implementing new technology also often means an organizational change. Acceptance of new technology is therefore somewhat linked to the success of the organizational change. Unfortunately, approximately 70% of initiated changes fail (e.g., Burnes, 2011). It is therefore of great value to have an effective approach for organizational change. A rational approach to change is Beer's theory of organizational change (Beer 1988, read in Hughes, Ginnett, & Curphy, 2015). This model includes many of the issues raised by other researchers in the field and highlights what is important for leaders in organizations to consider if they want to be successful with their change effort. The model can be used as a road map when wanting to implement an organizational change and as a diagnostic tool to determine what went wrong if an investment failed to meet its promises (Hughes et al., 2015). Beer has proposed a formula for organizational change, as seen in @fig:figure164.
 
-![Beer's (1988, read in Hughes et al., 2015) formula for organizational change[^472] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image4.png){#fig:figure164}
+![Beer's (1988, read in Hughes et al., 2015) formula for organizational change[^47] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image4.png){#fig:figure164}
 
 
 
-[^472]: Icons from Noun project designed by A. Coquet, G.K. Lay, and M.R. Alam.
+[^47]: Icons from Noun project designed by A. Coquet, G.K. Lay, and M.R. Alam.
 
 ***C*** stands for the **amount of change** that is achieved, and of course "the more the better". However, the amount depends on the levels of the other factors in the formula, which needs to be considered to be successful with the change. These factors are briefly described below and exemplified with introducing new technology in a mining context.
 
@@ -102,12 +102,12 @@ Interactional justice refers to how well the employees are treated when procedur
 
 The feeling of being treated fairly influences a wide range of emotional and behavioural reactions, as mentioned in the beginning of this section. The perception of justice has been found to make the employees accept less-than-perfect working conditions (Conte & Landy, 2018). On the other hand, the perception of injustice has been proposed to have an even greater impact than justice and can for example lead to retaliation and reduced effort. Once this feeling has arisen, it is extremely difficult to undo the harm. It is therefore important to give thorough information about the process, ensure that the employees can voice their opinions and treat the employees with respect and empathy.
 
-![Types of justice (Conte & Landy, 2018)[^240] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image5.png){#fig:figure165}
+![Types of justice (Conte & Landy, 2018)[^928] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image5.png){#fig:figure165}
 
 
 
 
-[^240]: Icons from Noun project designed by A. Coquet, D. Kunze, J. Pictos, and S. Wauters.
+[^928]: Icons from Noun project designed by A. Coquet, D. Kunze, J. Pictos, and S. Wauters.
 
 ### Trust
 
@@ -115,48 +115,8 @@ Many barriers to acceptance of change can be structured under *trust*. Trust is 
 
 If the newly introduced technology reduces efficiency, decreases safety and is difficult to use, it can negatively impact employee trust in the organization (Montague & Chiou, 2014). Further, it is found that people who have lost trust begin to seek out information that will confirm their distrust, and they are less open to information that challenges that distrust (Conte & Landy, 2018). In other words, previously handled implementations can affect how new technology is accepted. Trust is difficult to build but easy to lose (Kramer, 1999). Further, once trust in an organization has been lost, it is extremely hard to rebuild (Conte & Landy, 2018). Have in mind though, that explanations and apologies can help repair the damage done by violations of trust (Conte & Landy, 2018), which goes hand in hand with the recommendations to ensure that the workplace is perceived as just and fair. 
 
-![Different types of trust[^634] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image6.png){#fig:figure166}
+![Different types of trust[^937] ](./media/17-acceptance-of-new-technology-–-the-most-prominent-theories/media/image6.png){#fig:figure166}
 
 
 
-[^634]: Icons from Noun project designed by A. Coquet, G.K. Lay, Graphic Enginer, and LAFS.
-
-**References**
-
-Ajzen, I. (1991). The theory of planned behavior. *Organizational behavior and human decision processes*, *50*(2), 179-211. <https://doi.org/10.1016/0749-5978(91)90020-T>
-
-Alge, B. J. (2001). Effects of computer surveillance on perceptions of privacy and procedural justice. *Journal of Applied Psychology*, *86*(4), 797-804. DOI: 10.1037//0021-9010.86.4.797
-
-Anderson, L. A., & Dedrick, R. F. (1990). Development of the trust in physician scale: A measure to assess interpersonal trust in patient-physician relationship. *Psychological Reports, 67*, 1091-1100. DOI: 10.2466/pr0.1990.67.3f.1091
-
-Arnold, J., Randall, R., Patterson, F., Silvester, J., Robertson, I., Cooper, C., Burnes, B., Harris, D., & Axtell, C. (2016). *Work psychology: understanding human behaviour in the workplace* (6th ed.). Harlow: Pearson Education.
-
-Branscombe, N. R., & Baron, R. A. (2017). *Social psychology* (14th ed.). Harlow: Pearson Education. 
-
-Burnes, B. (2011). Introduction: Why Does Change Fail, and What Can We Do About It?. *Journal of Change Management, 11*(4), 445-450, DOI: 10.1080/14697017.2011.630507
-
-Colquitte, J. A., Conlon, D. E., Wesson, M. J., Porter, C. O., & Ng, K. Y. (2001). Justice at the millennium: A meta-analytic review of 25 years of organizational justice research. *Journal of Applied Psychology, 86*, 425-445. DOI: 10.1037//0021-9010.86.3.425
-
-Conte, J. M., & Landy, F. J. (2018). *Work in the 21st century. An introduction to industrial and organizational psychology* (6th ed.). Hoboken: Wiley. 
-
-Davis, F. D. (1993). User acceptance of information technology: system characteristics, user perceptions and behavioral impacts. *International journal of man-machine studies, 38*(3), 475-487. [[https://doi.org/10.1006/imms.1993.1022]{.underline}](https://doi.org/10.1006/imms.1993.1022)
-
-Dwivedi, Y. K., Rana, N. P., Jeyaraj, A., Clement, M., & Williams, M. D. (2019). Re-examining the Unified Theory of Acceptance and Use of Technology (UTAT): Towards a revised theoretical model*. Information Systems Frontier, 21*(3), 719-734. Doi: 10.1007/s10796-017-9774-y
-
-Hughes, R. L., Ginnett, R., & Curphy, G. (2015). *Leadership: Enhancing the Lessons of Experience*. New York: McGraw-Hill Education.
-
-Kramer, R. M. (1999). Trust and distrust in organizations: Emerging perspectives, enduring questions. *Annual Review of Psychology, 50*, 569-598. <https://doi.org/10.1146/annurev.psych.50.1.569>
-
-Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. *Academy of Management Review, 20*(3), 709-734. DOI: 10.2307/258792
-
-Montague, E., & Chiou, E. K. (2014). Trust in complex work systems: A focus on information and communication technologies. In C. Korunka & P. Hoonakker (Eds.), *The impact of ICT on quality of working life* (pp. 143-152). Dordrecht: Springer. Doi: 10.1007/978-94-017-8854-0
-
-Timmons, S., Harrison-Paul, R., & Crosbie, B. (2008). How do lay people come to trust the automatic external defibrillator? *Health, Risk & Society, 10*(3), 207-220. DOI: 10.1080/13698570802160939
-
-Venkatesh, V., Morris M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. *MIS Quarterly, 27*(3), 425-478. DOI:10.2307/30036540
-
-Venkatesh, V., Thong, J., & Xu, X. (2012). Consumer acceptance and use of information technology: Extending the unified theory of acceptance and use of technology. *MIS Quarterly, 36*(1), 157-178. DOI:10.2307/41410412 
-
-Zuiderwijk, A., Janssen, M., & Dwivedi, Y. K. (2015). Acceptance and use predictors of open data technologies: Drawing upon the unified theory of acceptance and use of technology. *Government information quarterly*, *32*(4), 429-440. http://dx.doi.org/10.1016/j.giq.2015.09.005
-
-
+[^937]: Icons from Noun project designed by A. Coquet, G.K. Lay, Graphic Enginer, and LAFS.
