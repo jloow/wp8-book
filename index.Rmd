@@ -23,7 +23,7 @@ output:
       in_header: preamble.html
   bookdown::pdf_book:
     latex_engine: xelatex
-    pandoc_args: ['--filter', 'pandoc-crossref']
+    pandoc_args: [ '--filter', 'pandoc-crossref', '--reference-links', '--reference-location=block']
     includes:
       in_header: preamble.tex
 ---

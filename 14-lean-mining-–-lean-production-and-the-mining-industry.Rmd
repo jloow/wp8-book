@@ -1,7 +1,7 @@
 # Lean mining -- lean production and the mining industry# 
 
 ```{block, type='chap-auth'}
-`Joel Lööw and Jan Johansson`
+Joel Lööw and Jan Johansson
 ```
 
 Lean production is a management concept that originated in the Japanese car manufacturing industry. It spread quickly around the world and to other industries, as it managed to outperform other production approaches. Today, almost every industry practices some variant of lean production, but not the mining industry. Rather, the mining industry has not developed its own variant of lean production, while most other industries have.

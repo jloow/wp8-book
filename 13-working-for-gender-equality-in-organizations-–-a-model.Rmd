@@ -1,7 +1,7 @@
 # Working for gender equality in organizations -- a model# 
 
 ```{block, type='chap-auth'}
-Eira Andersson & Lisa Ringblom
+Eira Andersson and Lisa Ringblom
 ```
 
 To work for increased gender equality in organizations requires a systematic and long-term approach. We suggest here a model for that work (see @fig:figure121). The model focusses the work as a process, as a circular movement for learning and continuous improvements. The first step of the model for working for improved gender equality is analysis, which focusses on a situation assessment and collecting data about the current situation, an important aspect of all change processes within organizations as a basis for a new practice. Thereafter, the model takes on objectives, planning, actions, monitoring of the activities and, finally and importantly, evaluation of the process and its results to take on to the next cycle.

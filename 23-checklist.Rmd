@@ -1,0 +1,691 @@
+# Checklist for safe and attractive mining workplaces
+
+
+```{block, type='chap-auth'}
+Erik Sundström
+```
+
+While ensuring and creating safe and attractive mining workplaces is important, it is understandably not a simple task.
+There are many aspects, issues and questions that must be considered and addressed to achieve that goal, enough that it would be very difficult to try and address them all at once. Making wider, simpler analyses on the current state of a mining workplace, however, can still be useful. Identifying what areas of a mining workplace that can be changed to improve safety and attractiveness should be done to allow for early analysis and planning of actions. It is possible, however, that people become blind to the faults and needs for improvement in their working environment. This checklist aims to help highlight potential areas of improvement in a mining workplace that could make it a safer and more attractive workplace, without presenting in-depth solutions that may limit the decisionmaking process.
+
+## Key categories for documentation {-}
+
+* Name and/or location of the mine:
+
+  ____________________________________
+
+* Date of investigation:
+
+  ____________________________________
+
+## Safety and risks: General questions {-}
+
+* Are there systems for documentation of incidents, risks and accidents available?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Are the employees motivated and encouraged to document and report incidents, risks and accidents?
+
+    - [ ] Yes
+    - [ ] No
+
+  * Are reports anonymous?
+
+    - [ ] Yes
+    - [ ] No
+
+  * Are managers and the organization accepting and welcoming of these reports?
+
+     *(i.e., taking suggestions and warnings to heart, not becoming defensive and/or accusatory towards the one reporting)*
+
+    - [ ] Yes
+    - [ ] No
+
+* Are reports of incidents, risks and accidents taken seriously by management?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Are reports of incidents and risks investigated?
+
+      - [ ] Yes
+      - [ ] No
+
+  * Are reports of accidents followed up?
+
+      - [ ] Yes
+      - [ ] No
+
+* Are contractors motivated and encouraged to document and report incidents, risks and accidents to the organization?
+
+  - [ ] Yes
+  - [ ] No
+  
+  * Are actions taken to address dangers and risks in contractor workplaces?
+
+      - [ ] Yes
+      - [ ] No
+
+* How are hazards most-commonly handled?
+
+  - [ ] Hazards are eliminated by replacing them in the planning stages.
+  - [ ] Hazards are isolated so that they cannot reach individuals.
+  - [ ] Change how people work to reduce the effects and/or risks of hazards.
+  - [ ] Hazards are encapsulated and limited through enclosures and physical protection.
+  - [ ] People are isolated from the hazard zone through enclosures and physical protection around the individuals.
+  - [ ] Risks are reduced through information and training on safe handling of and work with the hazard.
+  - [ ] The effects of hazards on workers are mitigated with personal protective equipment.
+
+* Are efforts being taken to move towards the higher levels of hazard control?
+
+  - [ ] Yes
+  - [ ] No
+
+* Is systematic safety work management practised?
+
+    *(i.e., systematic review of reports, analysis of risks and accidents, and maintaining good safety practices, etc.*)
+
+  - [ ] Yes
+  - [ ] No
+
+## Safety and risks: Mining-specific questions {-}
+
+* Are remote-controlled vehicles used in the mine?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are there work tasks where the miners work alone?
+
+  - [ ] Yes
+  - [ ] No
+
+* Do the employees take training courses in mine safety?
+  
+  - [ ] Yes
+  - [ ] No
+
+  * Is this training mandatory?
+
+    - [ ] Yes
+    - [ ] No
+
+  * Is the training recurring?
+    
+    - [ ] Yes
+    - [ ] No
+
+  * Do the employees receive additional training if/when changes are made in the workplace?
+
+    - [ ] Yes
+    - [ ] No
+
+*  Are the presences of the people in the mine registered?
+
+    *(i.e., checking in/out when entering/exiting the mine in case of an accident/if the mine needs evacuating)*
+
+  - [ ] Yes
+  - [ ] No
+
+* Are employees educated in evacuation procedures in case of an accident?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are contractors educated in evacuation procedures in case of an accident?
+
+  - [ ] Yes
+  - [ ] No
+
+* Who is evacuated during blasting?
+
+  - [ ] Everyone in the mine
+  - [ ] People near the blasting zone
+
+Are there procedures for searching for duds after blasting?
+
+- [ ] Yes
+- [ ] No
+
+## Safety and risks: Equipment and vehicles {-}
+
+* Is standard safety equipment available to the miners?
+
+  - [ ] Helmet
+  - [ ] Hi-vis clothing
+  - [ ] Ear protection
+  - [ ] Eye protection
+  - [ ] Work gloves
+  - [ ] Work boots
+  - [ ] Breathing mask
+  - [ ] Lamp/Light
+
+* Do all employees wear/utilize the safety equipment?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are the employees motivated/encouraged to utilize the safety equipment?
+
+  - [ ] Yes
+  - [ ] No
+
+* Do all contractors wear/utilize the safety equipment?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are contractors motivated/encouraged to utilize the safety equipment?
+
+  - [ ] Yes
+  - [ ] No
+
+* Do the employees have ways to remotely communicate with others while working in the mine?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are the employees’ locations tracked?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Is it the equipment and the vehicles or the employees themselves that are tracked?
+
+    - [ ] Equipment & vehicles
+    - [ ] Employees
+    - [ ] Both
+    - [ ] Not applicable
+
+  * Are contractors tracked?
+
+    - [ ] Yes
+    - [ ] No
+
+  * Is this tracking restricted to inside the mine?
+
+    - [ ] Yes
+    - [ ] No
+
+  * Is tracking restricted to be used during active work?
+
+      *(i.e., tracking is not used during breaks and office work, etc.*)
+
+    - [ ] Yes
+    - [ ] No
+
+* Are the employees' health conditions monitored?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are there regular safety tests performed on the equipment and vehicles?
+
+    *(i.e., break tests and light tests, etc.)*
+
+  - [ ] Yes
+  - [ ] No
+
+* Are mining vehicles capable of protecting from rockfalls?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are there safety routines and procedures for all work activities?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Are these routines followed by all employees?
+
+    - [ ] Yes
+    - [ ] No
+
+  * Are these routines followed by all contractors?
+
+    - [ ] Yes
+    - [ ] No
+
+  * How are employees motivated to follow safety routines?
+
+    - [ ] Training
+    - [ ] Signs and information
+    - [ ] Reminders from others
+    - [ ] Not applicable
+
+* Is the visibility in mining vehicles improved/compensated for in some way?
+
+  - [ ] Cameras
+  - [ ] Proximity sensors
+  - [ ] Mirrors
+  - [ ] Other
+  - [ ] No
+
+## Ergonomics {-}
+
+* Are mining vehicle interfaces designed to avoid uncomfortable working positions?
+
+  - [ ] Yes
+  - [ ] No
+
+* Can the equipment and tools generally be adjusted according to the users’ needs?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Are the seats and chairs adjustable?
+
+    - [ ] Adjustable seat height
+    - [ ] Adjustable back support
+  - [ ] Adjustable arm rest height
+
+* Are the mining workplaces properly illuminated?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are sufficient efforts taken to minimize employee exposure to vibration?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are sufficient efforts taken to minimize employee exposure to high noise and sound levels?
+
+  - [ ] Yes
+  - [ ] No
+
+  * The limit to safe average levels of exposure is 85 dB over 8 hours; anything higher and people may risk hearing damage Are sufficient efforts taken to provide clean air in the mine workplaces?
+
+      *(The limit to safe levels of diesel pollution is at 400 µm/m3 [concentration])*
+
+    - [ ] Yes
+    - [ ] No
+
+* Are sufficient efforts taken to minimize employee exposure to potentially dangerous chemicals?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are sufficient efforts taken to minimize employee exposure to dust?
+
+    *(The limit to safe dust levels is 0,1 mg/m3 of air.)*
+
+  - [ ] Yes
+  - [ ] No
+
+
+## Working hours {-}
+
+* How long are work shifts generally?
+
+  - [ ] <8 hours
+  - [ ] 8 hours
+  - [ ] 10 hours
+  - [ ] >10 hours
+
+* Are there employees who often work shifts longer than 8 hours?
+
+  - [ ] Yes
+  - [ ] No
+
+* How common is overtime work?
+
+  - [ ] Once or twice per month
+  - [ ] Once per week
+  - [ ] 2-3 shifts per week
+  - [ ] >3 shifts per week
+
+* Do employees work consistent shift times?
+
+    *(i.e., would an employee consistently work evening shifts during a week, or would they vary between day/evening/night shifts in the same week?)*
+
+  - [ ] Yes
+  - [ ] No
+
+* Are night shifts restricted to a maximum of 8 hours per 24 hours?
+
+    *(This restriction is based on European parliament work directives.)*
+
+  - [ ] Yes
+  - [ ] No
+  - [ ] Not applicable (No night shifts)
+
+
+## Employment/working conditions {-}
+
+* What are employee wages based upon?
+
+  - [ ] Piece rate wage
+  - [ ] Hourly wage
+  - [ ] Fixed wage
+
+* Does the work pace offer variation between intensive and calm periods?
+
+    *(i.e., changing between more and less intense work tasks, or having recurrent breaks.)*
+
+  - [ ] Yes
+  - [ ] No
+
+* Is there variation between work tasks?
+
+  - [ ] Yes
+  - [ ] No
+
+  * How often do/can employees swap between work tasks?
+
+    - [ ] More often than every hour
+    - [ ] Every hour
+    - [ ] Every two hours
+    - [ ] Every four hours
+    - [ ] Every shift
+    - [ ] More infrequent than every shift
+
+  * Can employees choose whether to change work task?
+
+    - [ ] Yes
+    - [ ] No
+
+* Are there opportunities for variation between practical and mental work tasks?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are miners involved in performing maintenance work tasks?
+
+  - [ ] Yes
+  - [ ] No
+
+## Employee involvement and learning {-}
+
+* Are mine workers included in the design and implementation process for changes, or are they otherwise involved in making changes?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are workers properly recognized for performing well in their work?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are the different working roles structured in a hierarchy?
+
+    *(i.e., do every/most employees start with a specific role and advance to others depending on time worked/skill?)*
+
+  - [ ] Yes
+  - [ ] No
+
+* Can the employees take courses to develop their skills and their profession?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are employees given opportunities to improve and apply their skills in their work?
+
+    *(i.e., take courses in mine safety to become a safety representative, or become certified to operate different equipment.)*
+
+  - [ ] Yes
+  - [ ] No 
+
+* Does employee training involve senior employees?
+
+    *(i.e., do younger/newer miners learn from older/more senior miners?)*
+
+  - [ ] Yes
+  - [ ] No
+
+* Do employees work with one/a few main task(s) or does their work involve changing work
+roles?
+
+  *(i.e., would an employee only work as a “driller” or would they on some days work with bolting or material handling?)*
+
+  - [ ] Main task/role
+  - [ ] Changing tasks/roles
+  
+  * If employees have a main role/main tasks, are they trained in other tasks and roles?
+
+      *(i.e., do they possess general competence on the work tasks in their working environment?)*
+
+    - [ ] Yes
+    - [ ] No
+
+* At what organizational level is the planning level?
+
+  - [ ] Organizational
+  - [ ] Department
+  - [ ] Workgroups
+  - [ ] Individual
+
+## Social aspects {-}
+
+* Is there proper trust, communication and cooperation between employees and management?
+
+  - [ ] Yes
+  - [ ] No
+
+* Are employees given opportunities to socialize with their co-workers?
+
+  - [ ] Yes
+  - [ ] No
+
+* Does the mine interact with and support the local community?
+
+  - [ ] Yes
+  - [ ] No
+
+  * In what way?
+
+  - [ ] Public transportation
+  - [ ] Housing
+  - [ ] Infrastructure
+  - [ ] Other: ____________
+
+## Social aspects: Gender equality {-}
+
+* Have there been issues or problems exclusively affecting people of one gender?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Have these issues been addressed?
+
+    - [ ] Yes
+    - [ ] No
+
+* Have there been cases of gender-based harassment?
+
+  - [ ] Yes
+  - [ ] No
+
+* Do the workplace facilities accommodate both men and women?
+
+      *(i.e., are there bathrooms and changing rooms for both?)*
+
+  - [ ] Yes
+  - [ ] No
+
+* Are there certain work tasks that are considered gendered?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Give examples of gendered work tasks:
+
+      *(i.e., are some work tasks considered to be a “man’s job” and others “women’s work”?)*
+
+      ____________________________________
+      ____________________________________
+      ____________________________________
+      ____________________________________
+
+## Environmental aspects {-}
+
+* Are efforts made to reduce emissions?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Give examples of efforts made to reduce emissions:
+
+      ____________________________________
+      ____________________________________
+      ____________________________________
+      ____________________________________
+
+* Are efforts made to minimize the effect on the local environment?
+
+  - [ ] Yes
+  - [ ] No
+
+  * Give examples of efforts made to minimize effects on the local environment:
+
+      ____________________________________
+      ____________________________________
+      ____________________________________
+      ____________________________________
+
+## Sources {-}
+
+### Safety and risks: General questions {-}
+
+\indent
+  \setlength{\parindent}{-0.2in}
+  \setlength{\leftskip}{0.2in} \setlength{\parskip}{0.25em}
+<div id="refs"></div>
+
+Morberg, M., Bergendahl, H., & Prevent. (2009). *Bättre arbetsmiljö.*
+Prevent.
+
+Harms-Ringdahl, L., & IRS Riskhantering. (2013). *Guide to safety
+analysis for accident prevention*. IRS Riskhantering : GML.
+
+### Safety and risks: Mining-specific questions {-}
+
+Abrahamsson, L., Johansson, B., & Johansson, J. (2009). Future of metal
+mining: Sixteen predictions. *International Journal of Mining and
+Mineral Engineering*, *1*(3), 304.
+<https://doi.org/10.1504/IJMME.2009.027259>
+
+Lööw, J., Johansson, B., Andersson, E., & Johansson, J. (2019).
+*Designing ergonomic, safe, and attractive mining workplaces*. Taylor &
+Francis, a CRC title, part of the Taylor & Francis imprint, a member of
+the Taylor & Francis Group, the academic division of T&F Informa, plc.
+
+Morberg, M., Bergendahl, H., & Prevent. (2009). *Bättre arbetsmiljö.*
+Prevent.
+
+### Safety and risks: Equipment and vehicles {-}
+
+Elgstrand, K., & Vingård, E. (2013). *Occupational safety and health in
+mining: Anthology on the situation in 16 mining countries*. Occupational
+and Environmental Medicine, University of Gothenburg.
+
+Johansson, J., Abrahamsson, L., Kåreborn, B. B., Fältholm, Y., Grane,
+C., & Wykowska, A. (2017). Work and Organization in a Digital Industrial
+Context. *Management Revu*, *28*(3), 281--297.
+<https://doi.org/10.5771/0935-9915-2017-3-281>
+
+Lööw, J., & Nygren, M. (2019). Initiatives for increased safety in the
+Swedish mining industry: Studying 30 years of improved accident rates.
+*Safety Science*, *117*, 437--446.
+<https://doi.org/10.1016/j.ssci.2019.04.043>
+
+Morberg, M., Bergendahl, H., & Prevent. (2009). *Bättre arbetsmiljö.*
+Prevent.
+
+Simpson, G., Horberry, T., & Joy, J. (2009). *Understanding human error
+in mine safety*. Ashgate.
+
+### Ergonomics {-}
+
+European Commission. (2003). Directive 2003/10/EC of the European
+Parliament and of the Council of 6 February 2003 on the minimum health
+and safety requirements regarding the exposure of workers to the risks
+arising from physical agents (noise).
+<https://ec.europa.eu/health/ph\_risk/committees/04\_scenihr/docs/scenihr\_o\_018.pdf>
+
+Hägg, G. M., Ericson, M., & Odenrick, S. (2015). Physical load. In Work
+and technology on human terms (2nd ed.). Prevent.
+
+Horberry, T., Burgess-Limerick, R., & Steiner, L. J. (2018).
+Human-centered design for mining equipment and new technology. Taylor &
+Francis, a CRC title, part of the Taylor & Francis imprint, a member of
+the Taylor & Francis Group, the academic division of T&F Informa, plc.
+
+Morberg, M., Bergendahl, H., & Prevent. (2009). Bättre arbetsmiljö.
+Prevent.
+
+### Working hours {-}
+
+Johansson, B., Johansson, J., & Abrahamsson, L. (2010). Attractive
+workplaces in the mine of the future: 26 statements. *International
+Journal of Mining and Mineral Engineering*, *2*(3), 239.
+<https://doi.org/10.1504/IJMME.2010.037626>
+
+Lööw, J., Johansson, B., Andersson, E., & Johansson, J. (2019).
+*Designing ergonomic, safe, and attractive mining workplaces*. Taylor &
+Francis, a CRC title, part of the Taylor & Francis imprint, a member of
+the Taylor & Francis Group, the academic division of T&F Informa, plc.
+
+Morberg, M., Bergendahl, H., & Prevent. (2009). *Bättre arbetsmiljö.*
+Prevent.
+
+### Employment/working conditions {-}
+
+Åteg, M., Hedlund, A., Pontén, B., & Arbetslivsinstitutet. (2004).
+*Attraktivt arbete: Från anställdas uttalanden till skapandet av en
+modell*. Arbetslivsinstitutet.
+
+Johansson, B., & Johansson, J. (2014). 'The new attractive mine': 36
+research areas for attractive workplaces in future deep metal mining.
+*International Journal of Mining and Mineral Engineering*, *5*(4), 350.
+<https://doi.org/10.1504/IJMME.2014.066582>
+
+### Employee involvement and learning {-}
+
+Åteg, M., Hedlund, A., Pontén, B., & Arbetslivsinstitutet. (2004).
+*Attraktivt arbete: Från anställdas uttalanden till skapandet av en
+modell*. Arbetslivsinstitutet.
+
+Horberry, T., Burgess-Limerick, R., & Steiner, L. J. (2018).
+*Human-centered design for mining equipment and new technology*. Taylor
+& Francis, a CRC title, part of the Taylor & Francis imprint, a member
+of the Taylor & Francis Group, the academic division of T&F Informa,
+plc.
+
+Johansson, B., & Johansson, J. (2014). 'The new attractive mine': 36
+research areas for attractive workplaces in future deep metal mining.
+*International Journal of Mining and Mineral Engineering*, *5*(4), 350.
+<https://doi.org/10.1504/IJMME.2014.066582>
+
+Johansson, B., Johansson, J., & Abrahamsson, L. (2010). Attractive
+workplaces in the mine of the future: 26 statements. *International
+Journal of Mining and Mineral Engineering*, *2*(3), 239.
+<https://doi.org/10.1504/IJMME.2010.037626>
+
+Johansson, J., & Abrahamsson, L. (2009). The good work -- A Swedish
+trade union vision in the shadow of lean production. *Applied
+Ergonomics*, *40*(4), 775--780.
+<https://doi.org/10.1016/j.apergo.2008.08.001>
+
+### Social aspects {-}
+
+Abrahamsson, L., Johansson, B., & Johansson, J. (2009). Future of metal
+mining: Sixteen predictions. *International Journal of Mining and
+Mineral Engineering*, *1*(3), 304.
+<https://doi.org/10.1504/IJMME.2009.027259>
+
+### Social aspects: Gender equality {-}
+
+Abrahamsson, L., Johansson, B., & Johansson, J. (2009). Future of metal
+mining: Sixteen predictions. *International Journal of Mining and
+Mineral Engineering*, *1*(3), 304.
+<https://doi.org/10.1504/IJMME.2009.027259>
+
+### Environmental aspects {-}
+
+Abrahamsson, L., Johansson, B., & Johansson, J. (2009). Future of metal
+mining: Sixteen predictions. *International Journal of Mining and
+Mineral Engineering*, *1*(3), 304.
+<https://doi.org/10.1504/IJMME.2009.027259>
+

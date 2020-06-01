@@ -1,7 +1,7 @@
 # Attractive workplaces do not fit all# 
 
 ```{block, type='chap-auth'}
-`Joel Lööw`
+Joel Lööw
 ```
 
 Thus far, we have not gone too far into the theoretical foundations of attractive work. For large parts of this book, we believe such delving to be more than is needed to use and understand the advice we advance. Nevertheless, we would like to discuss some of the less intuitive parts of attractive work and what effects these parts have on designing attractive work in a wider perspective.
@@ -31,7 +31,7 @@ It all becomes more difficult when we consider that some aspects of attractivene
 Blauner (1964) studied textile and automobile workers. He found that both were *objectively* alienated.[^452] Only the automobile workers, however, were *subjectively* alienated. He argued that norms and values in the societies of the textile workers worked prevented subjective alienation.
 
 
-[^452]: According to Blauner (1964, 15), "Alienation exists when workers are unable to control their immediate work processes, to develop a sense of purpose and function which connects their jobs to the overall organization of production, \[and\] to belong to integrated industrial communities, and when they fail to become involved in the activity of work as a mode of personal self-expression."
+[^452]: According to Blauner (1964, 15), "Alienation exists when workers are unable to control their immediate work processes, to develop a sense of purpose and function which connects their jobs to the overall organization of production, [and] to belong to integrated industrial communities, and when they fail to become involved in the activity of work as a mode of personal self-expression."
 
 That is, not everything a worker might prefer is good, or things are not necessarily fine because they feel fine. There are other examples. Workers occasionally prefer piece-rate wages (due to the ability to earn extra money) and extended work-hours (due to the additional days off). However, much research shows that this approach can be bad for workers' health. Moreover, organization change is occasionally resisted, for example, when implementing measures for increased equality. That they are resisted does not necessarily mean that they are bad.
 
