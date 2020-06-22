@@ -1,10 +1,5 @@
 ---
 output_dir: "docs"
 delete_merged_file: true
-view: https://github.com/jloow/wp8-book/blob/master/%s
-edit: https://github.com/jloow/wp8-book/edit/master/%s
-history: https://github.com/jloow/wp8-book/commits/master/%s
-github-repo: jloow/wp8-book
-download: https://github.com/jloow/wp8-book/blob/master/docs/_main.pdf 
-sharing: null
+repo: jloow/wp8-book
 ---
