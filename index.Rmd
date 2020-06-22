@@ -19,7 +19,7 @@ output:
     includes:
       in_header: preamble.html
     config:
-      download: [pdf]
+      download: null
       view: https://github.com/jloow/wp8-book/blob/master/%s
       edit: https://github.com/jloow/wp8-book/edit/master/%s
       sharing:

@@ -1,5 +1,5 @@
 ---
 output_dir: "docs"
 delete_merged_file: true
-repo: jloow/wp8-book
+github-repo: jloow/wp8-book
 ---
