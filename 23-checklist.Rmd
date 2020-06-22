@@ -278,7 +278,7 @@ Are there procedures for searching for duds after blasting?
 
     - [ ] Adjustable seat height
     - [ ] Adjustable back support
-  - [ ] Adjustable arm rest height
+    - [ ] Adjustable arm rest height
 
 * Are the mining workplaces properly illuminated?
 
@@ -475,10 +475,10 @@ roles?
 
   * In what way?
 
-  - [ ] Public transportation
-  - [ ] Housing
-  - [ ] Infrastructure
-  - [ ] Other: ____________
+    - [ ] Public transportation
+    - [ ] Housing
+    - [ ] Infrastructure
+    - [ ] Other: ____________
 
 ## Social aspects: Gender equality {-}
 
@@ -499,7 +499,7 @@ roles?
 
 * Do the workplace facilities accommodate both men and women?
 
-      *(i.e., are there bathrooms and changing rooms for both?)*
+    *(i.e., are there bathrooms and changing rooms for both?)*
 
   - [ ] Yes
   - [ ] No

@@ -10,11 +10,11 @@ Unfortunately, there is no single accepted definition of what constitutes an att
 
 A general model for attractive work is presented by Åteg et al. (2004). In this model, three factors, covering 22 dimensions (see @tbl:table41), interact and contribute to the attractiveness of work. For a detailed description of the various dimensions, see chapter 3. In comparison with previous, similar models, Åteg et al. have added work satisfaction as a factor. This factor is especially important for keeping people at work, Åteg et al. argue.
 
- :  Work attractiveness {#tbl:table41}
+Table: Work attractiveness {#tbl:table41}
 
 +-----------------------------------+-----------------------------+-----------------------+
-| **Attractive working conditions** | **Attractive work content** | **Work satisfaction** |
-+-----------------------------------+-----------------------------+-----------------------+
+|   Attractive working conditions   |   Attractive work content   |   Work satisfaction   |
++===================================+=============================+=======================+
 | Adequate equipment and tools      | Work pace                   | Demand, need          |
 |                                   |                             |                       |
 | Working hours                     | Familiarity                 | Recognition           |
@@ -40,13 +40,13 @@ In another model, Hedlund (2007) states that a job is attractive for a person if
 
 Thus, an individual's relation to work, experience of work and wishes and expectations are important components that form the perception of work attractiveness, i.e., different people have varying opinions of the same job depending on their personal situation and preferences. In essence, the relative importance of each dimension in the model by Åteg et al. (2004) depends on the individual. Additionally, we argue that the weight of a dimension may even be negative, having the effect that an "objectively" attractive job may be perceived as unattractive.
 
-![The attractiveness of the mining industry illustrated](./media/04-attracting-young-people-to-the-mining-industry/media/image1.png){#fig:figure41}
+![The attractiveness of the mining industry illustrated](./media/04-attracting-young-people-to-the-mining-industry/media/image1.png){#fig:figure41 width=75%}
 
 
 
 In @fig:figure41, we have used Hedlund's (2007) model to illustrate a plausible present situation for the mining sector. The attractive section is quite small; the view from an internal position is more positive than is one from an external position. Thus, we argue that the mining industry needs to expand job attractiveness, both for external and internal viewers (@fig:figure42). As was shown in the above models, this expansion can be achieved in many ways. Essentially, present attractive qualities must be presented and not hidden away from applicants and potential staff. Unattractive or repelling job features must be eliminated or decreased.
 
-![The expanded attractiveness of the future mining industry](./media/04-attracting-young-people-to-the-mining-industry/media/image2.png){#fig:figure42}
+![The expanded attractiveness of the future mining industry](./media/04-attracting-young-people-to-the-mining-industry/media/image2.png){#fig:figure42 width=75%}
 
 
 

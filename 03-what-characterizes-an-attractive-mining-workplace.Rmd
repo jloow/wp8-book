@@ -6,7 +6,7 @@ Erik Sundström
 
 As mentioned in chapter 1, the mining industry has had difficulty with hiring people from younger generations and should therefore look for ways to improve the attractiveness of mining workplaces. However, it is not so easy to know what characterizes attractive mining work. We have chosen to use a general model that consists of 22 dimensions described by Åteg, Hedlund and Pontén (2004). In an effort to investigate whether and how these aspects of attractive work could be applied to mining workplaces, Lööw, Johansson, Andersson, & Johansson (2019) examined the 22 dimensions and their relation to the mining industry. Below is a list describing each of the dimensions; the list includes descriptions of how they are best fulfilled and how mining workplaces are affected by and can affect the attractiveness of the workplace.
 
-## Attractive working conditions
+## Attractive working conditions {-}
 
 -   *Adequate equipment and tools:* Modern equipment capable of providing good results efficiently and safely should be provided. Equipment should be designed to accommodate people of different sizes and with different needs.
 
@@ -58,7 +58,7 @@ As mentioned in chapter 1, the mining industry has had difficulty with hiring pe
 
     -   Working in extended shifts of 10-12 hours is common in the mining industry, but longer shifts increase the risk for accidents to occur. Thus, it should be avoided in favour of more standard working hours of approximately 8 hours per shift.
 
-## Attractive work content
+## Attractive work content {-}
 
 -   *Familiarity:* The employee should know what to do and what to expect in the workplace. This goal requires proper training, access to work instructions and an incentive to utilize that information.
 
@@ -97,7 +97,7 @@ As mentioned in chapter 1, the mining industry has had difficulty with hiring pe
 
     -   Since the work pace in mining is continuous around the clock, there are few calm periods outside of assigned breaks. Introducing autonomous or semi-autonomous machines to the mining workplace would allow for more opportunities for calmer periods during the work. As an example, mining vehicles could autonomously drive to their destination, allowing the operator a short break from active work. The operator could then take control during more complicated or critical tasks once the vehicle has arrived.
 
-## Work satisfaction
+## Work satisfaction {-}
 
 -   *A demand for the person:* Workplaces where the employees feel as though they are needed and that they perform important work are generally considered more attractive.
 

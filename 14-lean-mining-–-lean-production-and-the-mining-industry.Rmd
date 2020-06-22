@@ -10,7 +10,7 @@ We think that the mining industry could be helped by practising some variant of 
 
 You might have heard of terms such as "mean production". This term refers to very hard implementations of lean production, in which workers are treated similar to machines. However, there are other, "softer" variants of lean production. In these versions, workers are empowered alongside improving production. It is these versions that we want to introduce to the mining industry. Additionally, it seems that these versions may be the only ones that will work in mining.
 
-## What is lean production?
+## What is lean production? {-}
 
 To discuss lean production, we first need to understand what it is. Defining it is not easy. Many disagree about what parts actually constitute lean production. To paint our picture, instead at looking at one book or theory of lean production, we will depart from research that has tried to summarize the most salient points of most management studies on lean production. There are so many versions and few ways of telling which version is correct. Thus, we obtain a broader overview.[^802] 
 
@@ -48,7 +48,7 @@ The **integration of suppliers** means supporting suppliers in their effort in a
 
 The last principle is the **creative involvement of the workforce**. In many respects, this principle concerns avoiding the eighth waste, i.e., unused employee creativity. However, it also addresses developing and training the workforce and improving the working environment. Thus, work should be organized in multifunctional teams, with no one worker assigned to a single task. Instead, each member of a team should be capable of doing the tasks of the other team members, thus making the teams less sensitive to disruptions and allowing workers to rotate between tasks and develop their competences. Workforce problem solving is another part of creative workforce involvement. Kaizen, or continuous improvements, is a central concept reflecting the idea that organizations should continuously strive to improve on every last detail (e.g., to develop existing, stable and standardized processes in small steps). This approach has to be worker-driven; the workers possess the knowledge of the manufacturing process and its shortcomings.
 
-## Envisioning lean mining
+## Envisioning lean mining {-}
 
 What, then, might lean mining look like? It is not enough to "copy" lean production to mining (this approach usually leads to failed lean production implementations). Instead, we must find a form of lean production that is right for the mining industry. Moreover, we should not become too focussed on individual practices. This approach has been tried in the past, and it usually does not work. Therefore, we should look at the goals of lean production, and then the practices---*any* practices---that can achieve these goals.
 
@@ -76,7 +76,7 @@ We then have standardization. This idea might stand out, as we claimed standardi
 
 Finally, regarding supplier integration, many mining companies use contractors in their operations. We are thus not talking about suppliers in the traditional sense. However, we argue we should view contractors as suppliers. Moreover, it makes sense to integrate them into mining operations. Depending on what work the contractors perform, they may fill a very central role. (They may, for example, handle all transportation of ore in a mine.) We can then argue that supplier integration is absolutely necessary for mining operations to run smoothly. This point is particularly true for safety.
 
-## Lean mining and social management of technology
+## Lean mining and social management of technology {-}
 
 The last question that we must answer in this chapter is, How does lean mining relate to the social management of new technology? We have to answer this question in stages.
 

@@ -1,4 +1,4 @@
-# Investing in new technology: guidelines for how to do it right or to understand what went wrong# 
+# Investing in new technology: how to do it right or understand what went wrong 
 
 ```{block, type='chap-auth'}
 Lisa Öman Ekervhén and Camilla Grane
@@ -10,7 +10,7 @@ Although the intention (often) is good when introducing new technology in an org
 
 Based on research introduced in previous chapters (see for example Chapters 16,17 and 19) and on our experiences from the SIMS project and other similar projects, we have created a guideline consisting of questions that are good to consider before implementing new technology to attain acceptance. The questions are organized around the different aspects that they are supposed to consider.
 
-## Clear vision 
+## Clear vision  {-}
 
 -   What is the purpose of implementing the new technology?
 
@@ -22,7 +22,7 @@ Based on research introduced in previous chapters (see for example Chapters 16,1
 
 Of course, the purpose for implementing new technology should be known and well thought-out; however, a clear vision and intended goals should also be formulated, that is, written down (Beer 1988, read in Hughes, Ginnett, & Curphy, 2015). The vision and goals must also be communicated to all employees who are affected by the new technology. Hence, the organization must be able to justify and give a legitimate reason for implementing the technology. One also needs to think about how changes in one system can affect other parts of the organization. 
 
-## Perceived usefulness (Performance expectancy)
+## Perceived usefulness (Performance expectancy) {-}
 
 -   Will the new technology improve the quality of the work?
 
@@ -34,7 +34,7 @@ Of course, the purpose for implementing new technology should be known and well 
 
 The purpose for implementing new technology may of course vary; however, it is important to ensure that the workers see the usefulness of the technology to attain acceptance and increase actual use (e.g., Davis, 1993; Venkatesh, Morris, Davis, & Davis, 2003). 
 
-## Perceived ease of use (Effort expectancy)
+## Perceived ease of use (Effort expectancy) {-}
 
 -   Is the new technology easy to learn and remember how to use?
 
@@ -48,7 +48,7 @@ The purpose for implementing new technology may of course vary; however, it is i
 
 However, it is not enough that the users believe the technology to be useful; it will not be accepted unless they also believe the technology to be easy to use (e.g., Davis, 1993; Venkatesh et al., 2003). Consistent with human-centred design (see Chapter 19), it is therefore important that the design of the new technology is based on the needs and wants of the people who interact with it instead of having them accommodate the technology, as it can improve employee acceptance of workplace changes (Horberry, Burgess-Limerick, & Steiner, 2018). It is also important to consider and test the technology in its right context of use. Consider for example background noise, dirt, work situations, safety equipment and work clothes. For example, if the users are obliged to wear gloves, the technology should be possible to use with gloves. 
 
-## Inclusiveness
+## Inclusiveness {-}
 
 -   Can the new technology be used independent of size and strength?
 
@@ -60,7 +60,7 @@ However, it is not enough that the users believe the technology to be useful; it
 
 As an extension of usefulness, it is extremely important to take into account that people differ and the technology must therefore be inclusive, i.e., well suited for all workers irrespective of gender, age, and height, etc. (see also Chapter 19). Many workers also have common disabilities such as dyslexia or colour blindness that may interfere with their interaction with some systems. Additionally, there may be entrepreneurs or workers hired temporarily that do not speak the native language; it is important to ensure that they could still understand and use the technology and follow safety routines. Hence, ensure that the technique is suitable, comfortable and safe to use for more than just the average person.
 
-## Facilitating conditions/Perceived ability
+## Facilitating conditions/Perceived ability {-}
 
 -   Will the users have the resources necessary to use the system?
 
@@ -74,7 +74,7 @@ As an extension of usefulness, it is extremely important to take into account th
 
 Organizations can spend a great deal of money on developing and implementing new technology, but much less is spent on educating the personnel who will use it. It is therefore important to consider these types of questions at an early stage and to ensure that an organizational and technical infrastructure exists to support the use of the new technology (e.g., Venkatesh et al., 2003). 
 
-## Participation
+## Participation {-}
 
 -   How can the employees be involved in the decision to implement the new technology?
 
@@ -82,7 +82,7 @@ Organizations can spend a great deal of money on developing and implementing new
 
 A good approach to convincing the employees to accept changes in the organization is to let those who are affected by the change participate in the process (Hughes et al., 2015). Of course, it is not always possible for the employees to be involved in the decision, although they might be able to influence certain aspects within given frames. Employee representatives, for example the union, should also be part of the decision process. Employees could more easily be part of the implementation phase. For example, they could be part of writing instructions or decide on use strategies.
 
-## Social influence 
+## Social influence  {-}
 
 -   Are the employees positive towards using new technology?
 
@@ -92,7 +92,7 @@ A good approach to convincing the employees to accept changes in the organizatio
 
 The opinions of colleagues, managers, supervisors, family and friends are important when an individual user is forming an intention to use new technology. This point is especially true in mandatory settings, i.e., when using the technology is not optional (e.g., Venkatesh et al., 2003). The influence of others\' opinions tends to be highest in the early stages of experience with the technology before the individual has had time to form their own opinion. Additionally, workers are influenced by the management; therefore, managers must communicate support and believe in the system. In other words, acceptance of the technology must permeate the entire organization.
 
-## Implementation plan
+## Implementation plan {-}
 
 -   Is there a clear plan that clarifies *who, what, when, where* and *how* the implementation of the technology should take place?
 
@@ -100,7 +100,7 @@ The opinions of colleagues, managers, supervisors, family and friends are import
 
 A thorough plan increases the chances of a successful implementation. The plan should for example include timelines, key deliverables, and a description of who is responsible for what (Hughes et al., 2015). Because employees who are satisfied with the current situation are less willing to change, and because people often resist change, it might be a good idea to also include planned actions for how to handle possible resistance and increase dissatisfaction. It is important to ensure that the employees understand and see the value of the planned change. It is also important to ensure that the plan is clearly communicated to all affected parties in the organization. 
 
-## Perceived justice and fairness
+## Perceived justice and fairness {-}
 
 -   Are new technologies evenly distributed to all employees?
 
@@ -118,7 +118,7 @@ A thorough plan increases the chances of a successful implementation. The plan s
 
 The feeling of being treated fairly influences a wide range of emotional and behavioural reactions in the workplace (see Chapter 16). For the workplace to be perceived as fair and just, which enhances acceptance, it is of great importance to give thorough information about the process, ensure that the employees can voice their opinions and treat the employees with respect and empathy (e.g., Conte & Landy, 2018).
 
-## Trust
+## Trust {-}
 
 -   Is there an appropriate level of trust between colleagues?
 
@@ -132,7 +132,7 @@ The feeling of being treated fairly influences a wide range of emotional and beh
 
 Many barriers to acceptance of change can be structured under trust. Trust in management is a good predictor of lower levels of resistance to change. If the organization lacks, or has lost, the employees' trust, then resistance will be higher, and change will be more difficult to achieve. A further type of trust is workers\' trust in a technology. However, it is important that there is an appropriate level of trust, as over-trust or overreliance and distrust and under-trust can be damaging to work outcomes (Montague & Chiou, 2014). Over-trust can make the workers careless and complacent, while distrust among workers, or workers' distrust of technology, may lead to inappropriate or non-use of the technology (Montague & Chiou, 2014). It should be remembered that trust is difficult to build but easy to lose (Kramer, 1999). 
 
-## Privacy concerns (Intrusiveness)
+## Privacy concerns (Intrusiveness) {-}
 
 -   Is there any risk that the new technology or information that it collects can be perceived as intrusive?
 

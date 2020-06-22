@@ -26,7 +26,7 @@ Today\'s technology also makes it possible to collect other types of information
 
 Doubtlessly, this capability is a great advantage, but what do the workers think about such technology? In a safety critical situation, this type of human tracking might be accepted by the workers, but the information could also be misused. As can be read in chapter 15, one must be aware that these kinds of systems are a threat against personal integrity and must therefore be handled with care. According to Zweig and Webster (2002), there is a growing acknowledgement that technologies that track presence and activity lead to privacy concerns. Hence, when implementing such technology, psychological aspects must be taken under consideration.
 
-## Important psychological aspects to consider
+## Important psychological aspects to consider {-}
 
 Privacy can be defined as the extent to which individuals believe they have control over their personal information and interactions with others (Stone & Stone, 1990). The individual perceiving a loss of such control can lead to a perception of invasion of privacy. Privacy concerns are one of the most consistent reactions to awareness systems (e.g., Zweig & Webster, 2002). Hence, positioning technology and human sensors can lead to the feeling of lost control if not restricted and handled properly. Based on research and findings from the SIMS project and other related projects, we will now briefly exemplify some psychological aspects that are important to consider to avoid violating privacy and to create acceptance for techniques that collect personal data.
 

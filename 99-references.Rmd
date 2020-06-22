@@ -141,7 +141,7 @@ Requirements, operations, and challenges. *IEEE Potentials*, *33*(2),
 Kagerman, H., W. Wahlster and J. Helbig. 2013. Recommendations for
 Implementing the Strategic Initiative Industry 4.0. München: Acatech.
 
-Lööw J., Johansson B., Andersson E. and Johansson J. (2019), *Designing
+Lööw J., Johansson B., Andersson E. and Johansson J. (2019), *Designing
 Ergonomic, Safe, and Attractive Mining Workplaces*. New York: CRC Press,
 Taylor & Francis.
 

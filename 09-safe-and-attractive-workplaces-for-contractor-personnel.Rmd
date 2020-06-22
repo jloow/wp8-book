@@ -8,11 +8,11 @@ It is common practice in the contemporary mining industry to hire contractors to
 
 In a literature review of research on safety at multiemployer worksites, Nygren et al. (2017) propose that several key concepts and terms can be found and divided into three overlapping categories (@tbl:tablex).
 
- : Examples of key concepts and terms (Nygren et al., 2017) {#tbl:tablex}
+ Table: Examples of key concepts and terms (Nygren et al., 2017) {#tbl:tablex}
 
 +--------------------------------------------------+--------------------------------------------+------------------------------------------------------+
-| **Category**                                     | **Key concepts and terms**                 |                                                      |
-+--------------------------------------------------+--------------------------------------------+------------------------------------------------------+
+| Category                                         | Key concepts and terms                     |                                                      |
++==================================================+============================================+======================================================+
 | Contract work characteristics                    | -   High workload                          | -   Time constraints                                 |
 |                                                  |                                            |                                                      |
 |                                                  | -   Insufficient training                  | -   Temporary and/or peripheral work                 |
@@ -32,8 +32,6 @@ In a literature review of research on safety at multiemployer worksites, Nygren 
 |                                                  | -   Culture of independence                |                                                      |
 |                                                  |                                            |                                                      |
 |                                                  | -   Differing norms and values             |                                                      |
-+--------------------------------------------------+--------------------------------------------+------------------------------------------------------+
-|                                                  |                                            |                                                      |
 +--------------------------------------------------+--------------------------------------------+------------------------------------------------------+
 
 As seen, research on the subject mainly highlights the safety-related problems that arise when contractors are hired, rather than the benefits that multiemployer arrangements may bring. Consistent with Mayhew et al (1997), Nygren et al. (2017) argue that many of the problems can be connected to two main factors:

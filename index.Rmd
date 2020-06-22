@@ -1,19 +1,16 @@
 ---
 title: "A Guide to the Social Management of New Technology"
-author:
-  - Joel Lööw
-  - Jan Johansson
+author: |
+  | Joel Lööw & Jan Johansson
+  |
+  | *Editors*
 date: "`r Sys.Date()`"
-# General settings 
-#bibliography: references.bib
-#link-citations: true
-# csl: https://www.zotero.org/styles/springer-basic-brackets-no-et-al?source=1
-# csl: https://www.zotero.org/styles/springer-basic-note?source=1
 
 # LaTeX settings
 documentclass: scrbook
 indent: true
 fontfamily: libertine
+fontsize: 12pt
 
 # Output settings
 output:
@@ -22,14 +19,14 @@ output:
     includes:
       in_header: preamble.html
   bookdown::pdf_book:
-    latex_engine: xelatex
-    pandoc_args: [ '--filter', 'pandoc-crossref', '--reference-links', '--reference-location=block']
+    #latex_engine: xelatex
+    keep_tex: true
+    pandoc_args: [ '--filter', 'pandoc-crossref', '--reference-links', '--reference-location=block', '--toc-depth=1', '--top-level-division=chapter']
     includes:
       in_header: preamble.tex
 ---
 
 # Preface {-}
-
 
 This book is a product of the [SIMS (Sustainable Intelligent Mining
 Systems)](http://simsmining.eu) project, which is funded by the European
@@ -49,7 +46,7 @@ have an important role in the social acceptance of the new technology.
 ## About the authors {-}
 
 Jan Johansson
-  ~  project manager for the SIMS subproject Attractive Workplaces, is a
+  ~ is project manager for the SIMS subproject Attractive Workplaces, is a
 professor of Human Work Science at Luleå University of Technology (LTU)
 in Sweden.  
 
@@ -87,9 +84,12 @@ Erik Sundström
 
 # Introduction {-}
 
+\markboth{A Guide to the Social Management of New Technology}{Introduction}
+\pagestyle{myheadings}
+
 ```{block, type='chap-auth'} 
 
-Joel Lööw and Jan Johansson, Editors
+Joel Lööw and Jan Johansson (Editors)
 
 ```
 
@@ -143,3 +143,8 @@ In chapter 20, Iterative design of mining workplaces, we describe a circular met
 In chapter 21, More research is needed, we present a research agenda that focusses on attracting and keeping skilled personnel in a future high-tech mining industry.
 
 In chapter 22, Checklist for safe and attractive mining workplaces, we summarize our results in a practical checklist. There are many aspects, issues and questions that must be considered and addressed to achieve safe and attractive mining workplaces. This checklist aims to help highlight potential areas of improvement in a mining workplace that could make it a safer and more attractive workplace, without presenting in-depth solutions that may limit the decision-making process.
+
+\clearpage
+\pagestyle{headings}
+\automark[chapter]{chapter}
+\lehead{A Guide to the Social Management of New Technology}

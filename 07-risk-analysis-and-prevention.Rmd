@@ -20,95 +20,17 @@ The basis for all activities in systematic health and safety work should always 
 
 Mining might develop in a revolutionary way, but it will most likely develop in another way, in an evolutionary way. In other words, much can be learned from history and from the present state. Thorough evaluations of present and historic designs have for example systematically been used by the Swedish mining company LKAB in the design of their newest main level at 1365 m below the surface. This evaluation has been very important, since the time span from the first conceptual designs to the final solutions has stretched over 12 years and many planners.
 
-Risk assessments can be performed in number of ways, depending on the situation and circumstances. All risk assessment should however be based on probability and consequences of unwanted events. A practical tool for this purpose is a risk matrix that eases a systematic and consequent risk assessment; see @tbl:tablea
+Risk assessments can be performed in number of ways, depending on the situation and circumstances. All risk assessment should however be based on probability and consequences of unwanted events. A practical tool for this purpose is a risk matrix that eases a systematic and consequent risk assessment; see @fig:tablea
 
- : Risk matrix based on probability and consequences {#tbl:tablea}
+![Risk matrix based on probability and consequences.](./media/tab-matrix.png){#fig:tablea}
 
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-|                   |                 |               |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-| Very common       | **R3**          | **R4**        | **R5**           | **R5**          | **R5**                            |
-|                   |                 |               |                  |                 |                                   |
-| \- 1/week         |                 |               |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-| Common            | **R2**          | **R3**        | **R4**           | **R5**          | **R5**                            |
-|                   |                 |               |                  |                 |                                   |
-| \- 1/month        |                 |               |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-| Relatively common | **R2**          | **R3**        | **R3**           | **R4**          | **R5**                            |
-|                   |                 |               |                  |                 |                                   |
-| \- 1/år           |                 |               |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-| Quite unusual     | **R1**          | **R2**        | **R3**           | **R3**          | **R4**                            |
-|                   |                 |               |                  |                 |                                   |
-| \- 1/10 år        |                 |               |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-| Not probable      | **R1**          | **R1**        | **R2**           | **R2**          | **R3**                            |
-|                   |                 |               |                  |                 |                                   |
-| \- 1/100 år       |                 |               |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-| **Probability**   |                 |               |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
-| **Consequence**   | Some discomfort | Injury but no | Short sick leave | Long sick leave | Permanent serious injury or death |
-|                   |                 |               |                  |                 |                                   |
-|                   | but harmless    | sick leave    |                  |                 |                                   |
-+-------------------+-----------------+---------------+------------------+-----------------+-----------------------------------+
+As seen in @fig:tablea, probability is expressed as a frequency for a specific event or deviation. During planning, the assessed risk level can also be coupled to a specified need for action; see @fig:tableb
 
-As seen in @tbl:tablea, probability is expressed as a frequency for a specific event or deviation. During planning, the assessed risk level can also be coupled to a specified need for action; see @tbl:tableb
+![Risk level and need for action during planning.](./media/risk-level-planning.png){#fig:tableb}
 
- : Risk level and need for action during planning {#tbl:tableb}
+The risk matrix for risk assessments during planning can also, with some modification, be used for risk assessments in the operative production stages (@fig:tablec). The risk matrix has therefore become a quite well known and used tool in mining companies.
 
-+-----------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **Risk level**              | **Need for action during planning**                                                                                              |
-+-----------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **R1**                      | There is no need for any redesign of the basic concept.                                                                          |
-|                             |                                                                                                                                  |
-| Low risk -- negligible risk |                                                                                                                                  |
-+-----------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **R2**                      | A limited redesign of the basic concept might not be needed.                                                                     |
-|                             |                                                                                                                                  |
-| Small risk                  |                                                                                                                                  |
-+-----------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **R3**                      | A thorough redesign of the basic concept is recommended for parts related to identified risks.                                   |
-|                             |                                                                                                                                  |
-| Average risk -- high risk   |                                                                                                                                  |
-+-----------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **R4**                      | A redesign of major parts of the basic concept is necessary to reach a less than average risk.                                   |
-|                             |                                                                                                                                  |
-| Severe risk                 |                                                                                                                                  |
-+-----------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **R5**                      | Any further development of the design concept is not permitted until the identified risk is reduced to a less than average risk. |
-|                             |                                                                                                                                  |
-| Very severe risk            |                                                                                                                                  |
-+-----------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-
-The risk matrix for risk assessments during planning can also, with some modification, be used for risk assessments in the operative production stages (@tbl:tablec). The risk matrix has therefore become a quite well known and used tool in mining companies.
-
- : Risk level and need for action during production {#tbl:tablec}
-
-+-----------------------------+---------------------------------------------------------------------+
-| **Risk level**              | **Need for action during production**                               |
-+-----------------------------+---------------------------------------------------------------------+
-| **R1**                      | There is no need for action.                                        |
-|                             |                                                                     |
-| Low risk -- negligible risk |                                                                     |
-+-----------------------------+---------------------------------------------------------------------+
-| **R2**                      | Action might not be needed within months.                           |
-|                             |                                                                     |
-| Small risk                  |                                                                     |
-+-----------------------------+---------------------------------------------------------------------+
-| **R3**                      | Reasonable risk reduction needed within a week.                     |
-|                             |                                                                     |
-| Average risk -- high risk   |                                                                     |
-+-----------------------------+---------------------------------------------------------------------+
-| **R4**                      | Prompt action is necessary within hours.                            |
-|                             |                                                                     |
-| Severe risk                 |                                                                     |
-+-----------------------------+---------------------------------------------------------------------+
-| **R5**                      | Work is not permitted until risk is reduced to an acceptable level. |
-|                             |                                                                     |
-| Very severe risk            |                                                                     |
-+-----------------------------+---------------------------------------------------------------------+
+![Risk level and need for action during production.](./media/risk-level-production.png){#fig:tablec}
 
 The classical tools for the identification of occupational risks in the existing production environments are safety rounds, incident reporting and accident reporting. These tools are however less suitable to identify and assess risks in future work environments. These environments require other types of more proactive methods such as the following:
 

@@ -1,4 +1,4 @@
-# Acceptance of new technology -- the most prominent theories# 
+# Acceptance of new technology -- the most prominent theories 
 
 ```{block, type='chap-auth'}
 Lisa Öman Ekervhén and Camilla Grane
@@ -25,7 +25,7 @@ The first factor, *attitude towards the behaviour*, refers to "the degree to whi
 
 Let us suppose that an organization implements new technology and wants to predict whether the employees will use and accept the technology. Acceptance will then, according to the theory, depend on the employees' own attitudes towards the technology, the perception of prominent others' attitude towards the technology and the perception of technology usefulness and behavioural control. The theory of planned behaviour is suggested to be applicable to several workplace issues and situations. Although the theory does not offer a complete explanation for the link between attitudes and behaviour, it highlights some important factors that need to be considered when for example wanting to predict the acceptance of new technology (Arnold & Randall, 2016). 
 
-## The Technology Acceptance Model (TAM)
+## The Technology Acceptance Model (TAM) {-}
 
 The theory of planned behaviour (Ajzen & Fishbein, 1980, read in Ajzen, 1991) provides a model of what factors influence our intentions to use a system and actual use of the system, i.e., the person\'s behaviour. Researchers have studied this phenomenon further and, among other things, delved into what creates our attitudes towards behaviour, that is, what makes us positive or negative about using a system from the beginning. Davis (1993) has developed a theory called the technology acceptance model (TAM), in which he focusses on systems and their effects on use behaviour. Since the model has a system focus, it uses the terms *attitude to use* and *actual use* instead of attitude to behaviour and behaviour. Davis (1993) suggests that there are two main factors, related to the system, that influence the attitudes towards using and actual use of a system. These two factors are the user's perceived usefulness of a system (*perceived usefulness*) and the experience of how easy the system is to use (*perceived ease of use*). The technology acceptance model, with its factors and interconnections of the factors, is shown in @fig:figure162. To understand the model, we need to understand the two influencing factors better. 
 
@@ -41,7 +41,7 @@ As a summary, when purchasing a new system, it is first and foremost important t
 
 [^65]: Icons from Noun project designed by Strokeicon, A. Uddin, G. Cresnar, M. Polakovic, and Corpus delicti.
 
-## Unified Theory of Acceptance and Use of Technology (UTAUT)
+## Unified Theory of Acceptance and Use of Technology (UTAUT) {-}
 
 There are many models that attempt to determine what factors affect information technology acceptance among users. Based on eight such prominent models, including the previously described TPB and TAM, Venkatesh and colleagues (2003) presented a unified model, called the unified theory of acceptance and use of technology (UTAUT). The model has been found to explain 70% of the variance in user intention (Venkatesh et al., 2003) and 50% of that in technology use (Venkatesh, Thong, & Xu, 2012). According to UTAUT, four constructs are direct determinants of user acceptance and usage behaviour: *performance expectancy, effort expectancy, social influence*, and *facilitating conditions* (see @fig:figure163). The four constructs are briefly described below.
 
@@ -64,7 +64,7 @@ The UTAUT also consists of four moderating factors: gender, age, experience and 
 
 Since this model was introduced, it has been used extensively by researchers when trying to explain the acceptance and use of technology. Although the model has been successful, newer research has found that these constructs and moderators are not always applicable to all contexts, and some crucial constructs may be excluded (Dwivedi, Rana, Jeyaraj, Clement, & Williams, 2019). Many studies have not utilized the moderating factors (Venkatesh et al., 2012); one explanation might be that there may not be any variation in the moderators (Dwivedi et al., 2019). As an example, the organization might have decided that the use of the technology is mandatory, which makes the moderator voluntariness not applicable. Dwivedi and colleagues (2019) further argue that the UTAUT model is missing one important aspect, namely, the individual perspective. Attitudes, an individual's positive or negative feelings about performing the target behaviour, play an important role in accepting technology, as suggested in the TPB model. They found that attitude had a central role in an individual's intention to use the technology and that it also had a direct effect on usage behaviour. Therefore, it is proposed that attitude should be an integral part of the UTAUT model in the future. 
 
-## Beer's theory of organizational change 
+## Beer's theory of organizational change  {-}
 
 Implementing new technology also often means an organizational change. Acceptance of new technology is therefore somewhat linked to the success of the organizational change. Unfortunately, approximately 70% of initiated changes fail (e.g., Burnes, 2011). It is therefore of great value to have an effective approach for organizational change. A rational approach to change is Beer's theory of organizational change (Beer 1988, read in Hughes, Ginnett, & Curphy, 2015). This model includes many of the issues raised by other researchers in the field and highlights what is important for leaders in organizations to consider if they want to be successful with their change effort. The model can be used as a road map when wanting to implement an organizational change and as a diagnostic tool to determine what went wrong if an investment failed to meet its promises (Hughes et al., 2015). Beer has proposed a formula for organizational change, as seen in @fig:figure164.
 
@@ -86,11 +86,11 @@ The ***P*** symbolizes the **process**, which consists of the development and ex
 
 This model suggests that it is possible for the organization to increase the amount of change by considering different aspects. The level of change can be increased by increasing the level of dissatisfaction with the current situation by communicating the importance and value of the change, presenting a clear vision, developing a well thought-out plan for the change, or by decreasing the employees' level of resistance. However, as seen in @fig:figure164, the model is multiplicative, which means that none of the factors can be null if change is about to occur. For example, it does not matter how well thought-out the change plan is or how clear the vision is if there is no dissatisfaction, i.e., the employees are satisfied with the current situation. On the other hand, if there is dissatisfaction with the current situation but there is no plan, then little change will occur. Hence, the model both explains why a change could fail and how to avoid a failure.
 
-## The importance of fairness, justice and trust in the workplace
+## The importance of fairness, justice and trust in the workplace {-}
 
 More general psychological concepts that affect emotional and behavioural reactions to the work environment are the perception of fairness, justice and trust in the workplace. The different concepts will be briefly explained below and related to the context of implementing new technology.
 
-### Perception of justice and fairness
+### Perception of justice and fairness {-}
 
 Humans are highly motivated to strive for justice and have a strong need to feel that they are being treated fairly. These needs are so strong that they have a significant effect in the workplace. Perceptions of justice have been found to affect, for example, job performance, respect for leaders, trust in the organization, thoughts of quitting and tendency to file lawsuits (Conte & Landy, 2018). There are various types of justice in the workplace; the most frequently discussed are *distributive justice, procedural justice*, and *interactional justice* (see @fig:figure165).
 
@@ -109,7 +109,7 @@ The feeling of being treated fairly influences a wide range of emotional and beh
 
 [^928]: Icons from Noun project designed by A. Coquet, D. Kunze, J. Pictos, and S. Wauters.
 
-### Trust
+### Trust {-}
 
 Many barriers to acceptance of change can be structured under *trust*. Trust is a psychological state, i.e., more an expectation than a reality (Conte & Landy, 2018). In a broad context, trust means a belief about how a person or an organization will act on some future occasion which is based upon previous interactions with that person or organization (Conte & Landy, 2018). There are different types of trust. Three types that are relevant in this context are *interpersonal trust*, *organizational trust* and *technological trust* (Montague & Chiou, 2014, see @fig:figure166)*.* Interpersonal trust concerns trust between persons, for example, an employer's belief that he or she can trust another person at work, e.g., a colleague (Anderson & Dedrick, 1990). Organizational trust is the belief that the supervisors and the organization can be trusted (Mayer, Davis, & Schoorman, 1995). These two types of trust have been found to be especially important when implementing technical systems that collect personal information. To accept such technology, the employees must trust that the people who have access to the information (which can be both colleagues and management) will handle it with care and not misuse the information (see also Chapter 17 for a discussion on this topic). Further, trust in management is a good predictor of lower levels of resistance to change. If the organization lacks, or has lost, the employees' trust, then resistance will be higher, and change will be more difficult to achieve. Technological trust refers to workers\' trust in a technology (Timmons, Harrison-Paul, & Crosbie, 2008). Concerning trust in technology, it is especially important that there is an appropriate level of trust (Montague & Chiou, 2014). Over-trust or overreliance in the technology and distrust and under-trust can be damaging to work outcomes (@fig:figure166). Over-trust in technology can make the workers careless and complacent. For example, the use of positioning technology can make the control room workers rely too heavily on the technology and hence not have a backup plan for a manual rescue operation in case of power failure. On the other hand, distrust among workers, or workers' distrust of technology, may lead to inappropriate or non-use of the technology (Montague & Chiou, 2014). If workers are required to use technologies that they do not trust, they might create ways to avoid using the technology, which can lead to errors. One such example can be that the workers do not trust the use of the positioning technology and therefore resist wearing the tag and hence remove it, which may lead to devastating consequences in case of a fire or when blasting.
 

@@ -4,13 +4,13 @@
 Erik Sundström, Lena Abrahamsson, Joel Lööw and Jan Johansson
 ```
 
-## Industry 4.0
+## Industry 4.0 {-}
 
 *Industry 4.0* is a strategy that was shaped by the German government in 2013. Industry 4.0 is described as the next great industrial revolution. After the steam engine, electricity and electronics, the revolution consists of an implementation of "Internet of Things, Humans and Services", where the entire production process is included in internet-based networks that transform ordinary factories into *smart* factories (Kagerman et al 2013). Similar concepts have appeared all over the world. The Chinese government promotes a similar idea under the name *Made in China 2025*, the Japanese government has launched *Society 5.0*, and the Swedish government uses the term *Smart Industry*.
 
 Additionally, the German vision paints a bright picture of the future industry in which virtual and physical worlds will be linked into a powerful 'whole' through the integration of software; from product development and production, machines will not only do 'physical work' but also perform calculations. This approach is described as cyber-physical systems, or even socio-cyber-physical systems; smart ventilation, smart logistics, smart maintenance, smart machines and other smart systems continuously exchange information with each other and with human workers. The German strategy highlights the potential for skill development and a richer working life with more challenging work tasks.
 
-## Mining 4.0
+## Mining 4.0 {-}
 
 Industry 4.0 will also come to affect the mining industry. In fact, some mines have taken important steps towards the digitalized mine of the future. Gradually, the mining industry approaches more closely the visions of Industry 4.0, fully automated mines and more-technologically sophisticated ore processing facilities. Analogous to the application of Industry 4.0 in a mining context, we conceptualize Mining 4.0 as a mining operation where the miner is an expert who ensures that production runs smoothly. A Mining 4.0 operator is not confined to a control room. Instead, real-time process data and the status of machines follow the miners as they move around the mine. The miner solves problems on the spot by remotely interacting with other operators, experts, suppliers and customers in multicompetent teams. Production control could even be done in a digital model (or "digital twin") far away from the factory. In short, Mining 4.0 envisions an augmented miner with senses and memory extended through technology. This technology takes advantage of and supports human skills and increases situational awareness through sensors embedded in the clothes of the operator, for example, while maintaining an uninterrupted operational vigilance.
 
